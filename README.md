@@ -6,5 +6,5 @@ I’m an Enthusiastic Software Developer with 10+ years of experience and I real
 
 💬 Ask me about Software Development 🤓, Web technologies 🌐 and music 🎧
 
-📫 Reach me at [@emaraschio](https://twitter.com/emaraschio) or visit my [Website](https://maraschio.com/)
+📫 Reach me at [@emaraschio](https://twitter.com/emaraschio) or through my [Website](https://maraschio.com/)
 
