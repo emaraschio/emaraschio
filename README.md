@@ -9,6 +9,6 @@ Web Development, Agile Methodologies, Online Advertising, Product Development, S
 ![Ezequiel Maraschio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emaraschio&theme=dark&count_private=true&show_icons=true&hide=contribs)
 
 
-### 📫 Reach me
+### 📫 Contact
 
-[![Twitter](https://img.shields.io/twitter/follow/emaraschio?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/emaraschio) [![Website](https://img.shields.io/badge/-Website-lightgrey?style=for-the-badge)](https://maraschio.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/emaraschio/) [![Twitter](https://img.shields.io/twitter/follow/emaraschio?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/emaraschio) [![ezequiel.maraschio@gmail.com](https://img.shields.io/static/v1?label=Mail&message=%20&color=red&logo=gmail&style=for-the-badge&logoColor=white)](ezequiel.maraschio@gmail.com) [![Website](https://img.shields.io/badge/-Website-lightgrey?style=for-the-badge)](https://maraschio.com/)
