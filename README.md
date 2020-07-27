@@ -6,11 +6,11 @@ I’m a Senior Software Engineer with 12+ years of experience and I really enjoy
 
 Web Development, Agile Methodologies, Online Advertising, Product Development, Software Architecture
 
-### 📫 Reach me at 
+### 📫 Reach me
 
 - [@emaraschio](https://twitter.com/emaraschio)
 - [Website](https://maraschio.com/)
 
-### GitGub stats
+### GitHub stats
 
 ![Ezequiel Maraschio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emaraschio&theme=dark&count_private=true&show_icons=true&hide=contribs)
