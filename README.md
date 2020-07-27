@@ -11,6 +11,4 @@ Web Development, Agile Methodologies, Online Advertising, Product Development, S
 
 ### 📫 Reach me
 
-[![Twitter](https://img.shields.io/twitter/follow/emaraschio?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/emaraschio)
-
-[![Website](https://img.shields.io/badge/-Website-lightgrey?style=for-the-badge)](https://maraschio.com/)
+[![Twitter](https://img.shields.io/twitter/follow/emaraschio?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/emaraschio) [![Website](https://img.shields.io/badge/-Website-lightgrey?style=for-the-badge)](https://maraschio.com/)
