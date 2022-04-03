@@ -4,7 +4,7 @@ I’m a Senior Software Engineer with 15+ years of experience and I really enjoy
 
 ## 🧰 Skills
 
-Web Development, Agile Methodologies, Online Advertising, Product Development, Software Architecture
+Web Development, Software Architecture, Agile Methodologies, Health Care, Online Advertising
 
 ## 📫 Contact
 
