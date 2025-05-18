@@ -12,4 +12,4 @@ Basically, I'm all about:
 
 Started out coding, and now I’m leading teams, always pushing for great outcomes. Been lucky to lead in different industries, solving problems and building strong engineering groups, I like getting involved and value both good tech and teamwork. I think working together is key to achieving a lot.
 
-Always up for connecting with others in tech to share stories and see what's next. Drop me an [email](mailto:e@maraschio.com) anytime!
+Always up for connecting with others in tech to share stories and see what's next. Drop me a [message](mailto:e@maraschio.com) anytime!
