@@ -1,5 +1,7 @@
 “A mind is like a parachute. It doesn’t work if it is not open.” - Frank Zappa.-
 
+Ezequiel Maraschio - Senior Engineering Manager at Circle Medical. I build teams that ship healthcare products patients and providers depend on.
+
 With 18+ years of experience, I've evolved from a Senior Software Engineer to a results-driven Senior Engineering Manager. At Circle Medical, I grew the engineering team from 5 to over 30 members while helping facilitate 200% year-on-year revenue growth. I thrive on creating impactful solutions, mentoring engineers, and driving strategic projects.
 
 What I bring to a team:
