@@ -1,16 +1,18 @@
-“A mind is like a parachute. It doesn’t work if it is not open.” - Frank Zappa.-
+"A mind is like a parachute. It doesn't work if it is not open." - Frank Zappa.-
 
-Ezequiel Maraschio - Senior Engineering Manager at Circle Medical. I build teams that ship healthcare products patients and providers depend on.
+Ezequiel Maraschio — Director of Engineering at Circle Medical. I build teams that ship healthcare products patients and providers depend on.
 
-With 18+ years of experience, I've evolved from a Senior Software Engineer to a results-driven Senior Engineering Manager. At Circle Medical, I grew the engineering team from 5 to over 30 members while helping facilitate 200% year-on-year revenue growth. I thrive on creating impactful solutions, mentoring engineers, and driving strategic projects.
+I've been writing or leading software for 19+ years — roughly half as an engineer, half leading engineers. At Circle Medical I'm currently the only management layer between fifteen engineers and our CTO, with five pods under my care: activation & acquisition, clinical workflows, revenue cycle management, operations automation, and data & infrastructure. I helped grow Circle's engineering team from five to a peak of 30+ during a stretch of 200% year-on-year revenue growth, and then led the team through the harder, quieter work of rightsizing into the focused shape we run today. Both arcs are part of the job.
 
-What I bring to a team:
-- Scaling engineering organizations — hiring, developing, and retaining high-performing engineers.
-- Calm, steady leadership during volatility — keeping teams focused and productive under pressure.
-- Technical strategy that directly drives business and clinical outcomes.
-- Fast, high-signal decisions that unblock teams and avoid dead ends.
-- Hands-on engineering depth in Ruby on Rails, TypeScript, React, GraphQL, and cloud infrastructure.
+What I care about at work:
+- Org design under real constraints — flat structures, pod-based delivery, hiring and retention without a blank check.
+- Operational rigor — DORA, OKRs, and incident response as the connective tissue between strategy and shipping.
+- Engineering in regulated healthcare — HIPAA, clinical safety, and patient experience as first-class concerns, not afterthoughts.
+- AI as leverage, not theater — internal LLM tooling and agentic workflows judged by outcomes, not vibes.
+- Decisions that unblock — one clear call with stated trade-offs beats consensus theater every time.
 
-I started as a developer in Buenos Aires and spent over a decade shipping products across ad-tech, fintech, and SaaS. At Thirty Madison, I worked with 100+ engineers building healthcare platforms for Keeps, Cove, and Evens. At Circle Medical, I moved from Senior Engineer to Senior Engineering Manager, leading projects like the Secure Messaging System, a Revenue Cycle Management pipeline overhaul, and the evolution of our cloud infrastructure and observability stack. My hands-on approach ensures technical excellence and fosters a collaborative environment where people can do their best work.
+I started as a developer in Buenos Aires and spent more than a decade across ad-tech, fintech, and SaaS before landing in healthcare. At Thirty Madison I worked alongside 100+ engineers on a portfolio of telehealth brands (Keeps, Cove, Evens). At Circle Medical I've progressed from Senior Engineer to Senior Engineering Manager to Director, working on the Secure Messaging System, our Revenue Cycle Management pipeline, cloud infrastructure modernization, and the AI engineering practice we're building now. Hands-on with Ruby on Rails, TypeScript, React, GraphQL, AWS, and the modern LLM toolchain (Anthropic, OpenAI, agentic frameworks).
+
+I do all of this from Buenos Aires, where I live with my family. Outside of work: a father, an obsessive reader of tech books and manga, and a believer that the best teams are built on trust, clarity, and a healthy sense of humor.
 
 I'm always open to connecting with others in tech to exchange ideas and explore what's next. Drop me a [message](mailto:e@maraschio.com) anytime
