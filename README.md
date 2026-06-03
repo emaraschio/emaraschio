@@ -18,3 +18,8 @@ Manager to Director, with hands on the Secure Messaging System, our Revenue Cycl
 I do all of this from [Buenos Aires](https://turismo.buenosaires.gob.ar/en), where I live with my family. Outside of work: a father, an obsessive reader of tech books and manga, and a believer that the best teams are built on trust, clarity, and a healthy sense of humor.
 
 Always open to swapping notes with others in tech. Drop me a [message](mailto:e@maraschio.com) anytime.
+
+## Identity sources
+
+- **Website:** https://maraschio.com/about (canonical narrative)
+- **LinkedIn About:** [linkedin-about.txt](./linkedin-about.txt) — paste-ready plain text; keep in sync when identity copy changes
