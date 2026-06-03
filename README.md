@@ -2,8 +2,7 @@
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
 
-19+ years in software, split roughly down the middle between writing code and leading the people who write it. At Circle I'm the only management layer between fifteen engineers and our CTO, owning five pods: activation & acquisition, clinical workflows, revenue cycle management, operations automation, and data & infrastructure. I helped grow engineering from five to a peak of 30+ during the scale-up to ~$80M ARR, then led
-the team through the harder, quieter work of rightsizing into the focused shape we run today. Both arcs are part of the job.
+19+ years in software, split roughly down the middle between writing code and leading the people who write it. At Circle I'm the only management layer between fifteen engineers and our CTO, owning five pods: activation & acquisition, clinical workflows, revenue cycle management, operations automation, and data & infrastructure. I helped grow Circle's engineering team from five people to a peak of 30+ during the scale-up to ~$80M ARR, then led the team through the harder, quieter work of rightsizing into the focused shape we run today. Both arcs are part of the job.
 
 **What I care about at work:**
 
