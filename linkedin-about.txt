@@ -1,5 +1,6 @@
 # LinkedIn About, paste-ready (plain text)
 # Canonical source: maraschio.com/src/components/About.astro
+# Last verified against About.astro: 2026-06-13
 # Limit: 2600 characters (body below header excluded from count)
 
 "A mind is like a parachute. It doesn't work if it is not open." - Frank Zappa.
