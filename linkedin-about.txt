@@ -1,7 +1,7 @@
 # LinkedIn About, paste-ready (plain text)
 # Canonical source: maraschio.com/src/components/About.astro
 # Last verified against About.astro: 2026-09-12
-# Last verified live LinkedIn UI (headline, About, Experience, Open to Work): 2026-09-12
+# Last verified live LinkedIn UI (headline, About, Experience): 2026-10-10. Open to Work not re-checked.
 # Limit: 2600 characters (body below header excluded from count)
 
 "A mind is like a parachute. It doesn't work if it is not open." - Frank Zappa.
@@ -17,8 +17,8 @@ What I care about at work:
 • AI as leverage, not theater: internal LLM tooling and agentic workflows judged by outcomes, not vibes.
 • Decisions that unblock: one clear call with stated trade-offs beats consensus theater every time.
 
-I started as a developer in Buenos Aires and spent more than a decade across ad-tech, fintech, and SaaS before landing in healthcare. At Thirty Madison I worked alongside 100+ engineers on a portfolio of telehealth brands. At Circle I've grown from Senior Engineer to Senior Engineering Manager to Director, working on the Secure Messaging System, our Revenue Cycle Management pipeline, cloud infrastructure modernization, and the AI engineering practice we're building now. Day-to-day stack: Ruby on Rails, TypeScript, React, GraphQL, AWS, and the modern LLM toolchain (Anthropic, OpenAI, agentic frameworks).
+I started as a developer in Buenos Aires and spent more than a decade across ad-tech, fintech, and SaaS before landing in healthcare. At Thirty Madison I worked alongside 100+ engineers on a portfolio of telehealth brands. At Circle I've grown from Senior Engineer to Engineering Manager, Senior Engineering Manager, and Director, working on the Secure Messaging System, our Revenue Cycle Management pipeline, cloud infrastructure modernization, and the AI engineering practice we're building now. Day-to-day stack: Ruby on Rails, TypeScript, React, GraphQL, AWS, and the modern LLM toolchain (Anthropic, OpenAI, agentic frameworks).
 
 I do all of this from Buenos Aires, where I live with my family. Outside of work: a father, an obsessive reader of tech books and manga, and a believer that the best teams are built on trust, clarity, and a healthy sense of humor.
 
-Always open to swapping notes with others in tech. Drop me a message anytime.
+Always open to swapping notes with others in tech. My writing on AI in regulated engineering teams is at maraschio.com/writing/. Drop me a message anytime.
