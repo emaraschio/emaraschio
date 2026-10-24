@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Put this week's banner at the top of README.md.
+"""Put the current banner at the top of README.md.
 
-The banners are listed in banners/banners.json. Week 0 starts on Monday
-2026-10-26 and each Monday moves to the next banner, wrapping after the last,
-so the order never jumps at a year boundary.
+The banners are listed in banners/banners.json, in rotation order. Day 0 is
+2026-10-24 and the banner moves on every PERIOD_DAYS days, wrapping after the
+last, so the order never jumps at a month or year boundary.
 
     python3 scripts/rotate_banner.py               # today (UTC)
     python3 scripts/rotate_banner.py --date 2027-01-04
@@ -21,8 +21,9 @@ ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 BANNERS = ROOT / "banners"
 MANIFEST = BANNERS / "banners.json"
-EPOCH = dt.date(2026, 10, 19)  # a Monday
-START = "<!-- banner:start (set weekly by .github/workflows/rotate-banner.yml) -->"
+EPOCH = dt.date(2026, 10, 24)
+PERIOD_DAYS = 2
+START = "<!-- banner:start (rotated every other day by .github/workflows/rotate-banner.yml) -->"
 END = "<!-- banner:end -->"
 
 
@@ -30,16 +31,23 @@ def load() -> list:
     items = json.loads(MANIFEST.read_text())
     if not items:
         sys.exit("banners.json is empty")
+    seen = set()
     for item in items:
+        if item["file"] in seen:
+            sys.exit(f"banners.json lists banners/{item['file']} twice")
+        seen.add(item["file"])
         if not (BANNERS / item["file"]).is_file():
             sys.exit(f"banners.json names a missing file: banners/{item['file']}")
         if not item.get("alt", "").strip():
             sys.exit(f"banners/{item['file']} has no alt text")
+    on_disk = {str(p.relative_to(BANNERS)) for p in BANNERS.rglob("*.webp")}
+    if on_disk - seen:
+        sys.exit(f"images not in banners.json: {', '.join(sorted(on_disk - seen))}")
     return items
 
 
 def pick(items: list, day: dt.date) -> dict:
-    return items[((day - EPOCH).days // 7) % len(items)]
+    return items[((day - EPOCH).days // PERIOD_DAYS) % len(items)]
 
 
 def block(item: dict) -> str:

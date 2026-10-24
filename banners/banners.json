@@ -1,52 +1,278 @@
 [
   {
-    "file": "01-bridge.webp",
+    "file": "night/01-bridge.webp",
+    "style": "night",
     "theme": "Bridging engineering and the business",
     "alt": "Painted night scene of an iron footbridge lit by small lamps, crossing a still river from an old brick quarter to glass towers, under a full moon."
   },
   {
-    "file": "02-harness.webp",
+    "file": "woodblock/01-heron.webp",
+    "style": "woodblock",
+    "theme": "Watches without fidgeting",
+    "alt": "Woodblock print of a grey heron standing still among reeds at sunrise, its reflection unbroken, mountains on the horizon."
+  },
+  {
+    "file": "watercolor/01-sundial.webp",
+    "style": "watercolor",
+    "theme": "Steady rituals",
+    "alt": "Watercolor of a stone sundial in a dewy garden at sunrise, a cottage and a lake beyond."
+  },
+  {
+    "file": "poster/01-loupe.webp",
+    "style": "poster",
+    "theme": "Verifies before he asserts",
+    "alt": "Screenprint poster of a jeweler's loupe beside an open pocket watch showing its gears, under a work lamp."
+  },
+  {
+    "file": "night/02-harness.webp",
+    "style": "night",
     "theme": "Harnesses over heroics",
     "alt": "Painted night scene of a climber high on a granite wall, clipped into a line of glowing anchors, with a belayer below and a lit valley far beneath."
   },
   {
-    "file": "03-library.webp",
+    "file": "woodblock/02-pillar.webp",
+    "style": "woodblock",
+    "theme": "Looks for the evidence that would prove him wrong",
+    "alt": "Woodblock print of a stone pillar standing in curling waves off a fishing village, waterlines marked on its side."
+  },
+  {
+    "file": "watercolor/02-seedling.webp",
+    "style": "watercolor",
+    "theme": "Learns constantly",
+    "alt": "Watercolor of a seedling growing from the top of a stack of books on a sunny windowsill above a hill town."
+  },
+  {
+    "file": "poster/02-ratchet.webp",
+    "style": "poster",
+    "theme": "Every correction becomes a guardrail",
+    "alt": "Screenprint poster of a giant ratchet gear and pawl on a hilltop against a rising sun over a river valley."
+  },
+  {
+    "file": "night/03-library.webp",
+    "style": "night",
     "theme": "Learning as a craft",
     "alt": "Painted night scene of a home library with shelves of technical books and manga, a leather armchair, a cat asleep on a cushion, and a desk lamp by a window over a city."
   },
   {
-    "file": "04-city.webp",
+    "file": "woodblock/03-scarecrow.webp",
+    "style": "woodblock",
+    "theme": "Market noise is weather",
+    "alt": "Woodblock print of a straw scarecrow in a wide hat standing upright in a rice field while rain and wind bend the stalks."
+  },
+  {
+    "file": "watercolor/03-oak.webp",
+    "style": "watercolor",
+    "theme": "Thinks in years, not days",
+    "alt": "Watercolor of an oak sapling growing from cracked stone steps, the hills behind passing from spring to winter."
+  },
+  {
+    "file": "poster/03-lever.webp",
+    "style": "poster",
+    "theme": "AI as leverage",
+    "alt": "Screenprint poster of a long lever on a small fulcrum lifting a huge boulder on a hilltop."
+  },
+  {
+    "file": "night/04-city.webp",
+    "style": "night",
     "theme": "Systems thinking, rooted at home",
     "alt": "Painted aerial view of a city at night, its avenues glowing like circuit traces around an obelisk, with a wide river along one edge."
   },
   {
-    "file": "05-greenhouse.webp",
+    "file": "woodblock/04-three-paths.webp",
+    "style": "woodblock",
+    "theme": "Options with their trade-offs",
+    "alt": "Woodblock print of a cedar forest where a path splits three ways, each lit by a stone lantern, toward three hills."
+  },
+  {
+    "file": "watercolor/04-tall-tree.webp",
+    "style": "watercolor",
+    "theme": "Chooses where to concentrate",
+    "alt": "Watercolor of one tall tree on a hillside catching the first light, a misty forest in the valley below."
+  },
+  {
+    "file": "poster/04-lighthouse.webp",
+    "style": "poster",
+    "theme": "Every position needs a written reason",
+    "alt": "Screenprint poster of an open logbook and an oil lamp by a window, a lighthouse sweeping its beam over the sea at dusk."
+  },
+  {
+    "file": "night/05-greenhouse.webp",
+    "style": "night",
     "theme": "Growing engineers",
     "alt": "Painted night scene inside a greenhouse, rows of seedlings under hanging lamps, taller plants leaning over the newest shoots, a moonlit lake beyond the glass."
   },
   {
-    "file": "06-orchestra.webp",
+    "file": "woodblock/05-logbook.webp",
+    "style": "woodblock",
+    "theme": "Decisions outlive the meeting",
+    "alt": "Woodblock print of a blank open logbook and a brass compass on a ship's deck, great waves and a distant mountain beyond."
+  },
+  {
+    "file": "watercolor/05-seasons.webp",
+    "style": "watercolor",
+    "theme": "A career is a lifetime, not a ladder",
+    "alt": "Watercolor of a footpath winding through spring, summer, autumn and winter hills, a wooden ladder lying unused in the grass."
+  },
+  {
+    "file": "poster/05-door.webp",
+    "style": "poster",
+    "theme": "Conviction opens the door",
+    "alt": "Screenprint poster of a garden wall with a wide-open wooden door onto sunny fields beside a chained iron gate."
+  },
+  {
+    "file": "night/06-orchestra.webp",
+    "style": "night",
     "theme": "Coordinating the pods",
     "alt": "Painted night scene of an empty concert stage, orchestra instruments resting at lit music stands around an empty conductor's podium."
   },
   {
-    "file": "07-lantern.webp",
+    "file": "woodblock/06-baton.webp",
+    "style": "woodblock",
+    "theme": "Ownership goes to the people closest to the work",
+    "alt": "Woodblock print of one hand passing a glowing baton to another above a winding road and a rising sun."
+  },
+  {
+    "file": "watercolor/06-garden.webp",
+    "style": "watercolor",
+    "theme": "Recognition is a system",
+    "alt": "Watercolor of a vegetable garden at sunrise where a drip line waters every row, not only the plant in the light."
+  },
+  {
+    "file": "poster/06-signal.webp",
+    "style": "poster",
+    "theme": "When unsure, he stops instead of guessing",
+    "alt": "Screenprint poster of a railway signal set to stop beside an empty track running to a sunset horizon."
+  },
+  {
+    "file": "night/07-lantern.webp",
+    "style": "night",
     "theme": "AI as leverage",
     "alt": "Painted scene of a single paper lantern lighting brass gears inside a vast, dark clockwork hall."
   },
   {
-    "file": "08-heartbeat.webp",
+    "file": "woodblock/07-terraces.webp",
+    "style": "woodblock",
+    "theme": "Conway's law as a planning tool",
+    "alt": "Woodblock print of rice terraces on a mountainside, water flowing from one terrace to the next, a farmhouse at the top."
+  },
+  {
+    "file": "watercolor/07-seed-jars.webp",
+    "style": "watercolor",
+    "theme": "Maybe later was a feature",
+    "alt": "Watercolor of pantry shelves of jars of saved seeds and beans, a freshly turned garden outside the window."
+  },
+  {
+    "file": "poster/07-wind-tunnel.webp",
+    "style": "poster",
+    "theme": "Eval harnesses before agents",
+    "alt": "Screenprint poster of a paper airplane held in a wind tunnel, smoke streamlines flowing around it toward a big fan."
+  },
+  {
+    "file": "night/08-heartbeat.webp",
+    "style": "night",
     "theme": "Healthcare tech as dependable infrastructure",
     "alt": "Painted night landscape where a glowing heartbeat line in the sky turns into a power line that runs to a village of lit stone houses."
   },
   {
-    "file": "09-handoff.webp",
+    "file": "woodblock/08-cardon.webp",
+    "style": "woodblock",
+    "theme": "Five days in the north",
+    "alt": "Woodblock print of tall cardón cacti beside a mountain road winding through fog at dusk, a pale moon above."
+  },
+  {
+    "file": "watercolor/08-memo.webp",
+    "style": "watercolor",
+    "theme": "Write the memo before the meeting",
+    "alt": "Watercolor of a desk with a sealed letter under a stone and a fountain pen, an empty meeting table through the doorway."
+  },
+  {
+    "file": "poster/08-bandoneon.webp",
+    "style": "poster",
+    "theme": "Twenty years is nothing",
+    "alt": "Screenprint poster of a bandoneon on a café chair on a cobblestone corner, streetlamps and balconies along a tree-lined avenue."
+  },
+  {
+    "file": "night/09-handoff.webp",
+    "style": "night",
     "theme": "Handoffs across time zones",
     "alt": "Painted river at dusk turning to night, paper boats on stepping stones passing a small light from one boat to the next."
   },
   {
-    "file": "10-storm.webp",
+    "file": "woodblock/09-rider.webp",
+    "style": "woodblock",
+    "theme": "The centaur era",
+    "alt": "Woodblock print of a rider in a wide hat and a horse galloping as one across a windswept plain."
+  },
+  {
+    "file": "watercolor/09-towers.webp",
+    "style": "watercolor",
+    "theme": "Hire people better than you",
+    "alt": "Watercolor of an old stone tower beside a taller new tower in scaffolding, above a harbor town at sunrise."
+  },
+  {
+    "file": "poster/09-lantern-web.webp",
+    "style": "poster",
+    "theme": "The peer-to-peer web survived as paint",
+    "alt": "Screenprint poster of houses on rolling hills at twilight, each with a lantern, linked by strings of light."
+  },
+  {
+    "file": "night/10-storm.webp",
+    "style": "night",
     "theme": "Steady decisions in a crisis",
     "alt": "Painted scene of a lone tree with a lantern on a calm island, while a storm drawn in swirling ink lines circles at a distance."
+  },
+  {
+    "file": "woodblock/10-go-board.webp",
+    "style": "woodblock",
+    "theme": "Resolved by absence",
+    "alt": "Woodblock print of a go game left mid-play on a veranda, two empty cushions, maple leaves drifted across the board."
+  },
+  {
+    "file": "watercolor/10-dam.webp",
+    "style": "watercolor",
+    "theme": "Bad news does not age well",
+    "alt": "Watercolor of a lantern set beside a small crack in an old stone dam, a calm green valley below."
+  },
+  {
+    "file": "poster/10-tightrope.webp",
+    "style": "poster",
+    "theme": "Change failure rate is a risk budget",
+    "alt": "Screenprint poster of a tightrope between two striped towers with a safety net below holding three juggling balls."
+  },
+  {
+    "file": "woodblock/11-frozen-lake.webp",
+    "style": "woodblock",
+    "theme": "Cognitive debt is the quiet one",
+    "alt": "Woodblock print of a snowy lake under a full moon, fine cracks spreading quietly across the ice."
+  },
+  {
+    "file": "watercolor/11-latch.webp",
+    "style": "watercolor",
+    "theme": "A rule nothing checks is a wish",
+    "alt": "Watercolor of dandelion seeds blowing across a meadow beside a garden gate held shut by a latch and padlock."
+  },
+  {
+    "file": "poster/11-dry-dock.webp",
+    "style": "poster",
+    "theme": "Blameless postmortems with teeth",
+    "alt": "Screenprint poster of a ship in dry dock under floodlights, scaffolding along its hull, cranes and a harbor beyond."
+  },
+  {
+    "file": "woodblock/12-two-lanterns.webp",
+    "style": "woodblock",
+    "theme": "Review is a conversation",
+    "alt": "Woodblock print of two stone lanterns on opposite banks of a river at dusk, their light reaching across the water."
+  },
+  {
+    "file": "watercolor/12-foundation.webp",
+    "style": "watercolor",
+    "theme": "Compliance is a design input",
+    "alt": "Watercolor of a timber house frame standing on a finished stone foundation, a village and lake at sunrise beyond."
+  },
+  {
+    "file": "poster/12-fence.webp",
+    "style": "poster",
+    "theme": "The guard that cannot fail",
+    "alt": "Screenprint poster of a lantern on the ground lighting the one gap in a long wooden fence across a misty meadow."
   }
 ]

@@ -2,7 +2,7 @@ name: Rotate banner
 
 on:
   schedule:
-    - cron: "17 6 * * 1" # Mondays 06:17 UTC (03:17 in Buenos Aires)
+    - cron: "17 6 * * *" # daily 06:17 UTC (03:17 in Buenos Aires); the script moves on every other day
   workflow_dispatch:
 
 permissions:
@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - name: Set this week's banner
+      - name: Set the current banner
         run: python3 scripts/rotate_banner.py
       - name: Commit if it changed
         run: |
@@ -26,7 +26,7 @@ jobs:
             echo "Banner unchanged"
             exit 0
           fi
-          banner=$(grep -o 'banners/[0-9a-z-]*\.webp' README.md | head -1)
+          banner=$(grep -o 'banners/[0-9a-z/-]*\.webp' README.md | head -1)
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
