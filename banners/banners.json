@@ -1,0 +1,52 @@
+[
+  {
+    "file": "01-bridge.webp",
+    "theme": "Bridging engineering and the business",
+    "alt": "Painted night scene of an iron footbridge lit by small lamps, crossing a still river from an old brick quarter to glass towers, under a full moon."
+  },
+  {
+    "file": "02-harness.webp",
+    "theme": "Harnesses over heroics",
+    "alt": "Painted night scene of a climber high on a granite wall, clipped into a line of glowing anchors, with a belayer below and a lit valley far beneath."
+  },
+  {
+    "file": "03-library.webp",
+    "theme": "Learning as a craft",
+    "alt": "Painted night scene of a home library with shelves of technical books and manga, a leather armchair, a cat asleep on a cushion, and a desk lamp by a window over a city."
+  },
+  {
+    "file": "04-city.webp",
+    "theme": "Systems thinking, rooted at home",
+    "alt": "Painted aerial view of a city at night, its avenues glowing like circuit traces around an obelisk, with a wide river along one edge."
+  },
+  {
+    "file": "05-greenhouse.webp",
+    "theme": "Growing engineers",
+    "alt": "Painted night scene inside a greenhouse, rows of seedlings under hanging lamps, taller plants leaning over the newest shoots, a moonlit lake beyond the glass."
+  },
+  {
+    "file": "06-orchestra.webp",
+    "theme": "Coordinating the pods",
+    "alt": "Painted night scene of an empty concert stage, orchestra instruments resting at lit music stands around an empty conductor's podium."
+  },
+  {
+    "file": "07-lantern.webp",
+    "theme": "AI as leverage",
+    "alt": "Painted scene of a single paper lantern lighting brass gears inside a vast, dark clockwork hall."
+  },
+  {
+    "file": "08-heartbeat.webp",
+    "theme": "Healthcare tech as dependable infrastructure",
+    "alt": "Painted night landscape where a glowing heartbeat line in the sky turns into a power line that runs to a village of lit stone houses."
+  },
+  {
+    "file": "09-handoff.webp",
+    "theme": "Handoffs across time zones",
+    "alt": "Painted river at dusk turning to night, paper boats on stepping stones passing a small light from one boat to the next."
+  },
+  {
+    "file": "10-storm.webp",
+    "theme": "Steady decisions in a crisis",
+    "alt": "Painted scene of a lone tree with a lantern on a calm island, while a storm drawn in swirling ink lines circles at a distance."
+  }
+]

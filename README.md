@@ -1,3 +1,7 @@
+<!-- banner:start (set weekly by .github/workflows/rotate-banner.yml) -->
+<img src="banners/01-bridge.webp" alt="Painted night scene of an iron footbridge lit by small lamps, crossing a still river from an old brick quarter to glass towers, under a full moon." width="100%">
+<!-- banner:end -->
+
 > "A mind is like a parachute. It doesn't work if it is not open." - Frank Zappa
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
