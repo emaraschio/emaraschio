@@ -24,6 +24,18 @@
     "alt": "Screenprint poster of a jeweler's loupe beside an open pocket watch showing its gears, under a work lamp."
   },
   {
+    "file": "blueprint/01-queues.webp",
+    "style": "blueprint",
+    "theme": "Async queues and flow",
+    "alt": "Blueprint drawing of a sorting hall where parcels ride conveyor belts between stations and wait on buffer shelves."
+  },
+  {
+    "file": "papercut/01-campfires.webp",
+    "style": "papercut",
+    "theme": "Scaling a team",
+    "alt": "Papercut diorama of a single campfire on one side of a river valley and a village ringed with many campfires on the other."
+  },
+  {
     "file": "night/02-harness.webp",
     "style": "night",
     "theme": "Harnesses over heroics",
@@ -46,6 +58,18 @@
     "style": "poster",
     "theme": "Every correction becomes a guardrail",
     "alt": "Screenprint poster of a giant ratchet gear and pawl on a hilltop against a rising sun over a river valley."
+  },
+  {
+    "file": "blueprint/02-integration.webp",
+    "style": "blueprint",
+    "theme": "Third-party integrations",
+    "alt": "Blueprint drawing of two railway lines of different gauges joined by a precise set of switches at a station."
+  },
+  {
+    "file": "papercut/02-bonsai.webp",
+    "style": "papercut",
+    "theme": "Rightsizing without losing delivery",
+    "alt": "Papercut diorama of a pruned bonsai on a low table, the cut branches and shears laid beside it, a lake beyond."
   },
   {
     "file": "night/03-library.webp",
@@ -72,6 +96,18 @@
     "alt": "Screenprint poster of a long lever on a small fulcrum lifting a huge boulder on a hilltop."
   },
   {
+    "file": "blueprint/03-hive.webp",
+    "style": "blueprint",
+    "theme": "High-traffic data",
+    "alt": "Blueprint cutaway of a beehive, bees streaming in and out past thousands of orderly hexagonal cells."
+  },
+  {
+    "file": "papercut/03-mosaic.webp",
+    "style": "papercut",
+    "theme": "Hiring for a whole picture",
+    "alt": "Papercut diorama of a mosaic of a sunrise over hills taking shape on a wall, a tray of new tiles waiting."
+  },
+  {
     "file": "night/04-city.webp",
     "style": "night",
     "theme": "Systems thinking, rooted at home",
@@ -94,6 +130,18 @@
     "style": "poster",
     "theme": "Every position needs a written reason",
     "alt": "Screenprint poster of an open logbook and an oil lamp by a window, a lighthouse sweeping its beam over the sea at dusk."
+  },
+  {
+    "file": "blueprint/04-aqueduct.webp",
+    "style": "blueprint",
+    "theme": "Modernizing infrastructure without stopping the flow",
+    "alt": "Blueprint drawing of an old stone aqueduct with a new pipeline running alongside it across a valley."
+  },
+  {
+    "file": "papercut/04-trellis.webp",
+    "style": "papercut",
+    "theme": "Mentoring and growth",
+    "alt": "Papercut diorama of climbing roses at different heights, each guided up its own wooden trellis."
   },
   {
     "file": "night/05-greenhouse.webp",
@@ -120,6 +168,18 @@
     "alt": "Screenprint poster of a garden wall with a wide-open wooden door onto sunny fields beside a chained iron gate."
   },
   {
+    "file": "blueprint/05-weather.webp",
+    "style": "blueprint",
+    "theme": "Observability",
+    "alt": "Blueprint drawing of weather instruments and an observatory on a ridge, a storm rolling in over the valley."
+  },
+  {
+    "file": "papercut/05-flotilla.webp",
+    "style": "papercut",
+    "theme": "Pod-based delivery",
+    "alt": "Papercut diorama of five small sailboats with different colored sails crossing a bay toward a lighthouse harbor."
+  },
+  {
     "file": "night/06-orchestra.webp",
     "style": "night",
     "theme": "Coordinating the pods",
@@ -142,6 +202,18 @@
     "style": "poster",
     "theme": "When unsure, he stops instead of guessing",
     "alt": "Screenprint poster of a railway signal set to stop beside an empty track running to a sunset horizon."
+  },
+  {
+    "file": "blueprint/06-fire-station.webp",
+    "style": "blueprint",
+    "theme": "Runbooks and incident readiness",
+    "alt": "Blueprint drawing of a fire station at rest, the engine facing the open doors and hose reels coiled and ready."
+  },
+  {
+    "file": "papercut/06-stone-pine.webp",
+    "style": "papercut",
+    "theme": "A flat organization",
+    "alt": "Papercut diorama of a broad umbrella pine whose wide canopy shades a whole meadow of wildflowers."
   },
   {
     "file": "night/07-lantern.webp",
@@ -168,6 +240,18 @@
     "alt": "Screenprint poster of a paper airplane held in a wind tunnel, smoke streamlines flowing around it toward a big fan."
   },
   {
+    "file": "blueprint/07-vault.webp",
+    "style": "blueprint",
+    "theme": "Security and privacy by design",
+    "alt": "Blueprint drawing of an open round vault door with its ring of steel bolts and gears, an orderly room behind it."
+  },
+  {
+    "file": "papercut/07-sunflowers.webp",
+    "style": "papercut",
+    "theme": "OKRs and alignment",
+    "alt": "Papercut diorama of a sunflower field on rolling hills, every flower turned toward the same sun."
+  },
+  {
     "file": "night/08-heartbeat.webp",
     "style": "night",
     "theme": "Healthcare tech as dependable infrastructure",
@@ -190,6 +274,18 @@
     "style": "poster",
     "theme": "Twenty years is nothing",
     "alt": "Screenprint poster of a bandoneon on a café chair on a cobblestone corner, streetlamps and balconies along a tree-lined avenue."
+  },
+  {
+    "file": "blueprint/08-canal-lock.webp",
+    "style": "blueprint",
+    "theme": "Human-gated writes",
+    "alt": "Blueprint cross-section of a canal lock, a boat waiting in the chamber between two gates holding the water at two levels."
+  },
+  {
+    "file": "papercut/08-signpost.webp",
+    "style": "papercut",
+    "theme": "Decisions that unblock",
+    "alt": "Papercut diorama of a crossroads signpost with one arrow painted ochre, carts already moving down that road."
   },
   {
     "file": "night/09-handoff.webp",
@@ -216,6 +312,18 @@
     "alt": "Screenprint poster of houses on rolling hills at twilight, each with a lantern, linked by strings of light."
   },
   {
+    "file": "blueprint/09-balance.webp",
+    "style": "blueprint",
+    "theme": "Evals and judges",
+    "alt": "Blueprint drawing of a laboratory balance beside a row of calibration weights from largest to smallest."
+  },
+  {
+    "file": "papercut/09-globe.webp",
+    "style": "papercut",
+    "theme": "Leading across time zones",
+    "alt": "Papercut diorama of a globe half in day and half in night, glowing threads linking cities around it."
+  },
+  {
     "file": "night/10-storm.webp",
     "style": "night",
     "theme": "Steady decisions in a crisis",
@@ -240,6 +348,18 @@
     "alt": "Screenprint poster of a tightrope between two striped towers with a safety net below holding three juggling balls."
   },
   {
+    "file": "blueprint/10-joinery.webp",
+    "style": "blueprint",
+    "theme": "Clean interfaces",
+    "alt": "Blueprint exploded view of dovetail, mortise and tenon and finger joints, each shown apart and then fitted together."
+  },
+  {
+    "file": "papercut/10-balloon.webp",
+    "style": "papercut",
+    "theme": "Calm in an incident",
+    "alt": "Papercut diorama of a hot-air balloon floating level above a sea of dark storm clouds at sunrise."
+  },
+  {
     "file": "woodblock/11-frozen-lake.webp",
     "style": "woodblock",
     "theme": "Cognitive debt is the quiet one",
@@ -258,6 +378,18 @@
     "alt": "Screenprint poster of a ship in dry dock under floodlights, scaffolding along its hull, cranes and a harbor beyond."
   },
   {
+    "file": "blueprint/11-pigeon.webp",
+    "style": "blueprint",
+    "theme": "Secure messaging",
+    "alt": "Blueprint drawing of a carrier pigeon with a sealed capsule flying a dotted path from one loft to another over rooftops."
+  },
+  {
+    "file": "papercut/11-kintsugi.webp",
+    "style": "papercut",
+    "theme": "Learning from failure",
+    "alt": "Papercut diorama of bowls and a vase mended with gold seams on a shelf, a garden through a round window."
+  },
+  {
     "file": "woodblock/12-two-lanterns.webp",
     "style": "woodblock",
     "theme": "Review is a conversation",
@@ -274,5 +406,17 @@
     "style": "poster",
     "theme": "The guard that cannot fail",
     "alt": "Screenprint poster of a lantern on the ground lighting the one gap in a long wooden fence across a misty meadow."
+  },
+  {
+    "file": "blueprint/12-tubes.webp",
+    "style": "blueprint",
+    "theme": "Small, frequent delivery",
+    "alt": "Blueprint cutaway of a building threaded with pneumatic tubes, capsules travelling between floors."
+  },
+  {
+    "file": "papercut/12-windmill.webp",
+    "style": "papercut",
+    "theme": "Product and engineering in mesh",
+    "alt": "Papercut diorama of a windmill in cutaway, a large and a small gear meshing to turn the millstone among wheat fields."
   }
 ]
