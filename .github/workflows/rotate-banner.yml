@@ -1,4 +1,4 @@
-name: Rotate banner
+name: Rotate banner and quote
 
 on:
   schedule:
@@ -25,15 +25,23 @@ jobs:
       - uses: actions/checkout@v7
       - name: Set the current banner
         run: python3 scripts/rotate_banner.py
+      - name: Set the current quote
+        run: python3 scripts/rotate_quote.py
       - name: Commit if it changed
         run: |
           if git diff --quiet -- README.md; then
-            echo "Banner unchanged"
+            echo "Banner and quote unchanged"
             exit 0
           fi
-          banner=$(grep -o 'banners/[0-9a-z/-]*\.webp' README.md | head -1)
+          banner=$(git diff -U0 -- README.md | grep -o '^+<img src="banners/[0-9a-z/-]*\.webp' | grep -o 'banners/.*' | head -1)
+          if [ -n "$banner" ]; then
+            msg="docs(banner): rotate to ${banner#banners/} and the quote"
+            git diff -U0 -- README.md | grep -q '^+> "' || msg="docs(banner): rotate to ${banner#banners/}"
+          else
+            msg="docs(quote): rotate the daily quote"
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "docs(banner): rotate to ${banner#banners/}"
+          git commit -m "$msg"
           git push

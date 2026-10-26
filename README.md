@@ -2,7 +2,9 @@
 <img src="banners/woodblock/01-heron.webp" alt="Woodblock print of a grey heron standing still among reeds at sunrise, its reflection unbroken, mountains on the horizon." width="100%">
 <!-- banner:end -->
 
-> "A mind is like a parachute. It doesn't work if it is not open." - Frank Zappa
+<!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
+> "A strong model makes a disciplined team faster and a sloppy team more dangerous." - [Culture is the constraint, not the model](https://maraschio.com/writing/culture-is-the-constraint-not-the-model/)
+<!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
 

@@ -1,0 +1,392 @@
+[
+  {
+    "text": "A strong model makes a disciplined team faster and a sloppy team more dangerous.",
+    "source": "Culture is the constraint, not the model",
+    "url": "https://maraschio.com/writing/culture-is-the-constraint-not-the-model/",
+    "own": true
+  },
+  {
+    "text": "You need to always start with the plan unless the change is trivial, and then iterate over the plan.",
+    "own": true
+  },
+  {
+    "text": "Ugly tools with metrics beat beautiful tools with anecdotes.",
+    "source": "AI judged by outcomes, not demos",
+    "url": "https://maraschio.com/writing/ai-judged-by-outcomes-not-demos/",
+    "own": true
+  },
+  {
+    "text": "A complex system that works is invariably found to have evolved from a simple system that worked.",
+    "author": "John Gall",
+    "source": "Systemantics (1975)"
+  },
+  {
+    "text": "Autonomy without a handshake is not speed.",
+    "source": "Approve is not execute",
+    "url": "https://maraschio.com/writing/approve-is-not-execute/",
+    "own": true
+  },
+  {
+    "text": "The first thing is you need to be in full control of the plans.",
+    "own": true
+  },
+  {
+    "text": "Feedback you act on silently looks identical to feedback you ignored.",
+    "source": "Ask for feedback that bites",
+    "url": "https://maraschio.com/writing/ask-for-feedback-that-bites/",
+    "own": true
+  },
+  {
+    "text": "Let the agent run where the work is reversible and verifiable.",
+    "source": "Ask mode versus agent mode",
+    "url": "https://maraschio.com/writing/ask-mode-versus-agent-mode/",
+    "own": true
+  },
+  {
+    "text": "Adding manpower to a late software project makes it later.",
+    "author": "Fred Brooks",
+    "source": "The Mythical Man-Month (1975)"
+  },
+  {
+    "text": "In my opinion, the new software engineering is about the harness. It's about developing these tools.",
+    "own": true
+  },
+  {
+    "text": "Say the bad news the moment you believe it, before you have a fix.",
+    "source": "Bad news does not age well",
+    "url": "https://maraschio.com/writing/bad-news-does-not-age-well/",
+    "own": true
+  },
+  {
+    "text": "Blameless and ownerless are not the same thing.",
+    "source": "Blameless postmortems with teeth",
+    "url": "https://maraschio.com/writing/blameless-postmortems-with-teeth/",
+    "own": true
+  },
+  {
+    "text": "The part that is gone is writing code by hand.",
+    "own": true
+  },
+  {
+    "text": "That's the part that is fully gone, and I don't think it will come back.",
+    "own": true
+  },
+  {
+    "text": "Build versus buy is a false binary; the third option, integrate, is often the right one.",
+    "source": "Build, buy, or integrate",
+    "url": "https://maraschio.com/writing/build-buy-or-integrate/",
+    "own": true
+  },
+  {
+    "text": "Program testing can be used to show the presence of bugs, but never to show their absence!",
+    "author": "Edsger W. Dijkstra",
+    "source": "Notes on Structured Programming (1970)",
+    "url": "https://www.cs.utexas.edu/~EWD/ewd02xx/EWD249.PDF"
+  },
+  {
+    "text": "AI is very good at producing code that survives recognition and collapses under recall.",
+    "source": "Cognitive debt is the quiet one",
+    "url": "https://maraschio.com/writing/cognitive-debt-is-the-quiet-one/",
+    "own": true
+  },
+  {
+    "text": "Nobody has ever refactored a system by memo.",
+    "source": "Conway's law is a planning tool",
+    "url": "https://maraschio.com/writing/conways-law-is-a-planning-tool/",
+    "own": true
+  },
+  {
+    "text": "People change faster when they co-author the diagnosis.",
+    "source": "Curiosity before conclusions",
+    "url": "https://maraschio.com/writing/curiosity-before-conclusions/",
+    "own": true
+  },
+  {
+    "text": "Beware of bugs in the above code; I have only proved it correct, not tried it.",
+    "author": "Donald Knuth",
+    "source": "a 1977 memo",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/faq.html"
+  },
+  {
+    "text": "With agents, you need to define certain boundaries.",
+    "own": true
+  },
+  {
+    "text": "A model grading a model with a vague rubric just launders an opinion.",
+    "source": "Eval harnesses before agents",
+    "url": "https://maraschio.com/writing/eval-harnesses-before-agents/",
+    "own": true
+  },
+  {
+    "text": "Hire the person who makes you feel ordinary in your own domain.",
+    "source": "Hire people better than you",
+    "url": "https://maraschio.com/writing/hire-people-better-than-you/",
+    "own": true
+  },
+  {
+    "text": "I am the owner of the harness that every engineer uses.",
+    "own": true
+  },
+  {
+    "text": "Plausible and correct are different words, and the gap between them is where the incidents live.",
+    "source": "Hiring for an AI-native team",
+    "url": "https://maraschio.com/writing/hiring-for-an-ai-native-team/",
+    "own": true
+  },
+  {
+    "text": "The price of reliability is the pursuit of the utmost simplicity. It is a price which the very rich find most hard to pay.",
+    "author": "C. A. R. Hoare",
+    "source": "The Emperor's Old Clothes (1980)"
+  },
+  {
+    "text": "Naming the cost yourself is what separates an opinion from a sales pitch.",
+    "source": "How to share a point of view",
+    "url": "https://maraschio.com/writing/how-to-share-a-point-of-view/",
+    "own": true
+  },
+  {
+    "text": "Those things that you are expecting are the evals.",
+    "own": true
+  },
+  {
+    "text": "Intent debt is real debt, and right now it compounds faster than the technical kind.",
+    "source": "Intent debt is real debt",
+    "url": "https://maraschio.com/writing/intent-debt-is-real-debt/",
+    "own": true
+  },
+  {
+    "text": "When AI can write the code, judgment is the only moat left.",
+    "source": "When craft commoditizes, judgment is the moat",
+    "url": "https://maraschio.com/writing/judgment-is-the-moat/",
+    "own": true
+  },
+  {
+    "text": "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.",
+    "author": "Leslie Lamport",
+    "source": "an email of 1987",
+    "url": "https://lamport.azurewebsites.net/pubs/distributed-system.txt"
+  },
+  {
+    "text": "You don't want an agent programmatically poking around, grabbing some data and then massaging campaigns.",
+    "own": true
+  },
+  {
+    "text": "Lead time is a system property, not a stopwatch on your engineers.",
+    "source": "Lead time is a system property",
+    "url": "https://maraschio.com/writing/lead-time-is-a-system-property/",
+    "own": true
+  },
+  {
+    "text": "A rule does not go away with its reason, because the reason was never written down.",
+    "source": "My capacity limit became everyone's second approval",
+    "url": "https://maraschio.com/writing/my-limit-became-a-control/",
+    "own": true
+  },
+  {
+    "text": "If the trigger is this and the outcome is this, I don't need people in between.",
+    "own": true
+  },
+  {
+    "text": "If a KR doesn't change what you ship, skip, or escalate, it isn't a goal.",
+    "source": "OKRs your engineers can feel",
+    "url": "https://maraschio.com/writing/okrs-your-engineers-can-feel/",
+    "own": true
+  },
+  {
+    "text": "The workers are handicapped by the system, and the system belongs to the management.",
+    "author": "W. Edwards Deming",
+    "source": "Out of the Crisis (1982)"
+  },
+  {
+    "text": "One corrosive person sets your team's ceiling, not your best engineer.",
+    "source": "One bad apple and team trust",
+    "url": "https://maraschio.com/writing/one-bad-apple-and-team-trust/",
+    "own": true
+  },
+  {
+    "text": "I do think engineers need to grasp more of this knowledge in order to fully close the loop.",
+    "own": true
+  },
+  {
+    "text": "A prompt that worked once in your session is not a workflow.",
+    "source": "Package the workflow, not the prompt paste",
+    "url": "https://maraschio.com/writing/package-the-workflow-not-the-prompt/",
+    "own": true
+  },
+  {
+    "text": "Quality showed up because arguments surface bad ideas.",
+    "source": "Peer review was never a quality gate",
+    "url": "https://maraschio.com/writing/peer-review-was-never-a-quality-gate/",
+    "own": true
+  },
+  {
+    "text": "In my opinion, architecture is still relevant: being able to do system design and database design.",
+    "own": true
+  },
+  {
+    "text": "Drive out fear, so that everyone may work effectively for the company.",
+    "author": "W. Edwards Deming",
+    "source": "the 14 points (1982)"
+  },
+  {
+    "text": "I learned the hard way that boxes without charters are just furniture.",
+    "source": "Pod charters before org charts",
+    "url": "https://maraschio.com/writing/pod-charters-before-org-charts/",
+    "own": true
+  },
+  {
+    "text": "A team that ships fast for a quarter and burns out the next one did not win.",
+    "source": "Protecting engineers from AI burnout",
+    "url": "https://maraschio.com/writing/protecting-engineers-from-ai-burnout/",
+    "own": true
+  },
+  {
+    "text": "If we identify a topic that doesn't have any documentation, we need to start with that.",
+    "own": true
+  },
+  {
+    "text": "People optimize for what they see rewarded, not for what you say you value.",
+    "source": "Recognition is a system, not a mood",
+    "url": "https://maraschio.com/writing/recognition-is-a-system/",
+    "own": true
+  },
+  {
+    "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler",
+    "source": "Refactoring (1999)"
+  },
+  {
+    "text": "Add a rule and you have not added a behavior.",
+    "source": "Seventeen rules was too many",
+    "url": "https://maraschio.com/writing/seventeen-rules-was-too-many/",
+    "own": true
+  },
+  {
+    "text": "To do the compounding thing, we need to be able to connect the primitives.",
+    "own": true
+  },
+  {
+    "text": "A specialist who knows one system is one reorg away from irrelevant.",
+    "source": "Sideways is not backwards",
+    "url": "https://maraschio.com/writing/sideways-is-not-backwards/",
+    "own": true
+  },
+  {
+    "text": "An approval that outlives its diff is not a review.",
+    "source": "The approval that outlived the code",
+    "url": "https://maraschio.com/writing/the-approval-that-outlived-the-code/",
+    "own": true
+  },
+  {
+    "text": "If all the leaders are there, people will appear.",
+    "own": true
+  },
+  {
+    "text": "For each hard change, make the change easy (warning, this may be hard), then make the easy change.",
+    "author": "Kent Beck",
+    "source": "Tidy First?",
+    "url": "https://newsletter.kentbeck.com/p/tidy-first-example"
+  },
+  {
+    "text": "Mess used to advertise itself; now it ships looking finished.",
+    "source": "The debt AI hides",
+    "url": "https://maraschio.com/writing/the-debt-ai-hides/",
+    "own": true
+  },
+  {
+    "text": "Every dependency is a decision, and the assistant just stopped letting you make it.",
+    "source": "The dependencies you did not choose",
+    "url": "https://maraschio.com/writing/the-dependencies-you-did-not-choose/",
+    "own": true
+  },
+  {
+    "text": "The mental model is to forget about all of that and start over.",
+    "own": true
+  },
+  {
+    "text": "We reward mastery by taking it away and calling it up.",
+    "source": "The maker-manager pendulum",
+    "url": "https://maraschio.com/writing/the-maker-manager-pendulum/",
+    "own": true
+  },
+  {
+    "text": "No matter how it looks at first, it's always a people problem.",
+    "author": "Gerald Weinberg",
+    "source": "The Secrets of Consulting (1985)"
+  },
+  {
+    "text": "A long roadmap is often a polite way to avoid admitting how much you do not yet know.",
+    "source": "What AI-native actually changes",
+    "url": "https://maraschio.com/writing/what-ai-native-actually-changes/",
+    "own": true
+  },
+  {
+    "text": "Things are changing, but they are about to change drastically in the next few years.",
+    "own": true
+  },
+  {
+    "text": "The best call a manager makes is often not making the call at all.",
+    "source": "When a manager should step in",
+    "url": "https://maraschio.com/writing/when-a-manager-should-step-in/",
+    "own": true
+  },
+  {
+    "text": "The behaviors that earned the last promotion can be the exact ones that cap the next.",
+    "source": "Why high performers stall",
+    "url": "https://maraschio.com/writing/why-high-performers-stall/",
+    "own": true
+  },
+  {
+    "text": "If everything is changing and we are very slow to respond, we will never be able to leverage that fully.",
+    "own": true
+  },
+  {
+    "text": "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.",
+    "author": "Richard Feynman",
+    "source": "the Challenger report (1986)",
+    "url": "https://www.nasa.gov/history/rogersrep/v2appf.htm"
+  },
+  {
+    "text": "If a failure has to be noticed by someone reading a report, you do not have monitoring.",
+    "source": "Your detection mechanism is a person",
+    "url": "https://maraschio.com/writing/your-detection-mechanism-is-a-person/",
+    "own": true
+  },
+  {
+    "text": "If a rule has to hold every time, encode it in a test, a hook, or a permission.",
+    "source": "A rule nothing checks is a wish",
+    "url": "https://maraschio.com/writing/a-rule-nothing-checks-is-a-wish/",
+    "own": true
+  },
+  {
+    "text": "If you develop the taste, you may know at some point of this quest that you need to play it in a certain manner.",
+    "own": true
+  },
+  {
+    "text": "Audit the sentences your tools print with the same suspicion you give their return values.",
+    "source": "A wrong number is worse than no number",
+    "url": "https://maraschio.com/writing/a-wrong-number-is-worse-than-none/",
+    "own": true
+  },
+  {
+    "text": "Hence plan to throw one away; you will, anyhow.",
+    "author": "Fred Brooks",
+    "source": "The Mythical Man-Month (1975)"
+  },
+  {
+    "text": "A language model is good at reasoning about numbers and bad at keeping them.",
+    "source": "A chat is not a database",
+    "url": "https://maraschio.com/writing/a-chat-is-not-a-database/",
+    "own": true
+  },
+  {
+    "text": "Maybe we will never get there, but that should be the goal these days.",
+    "own": true
+  },
+  {
+    "text": "An excellent MTTR usually means your clock starts late, not that your team is fast.",
+    "source": "Your MTTR is measuring the wrong half",
+    "url": "https://maraschio.com/writing/your-mttr-is-measuring-the-wrong-half/",
+    "own": true
+  }
+]
