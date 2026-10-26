@@ -1,5 +1,5 @@
 <!-- banner:start (rotated every other day by .github/workflows/rotate-banner.yml) -->
-<img src="banners/night/01-bridge.webp" alt="Painted night scene of an iron footbridge lit by small lamps, crossing a still river from an old brick quarter to glass towers, under a full moon." width="100%">
+<img src="banners/woodblock/01-heron.webp" alt="Woodblock print of a grey heron standing still among reeds at sunrise, its reflection unbroken, mountains on the horizon." width="100%">
 <!-- banner:end -->
 
 > "A mind is like a parachute. It doesn't work if it is not open." - Frank Zappa
