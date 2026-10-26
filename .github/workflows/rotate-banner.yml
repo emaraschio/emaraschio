@@ -6,7 +6,7 @@ on:
     # load and sometimes drops them (10-25's 06:17 run started at 11:41, and
     # 10-26's never started). The script picks by date and a run that finds
     # the banner current changes nothing, so the extra runs are free and the
-    # next one covers a dropped one. The banner moves on every other day.
+    # next one covers a dropped one. Banner and quote both move on daily.
     - cron: "17 */3 * * *"
   workflow_dispatch:
 

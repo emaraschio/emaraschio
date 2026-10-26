@@ -1,4 +1,4 @@
-<!-- banner:start (rotated every other day by .github/workflows/rotate-banner.yml) -->
+<!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
 <img src="banners/woodblock/01-heron.webp" alt="Woodblock print of a grey heron standing still among reeds at sunrise, its reflection unbroken, mountains on the horizon." width="100%">
 <!-- banner:end -->
 

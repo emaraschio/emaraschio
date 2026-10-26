@@ -2,7 +2,7 @@
 """Put the current banner at the top of README.md.
 
 The banners are listed in banners/banners.json, in rotation order. Day 0 is
-2026-10-24 and the banner moves on every PERIOD_DAYS days, wrapping after the
+2026-10-25 and the banner moves on every PERIOD_DAYS days, wrapping after the
 last, so the order never jumps at a month or year boundary.
 
     python3 scripts/rotate_banner.py               # today (UTC)
@@ -21,9 +21,9 @@ ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 BANNERS = ROOT / "banners"
 MANIFEST = BANNERS / "banners.json"
-EPOCH = dt.date(2026, 10, 24)
-PERIOD_DAYS = 2
-START = "<!-- banner:start (rotated every other day by .github/workflows/rotate-banner.yml) -->"
+EPOCH = dt.date(2026, 10, 25)
+PERIOD_DAYS = 1
+START = "<!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->"
 END = "<!-- banner:end -->"
 
 
