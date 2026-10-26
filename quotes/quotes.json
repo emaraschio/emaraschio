@@ -16,6 +16,10 @@
     "own": true
   },
   {
+    "text": "Maturity is the capacity to endure uncertainty.",
+    "author": "attributed to John H. Finley"
+  },
+  {
     "text": "A complex system that works is invariably found to have evolved from a simple system that worked.",
     "author": "John Gall",
     "source": "Systemantics (1975)"
@@ -35,6 +39,10 @@
     "source": "Ask for feedback that bites",
     "url": "https://maraschio.com/writing/ask-for-feedback-that-bites/",
     "own": true
+  },
+  {
+    "text": "Nothing is predestined. The obstacles of your past can become the gateways that lead to new beginnings.",
+    "author": "attributed to Ralph Blum"
   },
   {
     "text": "Let the agent run where the work is reversible and verifiable.",
@@ -64,6 +72,11 @@
     "own": true
   },
   {
+    "text": "You need mountains, long staircases don't make good hikers.",
+    "author": "Amit Kalantri",
+    "source": "Wealth of Words"
+  },
+  {
     "text": "The part that is gone is writing code by hand.",
     "own": true
   },
@@ -82,6 +95,11 @@
     "author": "Edsger W. Dijkstra",
     "source": "Notes on Structured Programming (1970)",
     "url": "https://www.cs.utexas.edu/~EWD/ewd02xx/EWD249.PDF"
+  },
+  {
+    "text": "Living for the future is more important than trying to avenge the past.",
+    "author": "Kentaro Miura",
+    "source": "Berserk"
   },
   {
     "text": "AI is very good at producing code that survives recognition and collapses under recall.",
@@ -112,6 +130,11 @@
     "own": true
   },
   {
+    "text": "We do not have the power now to melt the snow that lies thick around us. Perhaps we wanted merely to feel the warmth in each other, a warmth we had in common.",
+    "author": "Kentaro Miura",
+    "source": "Berserk"
+  },
+  {
     "text": "A model grading a model with a vague rubric just launders an opinion.",
     "source": "Eval harnesses before agents",
     "url": "https://maraschio.com/writing/eval-harnesses-before-agents/",
@@ -139,6 +162,11 @@
     "source": "The Emperor's Old Clothes (1980)"
   },
   {
+    "text": "New eras don't come about because of swords, they're created by the people who wield them.",
+    "author": "Kenshin Himura",
+    "source": "Rurouni Kenshin"
+  },
+  {
     "text": "Naming the cost yourself is what separates an opinion from a sales pitch.",
     "source": "How to share a point of view",
     "url": "https://maraschio.com/writing/how-to-share-a-point-of-view/",
@@ -159,6 +187,11 @@
     "source": "When craft commoditizes, judgment is the moat",
     "url": "https://maraschio.com/writing/judgment-is-the-moat/",
     "own": true
+  },
+  {
+    "text": "The world isn't perfect. But it's there for us, doing the best it can... that's what makes it so damn beautiful.",
+    "author": "attributed to Roy Mustang",
+    "source": "Fullmetal Alchemist"
   },
   {
     "text": "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.",
@@ -187,6 +220,11 @@
     "own": true
   },
   {
+    "text": "People become stronger because they have memories they can't forget.",
+    "author": "Tsunade",
+    "source": "Naruto"
+  },
+  {
     "text": "If a KR doesn't change what you ship, skip, or escalate, it isn't a goal.",
     "source": "OKRs your engineers can feel",
     "url": "https://maraschio.com/writing/okrs-your-engineers-can-feel/",
@@ -206,6 +244,11 @@
   {
     "text": "I do think engineers need to grasp more of this knowledge in order to fully close the loop.",
     "own": true
+  },
+  {
+    "text": "Spiral out, keep going.",
+    "author": "Tool",
+    "source": "Lateralus"
   },
   {
     "text": "A prompt that worked once in your session is not a workflow.",
@@ -235,6 +278,11 @@
     "own": true
   },
   {
+    "text": "Try not to become a man of success, but rather try to become a man of value.",
+    "author": "Albert Einstein",
+    "source": "LIFE (1955)"
+  },
+  {
     "text": "A team that ships fast for a quarter and burns out the next one did not win.",
     "source": "Protecting engineers from AI burnout",
     "url": "https://maraschio.com/writing/protecting-engineers-from-ai-burnout/",
@@ -254,6 +302,11 @@
     "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
     "author": "Martin Fowler",
     "source": "Refactoring (1999)"
+  },
+  {
+    "text": "Push through the pain. Giving up hurts more.",
+    "author": "attributed to Vegeta",
+    "source": "Dragon Ball Z"
   },
   {
     "text": "Add a rule and you have not added a behavior.",
@@ -280,6 +333,11 @@
   {
     "text": "If all the leaders are there, people will appear.",
     "own": true
+  },
+  {
+    "text": "Hard work is worthless for those that don't believe in themselves.",
+    "author": "Naruto Uzumaki",
+    "source": "Naruto"
   },
   {
     "text": "For each hard change, make the change easy (warning, this may be hard), then make the easy change.",
@@ -310,6 +368,11 @@
     "own": true
   },
   {
+    "text": "All things change in a dynamic environment. Your effort to remain what you are is what limits you.",
+    "author": "the Puppet Master",
+    "source": "Ghost in the Shell (1995)"
+  },
+  {
     "text": "No matter how it looks at first, it's always a people problem.",
     "author": "Gerald Weinberg",
     "source": "The Secrets of Consulting (1985)"
@@ -329,6 +392,10 @@
     "source": "When a manager should step in",
     "url": "https://maraschio.com/writing/when-a-manager-should-step-in/",
     "own": true
+  },
+  {
+    "text": "Do the best you can until you know better. Then when you know better, do better.",
+    "author": "attributed to Maya Angelou"
   },
   {
     "text": "The behaviors that earned the last promotion can be the exact ones that cap the next.",
@@ -359,6 +426,10 @@
     "own": true
   },
   {
+    "text": "It is not the mountain we conquer, but ourselves.",
+    "author": "attributed to Edmund Hillary"
+  },
+  {
     "text": "If you develop the taste, you may know at some point of this quest that you need to play it in a certain manner.",
     "own": true
   },
@@ -378,6 +449,10 @@
     "source": "A chat is not a database",
     "url": "https://maraschio.com/writing/a-chat-is-not-a-database/",
     "own": true
+  },
+  {
+    "text": "A mind is like a parachute. It doesn't work if it is not open.",
+    "author": "attributed to Frank Zappa"
   },
   {
     "text": "Maybe we will never get there, but that should be the goal these days.",
