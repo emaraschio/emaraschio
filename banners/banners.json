@@ -36,6 +36,30 @@
     "alt": "Papercut diorama of a single campfire on one side of a river valley and a village ringed with many campfires on the other."
   },
   {
+    "file": "stained-glass/01-swinging-panes.webp",
+    "style": "stained-glass",
+    "theme": "Feature flags are reversible decisions",
+    "alt": "Leaded stained-glass window backlit by low sun: a band of ruby flowers and amber lattice on cobalt, with two small hinged panes swung open and one shut."
+  },
+  {
+    "file": "diorama/01-new-track.webp",
+    "style": "diorama",
+    "theme": "Migrations in reversible steps",
+    "alt": "Tilt-shift miniature valley at sunset where a new railway track runs beside the old one, a small locomotive on each, work lamps along the line."
+  },
+  {
+    "file": "embroidery/01-tidy-back.webp",
+    "style": "embroidery",
+    "theme": "The back of the work matters too",
+    "alt": "Two embroidery hoops on linen: one holds a floral design only outlined in thread, the other the same flowers fully stitched in rust, indigo and sage."
+  },
+  {
+    "file": "charcoal/01-bridge-lines.webp",
+    "style": "charcoal",
+    "theme": "Sketch before you build",
+    "alt": "Charcoal and chalk drawing on grey paper of an arched stone bridge over a river, its construction lines still visible around it."
+  },
+  {
     "file": "night/02-harness.webp",
     "style": "night",
     "theme": "Harnesses over heroics",
@@ -70,6 +94,30 @@
     "style": "papercut",
     "theme": "Rightsizing without losing delivery",
     "alt": "Papercut diorama of a pruned bonsai on a low table, the cut branches and shears laid beside it, a lake beyond."
+  },
+  {
+    "file": "stained-glass/02-two-way-doors.webp",
+    "style": "stained-glass",
+    "theme": "Two-way doors move fast",
+    "alt": "A pair of stained-glass doors in an old stone wall, one propped open onto a sunlit garden, casting coloured light on the flagstones."
+  },
+  {
+    "file": "diorama/02-toolbox-counter.webp",
+    "style": "diorama",
+    "theme": "Platform as a product",
+    "alt": "Miniature workshop counter handing out identical red toolboxes to a line of small clay figures on a cobbled street."
+  },
+  {
+    "file": "embroidery/02-sashiko-patch.webp",
+    "style": "embroidery",
+    "theme": "Mend, don't replace",
+    "alt": "A worn indigo cloth on linen with a frayed spot mended by a patch of white sashiko stitches, a needle and white thread beside it."
+  },
+  {
+    "file": "charcoal/02-erased-edge.webp",
+    "style": "charcoal",
+    "theme": "Erase early, it's cheap",
+    "alt": "Sketchbook spread with a faint, half-erased outline of a cottage on the left and a finished charcoal cottage and tree on the right."
   },
   {
     "file": "night/03-library.webp",
@@ -108,6 +156,30 @@
     "alt": "Papercut diorama of a mosaic of a sunrise over hills taking shape on a wall, a tray of new tiles waiting."
   },
   {
+    "file": "stained-glass/03-empty-frame.webp",
+    "style": "stained-glass",
+    "theme": "Frame the problem before the options",
+    "alt": "An empty leaded frame laid out on a glazier's bench, with stacks of cobalt, ruby, amber and green glass waiting beside it."
+  },
+  {
+    "file": "diorama/03-mailboxes.webp",
+    "style": "diorama",
+    "theme": "Async by default",
+    "alt": "Miniature country lane lined with little mailboxes on posts, cottages and felt trees behind, nobody waiting."
+  },
+  {
+    "file": "embroidery/03-unpicked-seam.webp",
+    "style": "embroidery",
+    "theme": "Unpicking is part of the craft",
+    "alt": "A line of stitches on linen ending where it was unpicked, loose rust thread curling beside a seam ripper and a spool."
+  },
+  {
+    "file": "charcoal/03-blocked-city.webp",
+    "style": "charcoal",
+    "theme": "Work from the big shapes down",
+    "alt": "Charcoal skyline blocked in as plain boxes and cylinders, with only one tower in the middle drawn out with windows."
+  },
+  {
     "file": "night/04-city.webp",
     "style": "night",
     "theme": "Systems thinking, rooted at home",
@@ -142,6 +214,30 @@
     "style": "papercut",
     "theme": "Mentoring and growth",
     "alt": "Papercut diorama of climbing roses at different heights, each guided up its own wooden trellis."
+  },
+  {
+    "file": "stained-glass/04-mended-pane.webp",
+    "style": "stained-glass",
+    "theme": "Recovery beats prevention",
+    "alt": "Stained-glass panel of ruby diamonds and scrollwork where one cracked pane has been rejoined with a bright new lead line."
+  },
+  {
+    "file": "diorama/04-two-cottages.webp",
+    "style": "diorama",
+    "theme": "Bus factor of two",
+    "alt": "Miniature rocky island at dusk with two keepers' cottages side by side beneath a lit lighthouse, small boats moored below."
+  },
+  {
+    "file": "embroidery/04-handoff-knot.webp",
+    "style": "embroidery",
+    "theme": "Every handoff needs a knot",
+    "alt": "An indigo thread and a rust thread stretched across linen, joined in the middle by one small neat knot."
+  },
+  {
+    "file": "charcoal/04-one-light.webp",
+    "style": "charcoal",
+    "theme": "Light from one direction",
+    "alt": "Charcoal still life of a jug, a folded cloth, a bowl and two pears, all lit from the left with every shadow falling right."
   },
   {
     "file": "night/05-greenhouse.webp",
@@ -180,6 +276,30 @@
     "alt": "Papercut diorama of five small sailboats with different colored sails crossing a bay toward a lighthouse harbor."
   },
   {
+    "file": "stained-glass/05-lit-path.webp",
+    "style": "stained-glass",
+    "theme": "Make the right path the easy path",
+    "alt": "Stained-glass garden where a wide amber path runs straight toward the light between dim blue side paths and red flowers."
+  },
+  {
+    "file": "diorama/05-lit-room.webp",
+    "style": "diorama",
+    "theme": "Protect the deep-work afternoon",
+    "alt": "Miniature street of plain houses at dusk, one upstairs window softly lit, felt trees and streetlamps along the road."
+  },
+  {
+    "file": "embroidery/05-taut-hoop.webp",
+    "style": "embroidery",
+    "theme": "Tension is a design input",
+    "alt": "A wooden hoop holding linen taut around a sage-green stitched motif while the cloth outside it lies rumpled."
+  },
+  {
+    "file": "charcoal/05-dark-doorway.webp",
+    "style": "charcoal",
+    "theme": "Contrast shows what matters",
+    "alt": "Pale chalk drawing of a sunlit street of whitewashed houses with one deep black open doorway at the centre."
+  },
+  {
     "file": "night/06-orchestra.webp",
     "style": "night",
     "theme": "Coordinating the pods",
@@ -214,6 +334,30 @@
     "style": "papercut",
     "theme": "A flat organization",
     "alt": "Papercut diorama of a broad umbrella pine whose wide canopy shades a whole meadow of wildflowers."
+  },
+  {
+    "file": "stained-glass/06-bell-rope.webp",
+    "style": "stained-glass",
+    "theme": "Every alert needs an owner",
+    "alt": "Stained-glass bell tower against a cobalt sky, a single hand holding the bell's rope, between pale diamond-paned panels."
+  },
+  {
+    "file": "diorama/06-welcome-lanterns.webp",
+    "style": "diorama",
+    "theme": "Onboarding is the first product a new hire uses",
+    "alt": "Miniature town entrance with a picture map on a wooden stand and a row of small lanterns lining the path into town."
+  },
+  {
+    "file": "embroidery/06-one-needle.webp",
+    "style": "embroidery",
+    "theme": "One colour at a time",
+    "alt": "A needle threaded with ochre silk resting on linen beside a neat row of five wooden spools in other colours."
+  },
+  {
+    "file": "charcoal/06-negative-tree.webp",
+    "style": "charcoal",
+    "theme": "Negative space decides the shape",
+    "alt": "A band of dense dark charcoal across a sketchbook out of which a pale tree on a hill appears, drawn only by the shading around it."
   },
   {
     "file": "night/07-lantern.webp",
@@ -252,6 +396,30 @@
     "alt": "Papercut diorama of a sunflower field on rolling hills, every flower turned toward the same sun."
   },
   {
+    "file": "stained-glass/07-rose-window.webp",
+    "style": "stained-glass",
+    "theme": "Debt has an interest rate",
+    "alt": "A round rose window in a pale wall, glowing gold at its centre and darkening ring by ring to deep violet at the rim."
+  },
+  {
+    "file": "diorama/07-crane-shed.webp",
+    "style": "diorama",
+    "theme": "Delete code with confidence",
+    "alt": "Miniature town at dusk where a small crane lifts an empty shed off a cleared lot while every house around it stays lit."
+  },
+  {
+    "file": "embroidery/07-chalk-pattern.webp",
+    "style": "embroidery",
+    "theme": "Pattern before pieces",
+    "alt": "A long leafy border on linen, the left half stitched in colour and the right half still a white outline, a paper pattern pinned above."
+  },
+  {
+    "file": "charcoal/07-drafts-and-final.webp",
+    "style": "charcoal",
+    "theme": "The draft is not the decision",
+    "alt": "Crumpled charcoal sketches on a dark table beside one clean finished drawing of a lighthouse on a headland and a stick of charcoal."
+  },
+  {
     "file": "night/08-heartbeat.webp",
     "style": "night",
     "theme": "Healthcare tech as dependable infrastructure",
@@ -286,6 +454,30 @@
     "style": "papercut",
     "theme": "Decisions that unblock",
     "alt": "Papercut diorama of a crossroads signpost with one arrow painted ochre, carts already moving down that road."
+  },
+  {
+    "file": "stained-glass/08-lantern-corner.webp",
+    "style": "stained-glass",
+    "theme": "Curiosity over certainty",
+    "alt": "Stained-glass figure in a green hooded cloak holding a lantern up toward a dark blue corner, its glow in rings of yellow glass."
+  },
+  {
+    "file": "diorama/08-customs-bridge.webp",
+    "style": "diorama",
+    "theme": "Data contracts at the boundary",
+    "alt": "Two miniature villages, red roofs and blue roofs, on either side of a river, meeting at a stone bridge with a small booth."
+  },
+  {
+    "file": "embroidery/08-vine.webp",
+    "style": "embroidery",
+    "theme": "Small habits compound",
+    "alt": "A long embroidered vine across linen, every leaf the same small green stitch repeated along an ochre stem."
+  },
+  {
+    "file": "charcoal/08-margins.webp",
+    "style": "charcoal",
+    "theme": "Leave room in the margins",
+    "alt": "A small charcoal drawing of a harbour with moored boats, kept to the centre of a sketchbook spread with wide empty paper around it."
   },
   {
     "file": "night/09-handoff.webp",
@@ -324,6 +516,30 @@
     "alt": "Papercut diorama of a globe half in day and half in night, glowing threads linking cities around it."
   },
   {
+    "file": "stained-glass/09-two-hands.webp",
+    "style": "stained-glass",
+    "theme": "Teaching beats telling",
+    "alt": "Stained-glass panel of an older hand and a younger hand together placing one ruby triangle among blue and amber glass."
+  },
+  {
+    "file": "diorama/09-relay-baton.webp",
+    "style": "diorama",
+    "theme": "Latency is a feature",
+    "alt": "Miniature stadium with two tiny clay runners on a red track at the moment one passes the baton to the other."
+  },
+  {
+    "file": "embroidery/09-weave.webp",
+    "style": "embroidery",
+    "theme": "Teams are woven, not stacked",
+    "alt": "A tight woven band across linen in indigo, ochre, sage and rust threads, loose ends fringing both edges."
+  },
+  {
+    "file": "charcoal/09-shadowed-pillar.webp",
+    "style": "charcoal",
+    "theme": "Shadows show where the risk is",
+    "alt": "Light charcoal sketch of a trestle footbridge over a ravine, the darkest shading gathered under a single support."
+  },
+  {
     "file": "night/10-storm.webp",
     "style": "night",
     "theme": "Steady decisions in a crisis",
@@ -358,6 +574,30 @@
     "style": "papercut",
     "theme": "Calm in an incident",
     "alt": "Papercut diorama of a hot-air balloon floating level above a sea of dark storm clouds at sunrise."
+  },
+  {
+    "file": "stained-glass/10-gate-lamp.webp",
+    "style": "stained-glass",
+    "theme": "Say no with a reason",
+    "alt": "Stained-glass night scene: a closed iron garden gate between stone pillars, a small lamp glowing amber beside it under a blue sky."
+  },
+  {
+    "file": "diorama/10-farm-quilt.webp",
+    "style": "diorama",
+    "theme": "Small teams, clear seams",
+    "alt": "Miniature patchwork of fenced fields in different crop colours, joined by paths and gates, with small red barns."
+  },
+  {
+    "file": "embroidery/10-running-stitch.webp",
+    "style": "embroidery",
+    "theme": "Slow is smooth, smooth is fast",
+    "alt": "One even running stitch in rust thread crossing the whole width of the linen, the needle still at its end."
+  },
+  {
+    "file": "charcoal/10-five-strokes.webp",
+    "style": "charcoal",
+    "theme": "Few strokes, sure hand",
+    "alt": "A lone windswept tree on a low hill drawn in a few bold charcoal strokes on wide empty grey paper."
   },
   {
     "file": "woodblock/11-frozen-lake.webp",
