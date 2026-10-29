@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/poster/01-loupe.webp" alt="Screenprint poster of a jeweler&#x27;s loupe beside an open pocket watch showing its gears, under a work lamp." width="100%">
+<img src="banners/blueprint/01-queues.webp" alt="Blueprint drawing of a sorting hall where parcels ride conveyor belts between stations and wait on buffer shelves." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Ugly tools with metrics beat beautiful tools with anecdotes." - [AI judged by outcomes, not demos](https://maraschio.com/writing/ai-judged-by-outcomes-not-demos/)
+> "Maturity is the capacity to endure uncertainty." - attributed to John H. Finley
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
