@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/blueprint/01-queues.webp" alt="Blueprint drawing of a sorting hall where parcels ride conveyor belts between stations and wait on buffer shelves." width="100%">
+<img src="banners/papercut/01-campfires.webp" alt="Papercut diorama of a single campfire on one side of a river valley and a village ringed with many campfires on the other." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Maturity is the capacity to endure uncertainty." - attributed to John H. Finley
+> "A complex system that works is invariably found to have evolved from a simple system that worked." - John Gall, Systemantics (1975)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
