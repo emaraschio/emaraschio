@@ -138,6 +138,12 @@
     "alt": "Papercut diorama of a pruned bonsai on a low table, the cut branches and shears laid beside it, a lake beyond."
   },
   {
+    "file": "matrix/11-canary.webp",
+    "style": "matrix",
+    "theme": "The canary release",
+    "alt": "Green code rain on black: a long row of dark server cabinets with only the first one lit and running, a glowing birdcage with a bird inside hanging in front of it."
+  },
+  {
     "file": "stained-glass/02-two-way-doors.webp",
     "style": "stained-glass",
     "theme": "Two-way doors move fast",
@@ -426,6 +432,12 @@
     "alt": "Woodblock print of a blank open logbook and a brass compass on a ship's deck, great waves and a distant mountain beyond."
   },
   {
+    "file": "matrix/12-flags.webp",
+    "style": "matrix",
+    "theme": "Feature flags",
+    "alt": "Green code rain on black: a panel of chunky toggle switches, some up and glowing and some down and dark, each lit switch wired to a bright path running off into the floor behind."
+  },
+  {
     "file": "watercolor/05-seasons.webp",
     "style": "watercolor",
     "theme": "A career is a lifetime, not a ladder",
@@ -520,6 +532,12 @@
     "style": "night",
     "theme": "Coordinating the pods",
     "alt": "Painted night scene of an empty concert stage, orchestra instruments resting at lit music stands around an empty conductor's podium."
+  },
+  {
+    "file": "matrix/13-diff.webp",
+    "style": "matrix",
+    "theme": "Read the diff",
+    "alt": "Green code rain on black: two tall translucent panes of glyphs side by side, almost identical, one band of rows highlighted on each and a thin line joining them."
   },
   {
     "file": "hermetic/06-cause-effect.webp",
@@ -618,6 +636,12 @@
     "alt": "Gold engraving on deep green: two alchemical vessels, one under a sun and one under a moon, pour into a crowned cup where their streams become a single flame."
   },
   {
+    "file": "matrix/14-rollback.webp",
+    "style": "matrix",
+    "theme": "Rollback",
+    "alt": "Green code rain on black: a big lever on a pedestal pulled back, the code rain around it flowing upward, a glowing clock face behind with its hands swept backwards."
+  },
+  {
     "file": "risograph/07-three-ledgers.webp",
     "style": "risograph",
     "theme": "The triple debt",
@@ -712,6 +736,12 @@
     "style": "risograph",
     "theme": "One-on-ones",
     "alt": "Risograph print of two armchairs facing each other by a tall window, with two steaming cups and an open notebook on a small round table, plants and a bookshelf around them."
+  },
+  {
+    "file": "matrix/15-vault.webp",
+    "style": "matrix",
+    "theme": "Secrets stay out of the prompt",
+    "alt": "Green code rain on black: a heavy round bank vault door shut in a wireframe wall, the glyph rain stopping at the wall, a single key hanging on a hook beside it."
   },
   {
     "file": "diorama/07-crane-shed.webp",
@@ -810,6 +840,12 @@
     "alt": "Papercut diorama of a crossroads signpost with one arrow painted ochre, carts already moving down that road."
   },
   {
+    "file": "matrix/16-spec.webp",
+    "style": "matrix",
+    "theme": "The spec is the contract",
+    "alt": "Green code rain on black: a glowing scroll pinned open on a wireframe drafting table showing a plan of towers, and the same towers rising in wireframe behind it."
+  },
+  {
     "file": "steampunk/09-signal-lamp.webp",
     "style": "steampunk",
     "theme": "The signal lamp: incidents",
@@ -904,6 +940,12 @@
     "style": "steampunk",
     "theme": "The workshop bench: one-on-ones",
     "alt": "Steampunk inventor's workbench with two leather stools pulled up to it, a half-built brass mechanism in the middle, tools and two tin cups, blueprints pinned to the wall."
+  },
+  {
+    "file": "matrix/17-replay.webp",
+    "style": "matrix",
+    "theme": "Replay the trace",
+    "alt": "Green code rain on black: a wireframe reel-to-reel tape machine, its tape running out as a horizontal timeline of small event markers across the frame, one ringed in white."
   },
   {
     "file": "blueprint/09-balance.webp",
@@ -1002,6 +1044,12 @@
     "alt": "Mosaic of a single stone arch standing in open country, its keystone picked out in gold, a paved path running through it toward the hills and the sea."
   },
   {
+    "file": "matrix/18-rate-limit.webp",
+    "style": "matrix",
+    "theme": "The rate limiter",
+    "alt": "Green code rain on black: a wide pipe packed with glyphs narrows through a wireframe valve with a pressure gauge into a slow, evenly spaced drip of single glyphs."
+  },
+  {
     "file": "papercut/10-balloon.webp",
     "style": "papercut",
     "theme": "Calm in an incident",
@@ -1098,9 +1146,21 @@
     "alt": "Blueprint cutaway of a building threaded with pneumatic tubes, capsules travelling between floors."
   },
   {
+    "file": "matrix/19-review-queue.webp",
+    "style": "matrix",
+    "theme": "The review queue",
+    "alt": "Green code rain on black: a long conveyor of wireframe crates waiting in front of a small lit inspection booth, the crates past it stamped with a check mark and moving on."
+  },
+  {
     "file": "papercut/12-windmill.webp",
     "style": "papercut",
     "theme": "Product and engineering in mesh",
     "alt": "Papercut diorama of a windmill in cutaway, a large and a small gear meshing to turn the millstone among wheat fields."
+  },
+  {
+    "file": "matrix/20-backup.webp",
+    "style": "matrix",
+    "theme": "The tested backup",
+    "alt": "Green code rain on black: a wireframe city on a thin ridge reflected perfectly in a still black floor, a bright point of light where the city and its reflection meet."
   }
 ]
