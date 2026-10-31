@@ -1,5 +1,5 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/stained-glass/01-swinging-panes.webp" alt="Leaded stained-glass window backlit by low sun: a band of ruby flowers and amber lattice on cobalt, with two small hinged panes swung open and one shut." width="100%">
+<img src="banners/matrix/01-sandbox.webp" alt="Green code rain on black: a glowing wireframe room floats in the void with a small cube sealed inside it, the falling glyphs parting around its walls." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
