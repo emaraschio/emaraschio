@@ -9,7 +9,8 @@
     "file": "woodblock/01-heron.webp",
     "style": "woodblock",
     "theme": "Watches without fidgeting",
-    "alt": "Woodblock print of a grey heron standing still among reeds at sunrise, its reflection unbroken, mountains on the horizon."
+    "alt": "Woodblock print of a grey heron standing still among reeds at sunrise, its reflection unbroken, mountains on the horizon.",
+    "still": "woodblock/01-heron.still.webp"
   },
   {
     "file": "watercolor/01-sundial.webp",
@@ -39,13 +40,15 @@
     "file": "stained-glass/01-swinging-panes.webp",
     "style": "stained-glass",
     "theme": "Feature flags are reversible decisions",
-    "alt": "Leaded stained-glass window backlit by low sun: a band of ruby flowers and amber lattice on cobalt, with two small hinged panes swung open and one shut."
+    "alt": "Leaded stained-glass window backlit by low sun: a band of ruby flowers and amber lattice on cobalt, with two small hinged panes swung open and one shut.",
+    "still": "stained-glass/01-swinging-panes.still.webp"
   },
   {
     "file": "diorama/01-new-track.webp",
     "style": "diorama",
     "theme": "Migrations in reversible steps",
-    "alt": "Tilt-shift miniature valley at sunset where a new railway track runs beside the old one, a small locomotive on each, work lamps along the line."
+    "alt": "Tilt-shift miniature valley at sunset where a new railway track runs beside the old one, a small locomotive on each, work lamps along the line.",
+    "still": "diorama/01-new-track.still.webp"
   },
   {
     "file": "embroidery/01-tidy-back.webp",
@@ -190,7 +193,8 @@
     "file": "risograph/02-loop-track.webp",
     "style": "risograph",
     "theme": "Optimize loops, not prompts",
-    "alt": "Risograph print of a toy steam train on an oval track that loops through rolling hills, past a station, a stone viaduct, a tunnel and small signal posts with flags."
+    "alt": "Risograph print of a toy steam train on an oval track that loops through rolling hills, past a station, a stone viaduct, a tunnel and small signal posts with flags.",
+    "still": "risograph/02-loop-track.still.webp"
   },
   {
     "file": "charcoal/02-erased-edge.webp",
@@ -304,7 +308,8 @@
     "file": "steampunk/03-governor.webp",
     "style": "steampunk",
     "theme": "The governor: rate limits",
-    "alt": "Steampunk flyball governor spinning on a steam engine, its two brass balls lifted outward, the throttle linkage running off to a valve, a flywheel at the left."
+    "alt": "Steampunk flyball governor spinning on a steam engine, its two brass balls lifted outward, the throttle linkage running off to a valve, a flywheel at the left.",
+    "still": "steampunk/03-governor.still.webp"
   },
   {
     "file": "embroidery/03-unpicked-seam.webp",
@@ -370,13 +375,15 @@
     "file": "poster/04-lighthouse.webp",
     "style": "poster",
     "theme": "Every position needs a written reason",
-    "alt": "Screenprint poster of an open logbook and an oil lamp by a window, a lighthouse sweeping its beam over the sea at dusk."
+    "alt": "Screenprint poster of an open logbook and an oil lamp by a window, a lighthouse sweeping its beam over the sea at dusk.",
+    "still": "poster/04-lighthouse.still.webp"
   },
   {
     "file": "blueprint/04-aqueduct.webp",
     "style": "blueprint",
     "theme": "Modernizing infrastructure without stopping the flow",
-    "alt": "Blueprint drawing of an old stone aqueduct with a new pipeline running alongside it across a valley."
+    "alt": "Blueprint drawing of an old stone aqueduct with a new pipeline running alongside it across a valley.",
+    "still": "blueprint/04-aqueduct.still.webp"
   },
   {
     "file": "hermetic/04-polarity.webp",
@@ -394,7 +401,8 @@
     "file": "hermetic/13-athanor.webp",
     "style": "hermetic",
     "theme": "The athanor: continuous integration",
-    "alt": "Gold engraving on deep green: a brick furnace with a steady fire and a sealed glass vessel on top, a long bellows feeding it from the left and four hourglasses on a bench to the right."
+    "alt": "Gold engraving on deep green: a brick furnace with a steady fire and a sealed glass vessel on top, a long bellows feeding it from the left and four hourglasses on a bench to the right.",
+    "still": "hermetic/13-athanor.still.webp"
   },
   {
     "file": "papercut/04-trellis.webp",
@@ -424,7 +432,8 @@
     "file": "dark-psychology/04-urgency.webp",
     "style": "dark-psychology",
     "theme": "Manufactured urgency, named so you can see it",
-    "alt": "Near-black still life: a row of hourglasses on a shelf, all nearly run out, a hand-cranked mechanism in the shadows behind them ready to flip them again."
+    "alt": "Near-black still life: a row of hourglasses on a shelf, all nearly run out, a hand-cranked mechanism in the shadows behind them ready to flip them again.",
+    "still": "dark-psychology/04-urgency.still.webp"
   },
   {
     "file": "embroidery/04-handoff-knot.webp",
@@ -448,7 +457,8 @@
     "file": "charcoal/04-one-light.webp",
     "style": "charcoal",
     "theme": "Light from one direction",
-    "alt": "Charcoal still life of a jug, a folded cloth, a bowl and two pears, all lit from the left with every shadow falling right."
+    "alt": "Charcoal still life of a jug, a folded cloth, a bowl and two pears, all lit from the left with every shadow falling right.",
+    "still": "charcoal/04-one-light.still.webp"
   },
   {
     "file": "night/05-greenhouse.webp",
@@ -652,7 +662,8 @@
     "file": "mosaic/06-waterwheel.webp",
     "style": "mosaic",
     "theme": "Revenue cycle as a pipeline",
-    "alt": "Mosaic of an aqueduct pouring water onto a large wooden waterwheel, the water running on through stone channels into rows of irrigated green fields."
+    "alt": "Mosaic of an aqueduct pouring water onto a large wooden waterwheel, the water running on through stone channels into rows of irrigated green fields.",
+    "still": "mosaic/06-waterwheel.still.webp"
   },
   {
     "file": "alien/06-hive.webp",
@@ -766,7 +777,8 @@
     "file": "alien/07-deep-signal.webp",
     "style": "alien",
     "theme": "The signal from deep space: observability",
-    "alt": "Retro pulp sci-fi: a huge radio dish on a cliff pointed at the stars, a thin pulse of light arriving from deep space, a small lit observatory beside it."
+    "alt": "Retro pulp sci-fi: a huge radio dish on a cliff pointed at the stars, a thin pulse of light arriving from deep space, a small lit observatory beside it.",
+    "still": "alien/07-deep-signal.still.webp"
   },
   {
     "file": "poster/07-wind-tunnel.webp",
@@ -1114,7 +1126,8 @@
     "file": "night/10-storm.webp",
     "style": "night",
     "theme": "Steady decisions in a crisis",
-    "alt": "Painted scene of a lone tree with a lantern on a calm island, while a storm drawn in swirling ink lines circles at a distance."
+    "alt": "Painted scene of a lone tree with a lantern on a calm island, while a storm drawn in swirling ink lines circles at a distance.",
+    "still": "night/10-storm.still.webp"
   },
   {
     "file": "dark-psychology/20-framing.webp",
@@ -1138,7 +1151,8 @@
     "file": "watercolor/10-dam.webp",
     "style": "watercolor",
     "theme": "Bad news does not age well",
-    "alt": "Watercolor of a lantern set beside a small crack in an old stone dam, a calm green valley below."
+    "alt": "Watercolor of a lantern set beside a small crack in an old stone dam, a calm green valley below.",
+    "still": "watercolor/10-dam.still.webp"
   },
   {
     "file": "poster/10-tightrope.webp",
@@ -1186,7 +1200,8 @@
     "file": "embroidery/10-running-stitch.webp",
     "style": "embroidery",
     "theme": "Slow is smooth, smooth is fast",
-    "alt": "One even running stitch in rust thread crossing the whole width of the linen, the needle still at its end."
+    "alt": "One even running stitch in rust thread crossing the whole width of the linen, the needle still at its end.",
+    "still": "embroidery/10-running-stitch.still.webp"
   },
   {
     "file": "hermetic/20-three-stages.webp",
@@ -1276,7 +1291,8 @@
     "file": "papercut/12-windmill.webp",
     "style": "papercut",
     "theme": "Product and engineering in mesh",
-    "alt": "Papercut diorama of a windmill in cutaway, a large and a small gear meshing to turn the millstone among wheat fields."
+    "alt": "Papercut diorama of a windmill in cutaway, a large and a small gear meshing to turn the millstone among wheat fields.",
+    "still": "papercut/12-windmill.still.webp"
   },
   {
     "file": "matrix/20-backup.webp",
