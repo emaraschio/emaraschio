@@ -646,5 +646,179 @@
     "author": "Alan Kay",
     "source": "traced to him by Quote Investigator",
     "url": "https://quoteinvestigator.com/2012/09/27/invent-the-future/"
+  },
+  {
+    "text": "A safety default you have to opt into is not a guardrail.",
+    "source": "A default you have to set is a belief",
+    "url": "https://maraschio.com/writing/a-default-you-have-to-set-is-a-belief/",
+    "own": true
+  },
+  {
+    "text": "A deprecation without a date is a wish, not a decision.",
+    "source": "A deprecation needs a date",
+    "url": "https://maraschio.com/writing/a-deprecation-needs-a-date/",
+    "own": true
+  },
+  {
+    "text": "A no that names nobody is an abstention, and abstentions get filled by whoever is still in the room.",
+    "source": "A no that names the next owner is a handoff",
+    "url": "https://maraschio.com/writing/a-no-needs-a-next-owner/",
+    "own": true
+  },
+  {
+    "text": "Access granted to a person outlives the reason it was granted.",
+    "source": "The access outlived the work it was granted for",
+    "url": "https://maraschio.com/writing/access-outlived-the-work/",
+    "own": true
+  },
+  {
+    "text": "Accountability does not get to go fuzzy just because there is a model in the loop.",
+    "source": "Agentic management is still management",
+    "url": "https://maraschio.com/writing/agentic-management-is-still-management/",
+    "own": true
+  },
+  {
+    "text": "Severity tells you what to say, cost tells you whether to hold the door.",
+    "source": "Blocking is a claim about the merge",
+    "url": "https://maraschio.com/writing/blocking-is-a-claim-about-the-merge/",
+    "own": true
+  },
+  {
+    "text": "The compliant design and the well-factored design are usually the same design.",
+    "source": "Compliance is a design input",
+    "url": "https://maraschio.com/writing/compliance-is-a-design-input/",
+    "own": true
+  },
+  {
+    "text": "Compression optimizes for what a sentence asserts, because assertions are what we check.",
+    "source": "Compression eats the imperative",
+    "url": "https://maraschio.com/writing/compression-eats-the-imperative/",
+    "own": true
+  },
+  {
+    "text": "A week of your deliberation costs five idle people; the wrong-but-reversible call costs an afternoon to undo.",
+    "source": "Decide to unblock, not to be right",
+    "url": "https://maraschio.com/writing/decide-to-unblock-not-to-be-right/",
+    "own": true
+  },
+  {
+    "text": "Done well, directness is a form of care, and care is what makes directness land instead of wound.",
+    "source": "Direct and kind are not opposites",
+    "url": "https://maraschio.com/writing/direct-and-kind-are-not-opposites/",
+    "own": true
+  },
+  {
+    "text": "I attack positions and protect people, out loud and on purpose.",
+    "source": "Disagree without burning trust",
+    "url": "https://maraschio.com/writing/disagree-without-burning-trust/",
+    "own": true
+  },
+  {
+    "text": "The moment you privately decide someone is a bozo, you stop hearing them entirely, including the one time they are right.",
+    "source": "Do not flip the bozo bit",
+    "url": "https://maraschio.com/writing/dont-flip-the-bozo-bit/",
+    "own": true
+  },
+  {
+    "text": "You measured typing and lost the collaboration that made the typing worth anything.",
+    "source": "Instrument the work, not the people",
+    "url": "https://maraschio.com/writing/instrument-the-work-not-the-people/",
+    "own": true
+  },
+  {
+    "text": "A metric without a single owner and a decision attached is decoration, no matter how many people watch it.",
+    "source": "Metrics need an owner, not an audience",
+    "url": "https://maraschio.com/writing/metrics-need-an-owner/",
+    "own": true
+  },
+  {
+    "text": "Until a risk has an owner and a date, it is a conversation.",
+    "source": "Naming a risk is not owning it",
+    "url": "https://maraschio.com/writing/naming-a-risk-is-not-owning-it/",
+    "own": true
+  },
+  {
+    "text": "Recency bias rewards the last loud thing, not the steady thing.",
+    "source": "Performance is a pattern, not a moment",
+    "url": "https://maraschio.com/writing/performance-is-a-pattern-not-a-moment/",
+    "own": true
+  },
+  {
+    "text": "Most disagreements inside a company are never settled. They are outlasted, and the winner is whoever put something in writing first.",
+    "source": "Resolved by absence",
+    "url": "https://maraschio.com/writing/resolved-by-absence/",
+    "own": true
+  },
+  {
+    "text": "Most of the recoverable risk in a design doc sits in what it assumes about the present, not in what it proposes for the future.",
+    "source": "Review the claims, not the plan",
+    "url": "https://maraschio.com/writing/review-the-claims-not-the-plan/",
+    "own": true
+  },
+  {
+    "text": "The failure mode I watch for is not picking the wrong thing. It's picking too many right things and giving each too little to land.",
+    "source": "Saying no to protect the yes",
+    "url": "https://maraschio.com/writing/saying-no-to-protect-the-yes/",
+    "own": true
+  },
+  {
+    "text": "An honest approval says what it could not see before it says yes.",
+    "source": "A review should say what it could not see",
+    "url": "https://maraschio.com/writing/say-what-the-review-could-not-see/",
+    "own": true
+  },
+  {
+    "text": "When an engineer says the work keeps arriving from nowhere, they are not asking you to justify the latest surprise.",
+    "source": "A complaint about surprises is a complaint about frequency",
+    "url": "https://maraschio.com/writing/surprises-are-a-rate-problem/",
+    "own": true
+  },
+  {
+    "text": "When a question stays open, the default wins by forfeit.",
+    "source": "The cost of not deciding",
+    "url": "https://maraschio.com/writing/the-cost-of-not-deciding/",
+    "own": true
+  },
+  {
+    "text": "When a small item has lost its scheduled slot twice, stop putting it back on an agenda.",
+    "source": "The venue is the bug",
+    "url": "https://maraschio.com/writing/the-venue-is-the-bug/",
+    "own": true
+  },
+  {
+    "text": "A dropped commitment is a withdrawal, and people remember withdrawals more vividly than deposits.",
+    "source": "Trust is repaid in small promises",
+    "url": "https://maraschio.com/writing/trust-is-repaid-in-small-promises/",
+    "own": true
+  },
+  {
+    "text": "The page is a straightedge laid against the idea: it shows every gap you would rather not see.",
+    "source": "Writing is thinking for leaders",
+    "url": "https://maraschio.com/writing/writing-is-thinking-for-leaders/",
+    "own": true
+  },
+  {
+    "text": "I treat review as teaching first and blocking second.",
+    "source": "Teach with questions in review",
+    "url": "https://maraschio.com/writing/teach-with-questions-in-review/",
+    "own": true
+  },
+  {
+    "text": "A time-check at the end only tells you what you already lost.",
+    "source": "The must-land item goes first",
+    "url": "https://maraschio.com/writing/the-must-land-item-goes-first/",
+    "own": true
+  },
+  {
+    "text": "The absence of a problem does not announce itself.",
+    "source": "Count your management wins",
+    "url": "https://maraschio.com/writing/count-your-management-wins/",
+    "own": true
+  },
+  {
+    "text": "A good ask does the listener's work for them.",
+    "source": "How to make an ask",
+    "url": "https://maraschio.com/writing/how-to-make-an-ask/",
+    "own": true
   }
 ]
