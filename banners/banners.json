@@ -66,6 +66,12 @@
     "alt": "Painted night scene of a climber high on a granite wall, clipped into a line of glowing anchors, with a belayer below and a lit valley far beneath."
   },
   {
+    "file": "risograph/01-loupe-scroll.webp",
+    "style": "risograph",
+    "theme": "Read more, not less",
+    "alt": "Risograph print in pink, teal and yellow: a brass magnifying glass resting on a long wavy scroll of printed patterns that runs across a desk, under a lamp's yellow cone of light, with books, pencils and a plant behind."
+  },
+  {
     "file": "woodblock/02-pillar.webp",
     "style": "woodblock",
     "theme": "Looks for the evidence that would prove him wrong",
@@ -88,6 +94,12 @@
     "style": "blueprint",
     "theme": "Third-party integrations",
     "alt": "Blueprint drawing of two railway lines of different gauges joined by a precise set of switches at a station."
+  },
+  {
+    "file": "mosaic/01-lamp.webp",
+    "style": "mosaic",
+    "theme": "Patient safety before velocity",
+    "alt": "Mosaic of small stone and gold tiles: a clay oil lamp with one steady flame on a ledge, its glow spreading in golden rings across a deep blue night sea between two hillside towns, framed by olive branches."
   },
   {
     "file": "papercut/02-bonsai.webp",
@@ -114,6 +126,12 @@
     "alt": "A worn indigo cloth on linen with a frayed spot mended by a patch of white sashiko stitches, a needle and white thread beside it."
   },
   {
+    "file": "risograph/02-loop-track.webp",
+    "style": "risograph",
+    "theme": "Optimize loops, not prompts",
+    "alt": "Risograph print of a toy steam train on an oval track that loops through rolling hills, past a station, a stone viaduct, a tunnel and small signal posts with flags."
+  },
+  {
     "file": "charcoal/02-erased-edge.webp",
     "style": "charcoal",
     "theme": "Erase early, it's cheap",
@@ -136,6 +154,12 @@
     "style": "watercolor",
     "theme": "Thinks in years, not days",
     "alt": "Watercolor of an oak sapling growing from cracked stone steps, the hills behind passing from spring to winter."
+  },
+  {
+    "file": "mosaic/02-clinic-door.webp",
+    "style": "mosaic",
+    "theme": "Downtime is a clinical event",
+    "alt": "Mosaic of a small stone clinic on a quiet street at night, its arched door open and lit from inside, warm windows and a lantern, a small red cross above the door, cypresses and dark houses around it."
   },
   {
     "file": "poster/03-lever.webp",
@@ -162,6 +186,12 @@
     "alt": "An empty leaded frame laid out on a glazier's bench, with stacks of cobalt, ruby, amber and green glass waiting beside it."
   },
   {
+    "file": "risograph/03-scale-model.webp",
+    "style": "risograph",
+    "theme": "Interview the plan before you build",
+    "alt": "Risograph print of a small cardboard model house on a drafting table, lit by an adjustable lamp, with a pencil, a folding ruler and rolled plans around it."
+  },
+  {
     "file": "diorama/03-mailboxes.webp",
     "style": "diorama",
     "theme": "Async by default",
@@ -184,6 +214,12 @@
     "style": "night",
     "theme": "Systems thinking, rooted at home",
     "alt": "Painted aerial view of a city at night, its avenues glowing like circuit traces around an obelisk, with a wide river along one edge."
+  },
+  {
+    "file": "mosaic/03-sealed-letter.webp",
+    "style": "mosaic",
+    "theme": "PHI stays inside its walls",
+    "alt": "Mosaic of a folded letter closed with a red wax seal, resting on a stone pedestal inside a walled garden with a closed green gate, cypresses and a full moon."
   },
   {
     "file": "woodblock/04-three-paths.webp",
@@ -210,6 +246,12 @@
     "alt": "Blueprint drawing of an old stone aqueduct with a new pipeline running alongside it across a valley."
   },
   {
+    "file": "risograph/04-two-keys.webp",
+    "style": "risograph",
+    "theme": "Approve is not execute",
+    "alt": "Risograph print of a yellow control console with two key switches set far apart and, between them, a large pink button under a raised safety cover."
+  },
+  {
     "file": "papercut/04-trellis.webp",
     "style": "papercut",
     "theme": "Mentoring and growth",
@@ -232,6 +274,12 @@
     "style": "embroidery",
     "theme": "Every handoff needs a knot",
     "alt": "An indigo thread and a rust thread stretched across linen, joined in the middle by one small neat knot."
+  },
+  {
+    "file": "mosaic/04-house-call.webp",
+    "style": "mosaic",
+    "theme": "Telehealth is a house call",
+    "alt": "Mosaic of a leather doctor's bag on a wooden chair draped with a blanket, by a window at dusk, a teapot, a cup and a glowing tablet on the sill, rooftops of a village outside."
   },
   {
     "file": "charcoal/04-one-light.webp",
@@ -258,6 +306,12 @@
     "alt": "Watercolor of a footpath winding through spring, summer, autumn and winter hills, a wooden ladder lying unused in the grass."
   },
   {
+    "file": "risograph/05-stage-flats.webp",
+    "style": "risograph",
+    "theme": "Coverage theater",
+    "alt": "Risograph print of a theatre stage seen from the wings: the painted facade of a grand building turns out to be flat boards propped up by wooden braces, with a spotlight on the empty floor."
+  },
+  {
     "file": "poster/05-door.webp",
     "style": "poster",
     "theme": "Conviction opens the door",
@@ -280,6 +334,12 @@
     "style": "stained-glass",
     "theme": "Make the right path the easy path",
     "alt": "Stained-glass garden where a wide amber path runs straight toward the light between dim blue side paths and red flowers."
+  },
+  {
+    "file": "mosaic/05-apothecary.webp",
+    "style": "mosaic",
+    "theme": "Clinical workflows are the product",
+    "alt": "Mosaic of long apothecary shelves holding neat rows of ceramic jars and glass bottles, with a mortar and pestle, bowls of herbs and a bundle of lavender on the counter."
   },
   {
     "file": "diorama/05-lit-room.webp",
@@ -306,6 +366,12 @@
     "alt": "Painted night scene of an empty concert stage, orchestra instruments resting at lit music stands around an empty conductor's podium."
   },
   {
+    "file": "risograph/06-hose-funnel.webp",
+    "style": "risograph",
+    "theme": "Manage the flood at the hose",
+    "alt": "Risograph print of three hoses with valves pouring water into one pink funnel, which feeds a pipe that fills a row of four watering cans."
+  },
+  {
     "file": "woodblock/06-baton.webp",
     "style": "woodblock",
     "theme": "Ownership goes to the people closest to the work",
@@ -328,6 +394,12 @@
     "style": "blueprint",
     "theme": "Runbooks and incident readiness",
     "alt": "Blueprint drawing of a fire station at rest, the engine facing the open doors and hose reels coiled and ready."
+  },
+  {
+    "file": "mosaic/06-waterwheel.webp",
+    "style": "mosaic",
+    "theme": "Revenue cycle as a pipeline",
+    "alt": "Mosaic of an aqueduct pouring water onto a large wooden waterwheel, the water running on through stone channels into rows of irrigated green fields."
   },
   {
     "file": "papercut/06-stone-pine.webp",
@@ -354,6 +426,12 @@
     "alt": "A needle threaded with ochre silk resting on linen beside a neat row of five wooden spools in other colours."
   },
   {
+    "file": "risograph/07-three-ledgers.webp",
+    "style": "risograph",
+    "theme": "The triple debt",
+    "alt": "Risograph print of three thick ledgers stacked on a desk, the bottom one buckled shut, beside a brass balance scale tipping slightly."
+  },
+  {
     "file": "charcoal/06-negative-tree.webp",
     "style": "charcoal",
     "theme": "Negative space decides the shape",
@@ -376,6 +454,12 @@
     "style": "watercolor",
     "theme": "Maybe later was a feature",
     "alt": "Watercolor of pantry shelves of jars of saved seeds and beans, a freshly turned garden outside the window."
+  },
+  {
+    "file": "mosaic/07-footprints.webp",
+    "style": "mosaic",
+    "theme": "Audit trails as product",
+    "alt": "Mosaic of a sunlit tiled courtyard where a trail of footprints runs from one archway past a central fountain to another, potted olive trees along the walls."
   },
   {
     "file": "poster/07-wind-tunnel.webp",
@@ -402,6 +486,12 @@
     "alt": "A round rose window in a pale wall, glowing gold at its centre and darkening ring by ring to deep violet at the rim."
   },
   {
+    "file": "risograph/08-two-chairs.webp",
+    "style": "risograph",
+    "theme": "One-on-ones",
+    "alt": "Risograph print of two armchairs facing each other by a tall window, with two steaming cups and an open notebook on a small round table, plants and a bookshelf around them."
+  },
+  {
     "file": "diorama/07-crane-shed.webp",
     "style": "diorama",
     "theme": "Delete code with confidence",
@@ -424,6 +514,12 @@
     "style": "night",
     "theme": "Healthcare tech as dependable infrastructure",
     "alt": "Painted night landscape where a glowing heartbeat line in the sky turns into a power line that runs to a village of lit stone houses."
+  },
+  {
+    "file": "mosaic/08-mask.webp",
+    "style": "mosaic",
+    "theme": "Dropping columns is not de-identification",
+    "alt": "Mosaic of a pale theatre mask lying on a draped stone table, casting a shadow on the wall behind that is still clearly a human profile, framed by ivy."
   },
   {
     "file": "woodblock/08-cardon.webp",
@@ -450,6 +546,12 @@
     "alt": "Blueprint cross-section of a canal lock, a boat waiting in the chamber between two gates holding the water at two levels."
   },
   {
+    "file": "risograph/09-compass.webp",
+    "style": "risograph",
+    "theme": "Hire for judgment",
+    "alt": "Risograph print of an open brass compass on a large unfolded map of branching paths, rivers and mountains, with a few pebbles marking places and a lake beyond."
+  },
+  {
     "file": "papercut/08-signpost.webp",
     "style": "papercut",
     "theme": "Decisions that unblock",
@@ -472,6 +574,12 @@
     "style": "embroidery",
     "theme": "Small habits compound",
     "alt": "A long embroidered vine across linen, every leaf the same small green stitch repeated along an ochre stem."
+  },
+  {
+    "file": "mosaic/09-mountain-road.webp",
+    "style": "mosaic",
+    "theme": "Guardrails for healthcare AI",
+    "alt": "Mosaic of a winding road cut into a cliffside and edged all along by a low stone wall, a horse and cart travelling on it, a river valley far below."
   },
   {
     "file": "charcoal/08-margins.webp",
@@ -498,6 +606,12 @@
     "alt": "Watercolor of an old stone tower beside a taller new tower in scaffolding, above a harbor town at sunrise."
   },
   {
+    "file": "risograph/10-press-run.webp",
+    "style": "risograph",
+    "theme": "Small batches, every day",
+    "alt": "Risograph print of a small printing press mid-run, sending out a stream of identical sheets that settle into a neat stack, next to a dripping ink can."
+  },
+  {
     "file": "poster/09-lantern-web.webp",
     "style": "poster",
     "theme": "The peer-to-peer web survived as paint",
@@ -520,6 +634,12 @@
     "style": "stained-glass",
     "theme": "Teaching beats telling",
     "alt": "Stained-glass panel of an older hand and a younger hand together placing one ruby triangle among blue and amber glass."
+  },
+  {
+    "file": "mosaic/10-five-fountains.webp",
+    "style": "mosaic",
+    "theme": "Five pods, one direction",
+    "alt": "Mosaic of five different fountains in a row, each spilling its water into one long shared pool where birds drink at the edge."
   },
   {
     "file": "diorama/09-relay-baton.webp",
@@ -546,6 +666,12 @@
     "alt": "Painted scene of a lone tree with a lantern on a calm island, while a storm drawn in swirling ink lines circles at a distance."
   },
   {
+    "file": "risograph/11-tandem.webp",
+    "style": "risograph",
+    "theme": "A human on every write",
+    "alt": "Risograph print of an empty pink tandem bicycle parked on a long straight road lined with trees, stretching to the horizon."
+  },
+  {
     "file": "woodblock/10-go-board.webp",
     "style": "woodblock",
     "theme": "Resolved by absence",
@@ -568,6 +694,12 @@
     "style": "blueprint",
     "theme": "Clean interfaces",
     "alt": "Blueprint exploded view of dovetail, mortise and tenon and finger joints, each shown apart and then fitted together."
+  },
+  {
+    "file": "mosaic/11-keystone.webp",
+    "style": "mosaic",
+    "theme": "The keystone layer",
+    "alt": "Mosaic of a single stone arch standing in open country, its keystone picked out in gold, a paved path running through it toward the hills and the sea."
   },
   {
     "file": "papercut/10-balloon.webp",
@@ -594,6 +726,12 @@
     "alt": "One even running stitch in rust thread crossing the whole width of the linen, the needle still at its end."
   },
   {
+    "file": "risograph/12-chart-notebook.webp",
+    "style": "risograph",
+    "theme": "Metrics need a narrative",
+    "alt": "Risograph print of a line chart pinned to a wall with arrows marking its dips, above an open notebook with the same marks and a fountain pen, a plant and a mug on the desk."
+  },
+  {
     "file": "charcoal/10-five-strokes.webp",
     "style": "charcoal",
     "theme": "Few strokes, sure hand",
@@ -616,6 +754,12 @@
     "style": "poster",
     "theme": "Blameless postmortems with teeth",
     "alt": "Screenprint poster of a ship in dry dock under floodlights, scaffolding along its hull, cranes and a harbor beyond."
+  },
+  {
+    "file": "mosaic/12-night-watch.webp",
+    "style": "mosaic",
+    "theme": "On-call is a promise to patients",
+    "alt": "Mosaic of a stone watchtower on a city wall at night, one window lit, a brazier burning on top and a bell ready, the sleeping town and harbour below under the stars."
   },
   {
     "file": "blueprint/11-pigeon.webp",
