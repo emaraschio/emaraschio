@@ -57,7 +57,8 @@
     "file": "matrix/01-sandbox.webp",
     "style": "matrix",
     "theme": "The agent sandbox",
-    "alt": "Green code rain on black: a glowing wireframe room floats in the void with a small cube sealed inside it, the falling glyphs parting around its walls."
+    "alt": "Green code rain on black: a glowing wireframe room floats in the void with a small cube sealed inside it, the falling glyphs parting around its walls.",
+    "still": "matrix/01-sandbox.still.webp"
   },
   {
     "file": "charcoal/01-bridge-lines.webp",
