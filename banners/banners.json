@@ -54,6 +54,12 @@
     "alt": "Two embroidery hoops on linen: one holds a floral design only outlined in thread, the other the same flowers fully stitched in rust, indigo and sage."
   },
   {
+    "file": "matrix/01-sandbox.webp",
+    "style": "matrix",
+    "theme": "The agent sandbox",
+    "alt": "Green code rain on black: a glowing wireframe room floats in the void with a small cube sealed inside it, the falling glyphs parting around its walls."
+  },
+  {
     "file": "charcoal/01-bridge-lines.webp",
     "style": "charcoal",
     "theme": "Sketch before you build",
@@ -64,6 +70,12 @@
     "style": "night",
     "theme": "Harnesses over heroics",
     "alt": "Painted night scene of a climber high on a granite wall, clipped into a line of glowing anchors, with a belayer below and a lit valley far beneath."
+  },
+  {
+    "file": "hermetic/01-mentalism.webp",
+    "style": "hermetic",
+    "theme": "Mentalism: plan before code",
+    "alt": "Gold engraving on deep green: a radiant eye above a sun projects a geometric blueprint onto the ground, a domed building rising from it in faint gold lines, scrollwork and globes at the edges."
   },
   {
     "file": "risograph/01-loupe-scroll.webp",
@@ -78,6 +90,12 @@
     "alt": "Woodblock print of a stone pillar standing in curling waves off a fishing village, waterlines marked on its side."
   },
   {
+    "file": "steampunk/01-gauges.webp",
+    "style": "steampunk",
+    "theme": "The four DORA gauges",
+    "alt": "Steampunk brass control panel with four round white-faced gauges in a row, each needle at a different angle, pipes, valves and gears around them, lamps at both ends."
+  },
+  {
     "file": "watercolor/02-seedling.webp",
     "style": "watercolor",
     "theme": "Learns constantly",
@@ -88,6 +106,12 @@
     "style": "poster",
     "theme": "Every correction becomes a guardrail",
     "alt": "Screenprint poster of a giant ratchet gear and pawl on a hilltop against a rising sun over a river valley."
+  },
+  {
+    "file": "dark-psychology/01-strawman.webp",
+    "style": "dark-psychology",
+    "theme": "The strawman, named so you can see it",
+    "alt": "Near-black night scene: a straw scarecrow on a wooden stand in a moonlit field, a heavy stone statue standing untouched in the shadows behind it."
   },
   {
     "file": "blueprint/02-integration.webp",
@@ -102,6 +126,12 @@
     "alt": "Mosaic of small stone and gold tiles: a clay oil lamp with one steady flame on a ledge, its glow spreading in golden rings across a deep blue night sea between two hillside towns, framed by olive branches."
   },
   {
+    "file": "alien/01-first-contact.webp",
+    "style": "alien",
+    "theme": "First contact: onboarding",
+    "alt": "Retro pulp sci-fi: a small scout ship with its ramp down on a glowing alien meadow, a lantern set at the foot of the ramp, luminous plants leaning in, two moons above."
+  },
+  {
     "file": "papercut/02-bonsai.webp",
     "style": "papercut",
     "theme": "Rightsizing without losing delivery",
@@ -112,6 +142,12 @@
     "style": "stained-glass",
     "theme": "Two-way doors move fast",
     "alt": "A pair of stained-glass doors in an old stone wall, one propped open onto a sunlit garden, casting coloured light on the flagstones."
+  },
+  {
+    "file": "matrix/02-harness.webp",
+    "style": "matrix",
+    "theme": "The eval harness",
+    "alt": "Green code rain on black: a row of glass test chambers on a rail, each holding a glowing sphere and lit with a check mark, one chamber dark, a conveyor feeding them from the left."
   },
   {
     "file": "diorama/02-toolbox-counter.webp",
@@ -126,6 +162,12 @@
     "alt": "A worn indigo cloth on linen with a frayed spot mended by a patch of white sashiko stitches, a needle and white thread beside it."
   },
   {
+    "file": "hermetic/02-correspondence.webp",
+    "style": "hermetic",
+    "theme": "Correspondence: Conway's law",
+    "alt": "Gold engraving on deep green: a constellation joined by lines in the night sky over mountains, and the same pattern mirrored below as gold roads between small towns, as above so below."
+  },
+  {
     "file": "risograph/02-loop-track.webp",
     "style": "risograph",
     "theme": "Optimize loops, not prompts",
@@ -136,6 +178,12 @@
     "style": "charcoal",
     "theme": "Erase early, it's cheap",
     "alt": "Sketchbook spread with a faint, half-erased outline of a cottage on the left and a finished charcoal cottage and tree on the right."
+  },
+  {
+    "file": "steampunk/02-pressure-valve.webp",
+    "style": "steampunk",
+    "theme": "The pressure valve: review load",
+    "alt": "Steampunk riveted copper boiler venting steam from a brass safety valve, its gauge needle in the red, a red wheel valve on the inlet pipe, a city of bridges through the windows."
   },
   {
     "file": "night/03-library.webp",
@@ -150,6 +198,12 @@
     "alt": "Woodblock print of a straw scarecrow in a wide hat standing upright in a rice field while rain and wind bend the stalks."
   },
   {
+    "file": "dark-psychology/02-sunk-cost.webp",
+    "style": "dark-psychology",
+    "theme": "Sunk cost, named so you can see it",
+    "alt": "Near-black night scene: a rowing boat half sunk in still water with coins spilling out, its rope still tied to a pier post where a lantern burns."
+  },
+  {
     "file": "watercolor/03-oak.webp",
     "style": "watercolor",
     "theme": "Thinks in years, not days",
@@ -160,6 +214,12 @@
     "style": "mosaic",
     "theme": "Downtime is a clinical event",
     "alt": "Mosaic of a small stone clinic on a quiet street at night, its arched door open and lit from inside, warm windows and a lantern, a small red cross above the door, cypresses and dark houses around it."
+  },
+  {
+    "file": "alien/02-translator.webp",
+    "style": "alien",
+    "theme": "The universal translator: write the memo",
+    "alt": "Retro pulp sci-fi: a glowing crystal on a stone plinth between two very different alien monoliths, their violet and green beams meeting inside it and rising as one."
   },
   {
     "file": "poster/03-lever.webp",
@@ -174,6 +234,12 @@
     "alt": "Blueprint cutaway of a beehive, bees streaming in and out past thousands of orderly hexagonal cells."
   },
   {
+    "file": "matrix/03-read-it.webp",
+    "style": "matrix",
+    "theme": "Read what the model writes",
+    "alt": "Green code rain on black: a curved bank of old CRT monitors scrolling glyphs, the centre screen paused under a magnifying glass."
+  },
+  {
     "file": "papercut/03-mosaic.webp",
     "style": "papercut",
     "theme": "Hiring for a whole picture",
@@ -184,6 +250,12 @@
     "style": "stained-glass",
     "theme": "Frame the problem before the options",
     "alt": "An empty leaded frame laid out on a glazier's bench, with stacks of cobalt, ruby, amber and green glass waiting beside it."
+  },
+  {
+    "file": "hermetic/03-vibration.webp",
+    "style": "hermetic",
+    "theme": "Vibration: cadence",
+    "alt": "Gold engraving on deep green: a struck tuning fork at the centre sends concentric rings across the frame, setting small planets and gears in motion on either side."
   },
   {
     "file": "risograph/03-scale-model.webp",
@@ -198,6 +270,12 @@
     "alt": "Miniature country lane lined with little mailboxes on posts, cottages and felt trees behind, nobody waiting."
   },
   {
+    "file": "steampunk/03-governor.webp",
+    "style": "steampunk",
+    "theme": "The governor: rate limits",
+    "alt": "Steampunk flyball governor spinning on a steam engine, its two brass balls lifted outward, the throttle linkage running off to a valve, a flywheel at the left."
+  },
+  {
     "file": "embroidery/03-unpicked-seam.webp",
     "style": "embroidery",
     "theme": "Unpicking is part of the craft",
@@ -208,6 +286,12 @@
     "style": "charcoal",
     "theme": "Work from the big shapes down",
     "alt": "Charcoal skyline blocked in as plain boxes and cylinders, with only one tower in the middle drawn out with windows."
+  },
+  {
+    "file": "dark-psychology/03-anchor.webp",
+    "style": "dark-psychology",
+    "theme": "Anchoring, named so you can see it",
+    "alt": "Near-black still life: a heavy iron anchor on a table, its chain dragging one pan of a brass balance scale down while a few small weights sit on the other."
   },
   {
     "file": "night/04-city.webp",
@@ -222,6 +306,12 @@
     "alt": "Mosaic of a folded letter closed with a red wax seal, resting on a stone pedestal inside a walled garden with a closed green gate, cypresses and a full moon."
   },
   {
+    "file": "alien/03-probe.webp",
+    "style": "alien",
+    "theme": "The probe: the eval",
+    "alt": "Retro pulp sci-fi: a spindly-legged probe standing in a glowing lake, lowering a sensor into the water, rings of light spreading from the point of contact."
+  },
+  {
     "file": "woodblock/04-three-paths.webp",
     "style": "woodblock",
     "theme": "Options with their trade-offs",
@@ -232,6 +322,12 @@
     "style": "watercolor",
     "theme": "Chooses where to concentrate",
     "alt": "Watercolor of one tall tree on a hillside catching the first light, a misty forest in the valley below."
+  },
+  {
+    "file": "matrix/04-walls.webp",
+    "style": "matrix",
+    "theme": "Guardrails as walls",
+    "alt": "Green code rain on black: a long wireframe corridor with solid glowing walls, the code sliding down them like water, a lit doorway at the far end."
   },
   {
     "file": "poster/04-lighthouse.webp",
@@ -246,6 +342,12 @@
     "alt": "Blueprint drawing of an old stone aqueduct with a new pipeline running alongside it across a valley."
   },
   {
+    "file": "hermetic/04-polarity.webp",
+    "style": "hermetic",
+    "theme": "Polarity: build versus buy",
+    "alt": "Gold engraving on deep green: a sun on the left and a crescent moon on the right joined by one gold ribbon that runs through a balance scale at the centre."
+  },
+  {
     "file": "risograph/04-two-keys.webp",
     "style": "risograph",
     "theme": "Approve is not execute",
@@ -256,6 +358,12 @@
     "style": "papercut",
     "theme": "Mentoring and growth",
     "alt": "Papercut diorama of climbing roses at different heights, each guided up its own wooden trellis."
+  },
+  {
+    "file": "steampunk/04-pneumatic-tube.webp",
+    "style": "steampunk",
+    "theme": "The pneumatic tube: async by default",
+    "alt": "Steampunk network of glass and brass tubes curving across a workshop, capsules travelling inside them, one dropping into a brass receiving basket."
   },
   {
     "file": "stained-glass/04-mended-pane.webp",
@@ -270,6 +378,12 @@
     "alt": "Miniature rocky island at dusk with two keepers' cottages side by side beneath a lit lighthouse, small boats moored below."
   },
   {
+    "file": "dark-psychology/04-urgency.webp",
+    "style": "dark-psychology",
+    "theme": "Manufactured urgency, named so you can see it",
+    "alt": "Near-black still life: a row of hourglasses on a shelf, all nearly run out, a hand-cranked mechanism in the shadows behind them ready to flip them again."
+  },
+  {
     "file": "embroidery/04-handoff-knot.webp",
     "style": "embroidery",
     "theme": "Every handoff needs a knot",
@@ -280,6 +394,12 @@
     "style": "mosaic",
     "theme": "Telehealth is a house call",
     "alt": "Mosaic of a leather doctor's bag on a wooden chair draped with a blanket, by a window at dusk, a teapot, a cup and a glowing tablet on the sill, rooftops of a village outside."
+  },
+  {
+    "file": "alien/04-derelict.webp",
+    "style": "alien",
+    "theme": "The derelict ship: legacy code",
+    "alt": "Retro pulp sci-fi: a vast crashed starship half buried in a luminous alien jungle, vines and fungi over its hull, one porthole still lit."
   },
   {
     "file": "charcoal/04-one-light.webp",
@@ -294,6 +414,12 @@
     "alt": "Painted night scene inside a greenhouse, rows of seedlings under hanging lamps, taller plants leaning over the newest shoots, a moonlit lake beyond the glass."
   },
   {
+    "file": "matrix/05-gate.webp",
+    "style": "matrix",
+    "theme": "The human gate",
+    "alt": "Green code rain on black: a wall of glyphs backed up behind a single iron turnstile with a heavy lever beside it, only a thin stream passing through."
+  },
+  {
     "file": "woodblock/05-logbook.webp",
     "style": "woodblock",
     "theme": "Decisions outlive the meeting",
@@ -304,6 +430,12 @@
     "style": "watercolor",
     "theme": "A career is a lifetime, not a ladder",
     "alt": "Watercolor of a footpath winding through spring, summer, autumn and winter hills, a wooden ladder lying unused in the grass."
+  },
+  {
+    "file": "hermetic/05-rhythm.webp",
+    "style": "hermetic",
+    "theme": "Rhythm: the on-call rotation",
+    "alt": "Gold engraving on deep green: a pendulum swings in a wide arc over the phases of the moon, a wave rising on one side of the frame and the tide calm on the other."
   },
   {
     "file": "risograph/05-stage-flats.webp",
@@ -318,6 +450,12 @@
     "alt": "Screenprint poster of a garden wall with a wide-open wooden door onto sunny fields beside a chained iron gate."
   },
   {
+    "file": "steampunk/05-boiler.webp",
+    "style": "steampunk",
+    "theme": "The boiler: tech debt",
+    "alt": "Steampunk boiler patched with mismatched riveted plates, bandaged pipes and one shiny new brass panel, a small flame burning underneath, blueprints on the wall."
+  },
+  {
     "file": "blueprint/05-weather.webp",
     "style": "blueprint",
     "theme": "Observability",
@@ -328,6 +466,12 @@
     "style": "papercut",
     "theme": "Pod-based delivery",
     "alt": "Papercut diorama of five small sailboats with different colored sails crossing a bay toward a lighthouse harbor."
+  },
+  {
+    "file": "dark-psychology/05-halo.webp",
+    "style": "dark-psychology",
+    "theme": "The halo effect, named so you can see it",
+    "alt": "Near-black still life: a plain cracked clay jug on a pedestal under a bright spotlight, finer vases and bowls left unlit in the shadows on either side."
   },
   {
     "file": "stained-glass/05-lit-path.webp",
@@ -342,6 +486,12 @@
     "alt": "Mosaic of long apothecary shelves holding neat rows of ceramic jars and glass bottles, with a mortar and pestle, bowls of herbs and a bundle of lavender on the counter."
   },
   {
+    "file": "alien/05-terraforming.webp",
+    "style": "alien",
+    "theme": "Terraforming: platform as a product",
+    "alt": "Retro pulp sci-fi: domed greenhouses across a violet plain, green growth spilling from the open ones, tall towers releasing clouds and a new river starting to flow."
+  },
+  {
     "file": "diorama/05-lit-room.webp",
     "style": "diorama",
     "theme": "Protect the deep-work afternoon",
@@ -352,6 +502,12 @@
     "style": "embroidery",
     "theme": "Tension is a design input",
     "alt": "A wooden hoop holding linen taut around a sage-green stitched motif while the cloth outside it lies rumpled."
+  },
+  {
+    "file": "matrix/06-trail.webp",
+    "style": "matrix",
+    "theme": "The audit trail",
+    "alt": "Green code rain on black: a path of glowing wireframe stepping stones receding into the dark, each one sending out rings of light where it was placed."
   },
   {
     "file": "charcoal/05-dark-doorway.webp",
@@ -366,6 +522,12 @@
     "alt": "Painted night scene of an empty concert stage, orchestra instruments resting at lit music stands around an empty conductor's podium."
   },
   {
+    "file": "hermetic/06-cause-effect.webp",
+    "style": "hermetic",
+    "theme": "Cause and effect: blameless postmortems",
+    "alt": "Gold engraving on deep green: a chain of gold links runs through a row of planets, from a tiny spark at the left to a great bell at the right."
+  },
+  {
     "file": "risograph/06-hose-funnel.webp",
     "style": "risograph",
     "theme": "Manage the flood at the hose",
@@ -376,6 +538,12 @@
     "style": "woodblock",
     "theme": "Ownership goes to the people closest to the work",
     "alt": "Woodblock print of one hand passing a glowing baton to another above a winding road and a rising sun."
+  },
+  {
+    "file": "steampunk/06-pocket-watch.webp",
+    "style": "steampunk",
+    "theme": "The pocket watch: lead time",
+    "alt": "Steampunk open pocket watch showing its gears, a long chain running off the bench, a loupe and screwdrivers beside it under a lantern."
   },
   {
     "file": "watercolor/06-garden.webp",
@@ -390,6 +558,12 @@
     "alt": "Screenprint poster of a railway signal set to stop beside an empty track running to a sunset horizon."
   },
   {
+    "file": "dark-psychology/06-loaded-question.webp",
+    "style": "dark-psychology",
+    "theme": "The loaded question, named so you can see it",
+    "alt": "Near-black still life: dice scattered on dark felt beside a tipped cup and a candle, one die split open to show the lead weight inside."
+  },
+  {
     "file": "blueprint/06-fire-station.webp",
     "style": "blueprint",
     "theme": "Runbooks and incident readiness",
@@ -400,6 +574,12 @@
     "style": "mosaic",
     "theme": "Revenue cycle as a pipeline",
     "alt": "Mosaic of an aqueduct pouring water onto a large wooden waterwheel, the water running on through stone channels into rows of irrigated green fields."
+  },
+  {
+    "file": "alien/06-hive.webp",
+    "style": "alien",
+    "theme": "The hive: pods",
+    "alt": "Retro pulp sci-fi: five glowing hexagonal towers, each lit a different colour, joined by slender bridges to a central spire, spores drifting between them."
   },
   {
     "file": "papercut/06-stone-pine.webp",
@@ -414,6 +594,12 @@
     "alt": "Stained-glass bell tower against a cobalt sky, a single hand holding the bell's rope, between pale diamond-paned panels."
   },
   {
+    "file": "matrix/07-context.webp",
+    "style": "matrix",
+    "theme": "Context control",
+    "alt": "Green code rain on black: a bright rectangular frame with a small dial on its edge, the glyphs inside it orderly and bright, those outside dim and broken into drifting shards."
+  },
+  {
     "file": "diorama/06-welcome-lanterns.webp",
     "style": "diorama",
     "theme": "Onboarding is the first product a new hire uses",
@@ -424,6 +610,12 @@
     "style": "embroidery",
     "theme": "One colour at a time",
     "alt": "A needle threaded with ochre silk resting on linen beside a neat row of five wooden spools in other colours."
+  },
+  {
+    "file": "hermetic/07-gender.webp",
+    "style": "hermetic",
+    "theme": "Product and engineering in mesh",
+    "alt": "Gold engraving on deep green: two alchemical vessels, one under a sun and one under a moon, pour into a crowned cup where their streams become a single flame."
   },
   {
     "file": "risograph/07-three-ledgers.webp",
@@ -438,6 +630,12 @@
     "alt": "A band of dense dark charcoal across a sketchbook out of which a pale tree on a hill appears, drawn only by the shading around it."
   },
   {
+    "file": "steampunk/07-airship.webp",
+    "style": "steampunk",
+    "theme": "The airship: the roadmap",
+    "alt": "Steampunk brass-and-canvas airship cruising at sunset over hills and a river city, a route of small flags marked across the land below."
+  },
+  {
     "file": "night/07-lantern.webp",
     "style": "night",
     "theme": "AI as leverage",
@@ -448,6 +646,12 @@
     "style": "woodblock",
     "theme": "Conway's law as a planning tool",
     "alt": "Woodblock print of rice terraces on a mountainside, water flowing from one terrace to the next, a farmhouse at the top."
+  },
+  {
+    "file": "dark-psychology/07-social-proof.webp",
+    "style": "dark-psychology",
+    "theme": "Social proof, named so you can see it",
+    "alt": "Near-black night scene: a line of identical wooden toy ducks rolling along a cliff edge toward the drop, the last one turned the other way holding a small lantern."
   },
   {
     "file": "watercolor/07-seed-jars.webp",
@@ -462,6 +666,12 @@
     "alt": "Mosaic of a sunlit tiled courtyard where a trail of footprints runs from one archway past a central fountain to another, potted olive trees along the walls."
   },
   {
+    "file": "alien/07-deep-signal.webp",
+    "style": "alien",
+    "theme": "The signal from deep space: observability",
+    "alt": "Retro pulp sci-fi: a huge radio dish on a cliff pointed at the stars, a thin pulse of light arriving from deep space, a small lit observatory beside it."
+  },
+  {
     "file": "poster/07-wind-tunnel.webp",
     "style": "poster",
     "theme": "Eval harnesses before agents",
@@ -472,6 +682,12 @@
     "style": "blueprint",
     "theme": "Security and privacy by design",
     "alt": "Blueprint drawing of an open round vault door with its ring of steel bolts and gears, an orderly room behind it."
+  },
+  {
+    "file": "matrix/08-latency.webp",
+    "style": "matrix",
+    "theme": "Latency is a feature",
+    "alt": "Green code rain on black: a single pulse of light travelling along a sagging wireframe cable strung between two stopwatches at the edges of the frame."
   },
   {
     "file": "papercut/07-sunflowers.webp",
@@ -486,6 +702,12 @@
     "alt": "A round rose window in a pale wall, glowing gold at its centre and darkening ring by ring to deep violet at the rim."
   },
   {
+    "file": "hermetic/08-emerald-tablet.webp",
+    "style": "hermetic",
+    "theme": "Docs as the source of truth",
+    "alt": "Gold engraving on deep green: a glowing emerald tablet covered in sigils stands on a stone altar before a sunburst, smaller copies fanning out on both sides."
+  },
+  {
     "file": "risograph/08-two-chairs.webp",
     "style": "risograph",
     "theme": "One-on-ones",
@@ -496,6 +718,12 @@
     "style": "diorama",
     "theme": "Delete code with confidence",
     "alt": "Miniature town at dusk where a small crane lifts an empty shed off a cleared lot while every house around it stays lit."
+  },
+  {
+    "file": "steampunk/08-difference-engine.webp",
+    "style": "steampunk",
+    "theme": "The difference engine: evals",
+    "alt": "Steampunk difference engine of stacked brass wheels and gear columns on a workbench, a hand crank at one end and a strip of punched tape feeding the other, a lamp above."
   },
   {
     "file": "embroidery/07-chalk-pattern.webp",
@@ -510,6 +738,12 @@
     "alt": "Crumpled charcoal sketches on a dark table beside one clean finished drawing of a lighthouse on a headland and a stick of charcoal."
   },
   {
+    "file": "dark-psychology/08-recency.webp",
+    "style": "dark-psychology",
+    "theme": "Recency bias, named so you can see it",
+    "alt": "Near-black still life: a shelf of old leather ledgers fading into darkness, only the newest one at the end lit by a desk lamp."
+  },
+  {
     "file": "night/08-heartbeat.webp",
     "style": "night",
     "theme": "Healthcare tech as dependable infrastructure",
@@ -520,6 +754,12 @@
     "style": "mosaic",
     "theme": "Dropping columns is not de-identification",
     "alt": "Mosaic of a pale theatre mask lying on a draped stone table, casting a shadow on the wall behind that is still clearly a human profile, framed by ivy."
+  },
+  {
+    "file": "alien/08-quarantine.webp",
+    "style": "alien",
+    "theme": "Quarantine: the sandbox",
+    "alt": "Retro pulp sci-fi: a transparent sealed dome with an airlock in an alien meadow, one strange glowing plant growing inside, the meadow untouched outside."
   },
   {
     "file": "woodblock/08-cardon.webp",
@@ -534,6 +774,12 @@
     "alt": "Watercolor of a desk with a sealed letter under a stone and a fountain pen, an empty meeting table through the doorway."
   },
   {
+    "file": "matrix/09-observe.webp",
+    "style": "matrix",
+    "theme": "Observability",
+    "alt": "Green code rain on black: a dark control room with a curved wall of screens showing waveforms, maps and a globe, one screen brighter than the rest, an empty chair at the console."
+  },
+  {
     "file": "poster/08-bandoneon.webp",
     "style": "poster",
     "theme": "Twenty years is nothing",
@@ -544,6 +790,12 @@
     "style": "blueprint",
     "theme": "Human-gated writes",
     "alt": "Blueprint cross-section of a canal lock, a boat waiting in the chamber between two gates holding the water at two levels."
+  },
+  {
+    "file": "hermetic/09-caduceus.webp",
+    "style": "hermetic",
+    "theme": "Healthcare engineering",
+    "alt": "Gold engraving on deep green: a winged caduceus lying across the frame, two serpents coiled around the staff enclosing a mortar and a vial, laurel at both ends."
   },
   {
     "file": "risograph/09-compass.webp",
@@ -558,6 +810,12 @@
     "alt": "Papercut diorama of a crossroads signpost with one arrow painted ochre, carts already moving down that road."
   },
   {
+    "file": "steampunk/09-signal-lamp.webp",
+    "style": "steampunk",
+    "theme": "The signal lamp: incidents",
+    "alt": "Steampunk railway signal at night, its red lens lit and a semaphore arm raised beside a small signal box with a glowing window, a viaduct and full moon behind."
+  },
+  {
     "file": "stained-glass/08-lantern-corner.webp",
     "style": "stained-glass",
     "theme": "Curiosity over certainty",
@@ -568,6 +826,12 @@
     "style": "diorama",
     "theme": "Data contracts at the boundary",
     "alt": "Two miniature villages, red roofs and blue roofs, on either side of a river, meeting at a stone bridge with a small booth."
+  },
+  {
+    "file": "dark-psychology/09-bozo-bit.webp",
+    "style": "dark-psychology",
+    "theme": "The bozo bit, named so you can see it",
+    "alt": "Near-black still life: a brass toggle switch flipped off with a small blue light, and beside it a telephone receiver lying on the table with its cord cut."
   },
   {
     "file": "embroidery/08-vine.webp",
@@ -582,6 +846,12 @@
     "alt": "Mosaic of a winding road cut into a cliffside and edged all along by a low stone wall, a horse and cart travelling on it, a river valley far below."
   },
   {
+    "file": "alien/09-mothership.webp",
+    "style": "alien",
+    "theme": "The mothership: the monolith",
+    "alt": "Retro pulp sci-fi: an enormous mothership hanging over an alien valley, its underside a maze of pipes and lights, small craft peeling away from it in every direction."
+  },
+  {
     "file": "charcoal/08-margins.webp",
     "style": "charcoal",
     "theme": "Leave room in the margins",
@@ -592,6 +862,12 @@
     "style": "night",
     "theme": "Handoffs across time zones",
     "alt": "Painted river at dusk turning to night, paper boats on stepping stones passing a small light from one boat to the next."
+  },
+  {
+    "file": "matrix/10-kill-switch.webp",
+    "style": "matrix",
+    "theme": "The kill switch",
+    "alt": "Green code rain on black: a large red mushroom-shaped emergency stop button on a metal post, the only red thing in the frame, a thick cable trailing from it into the dark."
   },
   {
     "file": "woodblock/09-rider.webp",
@@ -606,6 +882,12 @@
     "alt": "Watercolor of an old stone tower beside a taller new tower in scaffolding, above a harbor town at sunrise."
   },
   {
+    "file": "hermetic/10-ouroboros.webp",
+    "style": "hermetic",
+    "theme": "The loop",
+    "alt": "Gold engraving on deep green: an ouroboros serpent stretched into a wide oval, biting its tail, with a retort, gears and a small flame inside the loop."
+  },
+  {
     "file": "risograph/10-press-run.webp",
     "style": "risograph",
     "theme": "Small batches, every day",
@@ -616,6 +898,12 @@
     "style": "poster",
     "theme": "The peer-to-peer web survived as paint",
     "alt": "Screenprint poster of houses on rolling hills at twilight, each with a lantern, linked by strings of light."
+  },
+  {
+    "file": "steampunk/10-workbench.webp",
+    "style": "steampunk",
+    "theme": "The workshop bench: one-on-ones",
+    "alt": "Steampunk inventor's workbench with two leather stools pulled up to it, a half-built brass mechanism in the middle, tools and two tin cups, blueprints pinned to the wall."
   },
   {
     "file": "blueprint/09-balance.webp",
@@ -630,6 +918,12 @@
     "alt": "Papercut diorama of a globe half in day and half in night, glowing threads linking cities around it."
   },
   {
+    "file": "dark-psychology/10-franklin.webp",
+    "style": "dark-psychology",
+    "theme": "The Ben Franklin effect, named so you can see it",
+    "alt": "Near-black interior: an old book resting on a dark table between two doors that both stand slightly open, a single candle burning beside it."
+  },
+  {
     "file": "stained-glass/09-two-hands.webp",
     "style": "stained-glass",
     "theme": "Teaching beats telling",
@@ -640,6 +934,12 @@
     "style": "mosaic",
     "theme": "Five pods, one direction",
     "alt": "Mosaic of five different fountains in a row, each spilling its water into one long shared pool where birds drink at the edge."
+  },
+  {
+    "file": "alien/10-landing-party.webp",
+    "style": "alien",
+    "theme": "The landing party: the on-call team",
+    "alt": "Retro pulp sci-fi: a base camp of three glowing tents, a lamp, packs and a bare flagpole on an alien ridge at night, the scout ship parked behind."
   },
   {
     "file": "diorama/09-relay-baton.webp",
