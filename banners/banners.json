@@ -144,6 +144,12 @@
     "alt": "Green code rain on black: a long row of dark server cabinets with only the first one lit and running, a glowing birdcage with a bird inside hanging in front of it."
   },
   {
+    "file": "dark-psychology/11-gaslighting.webp",
+    "style": "dark-psychology",
+    "theme": "Gaslighting, named so you can see it",
+    "alt": "Near-black interior: a wall lamp turned down low beside a fogged mirror, and on the table below an open ledger whose pages are still clear in the dim light."
+  },
+  {
     "file": "hermetic/11-four-elements.webp",
     "style": "hermetic",
     "theme": "The four elements in balance",
@@ -244,6 +250,12 @@
     "style": "blueprint",
     "theme": "High-traffic data",
     "alt": "Blueprint cutaway of a beehive, bees streaming in and out past thousands of orderly hexagonal cells."
+  },
+  {
+    "file": "dark-psychology/12-foot-in-door.webp",
+    "style": "dark-psychology",
+    "theme": "Foot in the door, named so you can see it",
+    "alt": "Near-black interior: a heavy door held open a crack by a small wedge, cold light spilling through the gap, a row of larger and larger wedges lined up behind it."
   },
   {
     "file": "matrix/03-read-it.webp",
@@ -348,6 +360,12 @@
     "alt": "Green code rain on black: a long wireframe corridor with solid glowing walls, the code sliding down them like water, a lit doorway at the far end."
   },
   {
+    "file": "dark-psychology/13-false-dilemma.webp",
+    "style": "dark-psychology",
+    "theme": "The false dilemma, named so you can see it",
+    "alt": "Near-black interior: two closed doors side by side in the light, and far off in the shadow a third door standing slightly open."
+  },
+  {
     "file": "poster/04-lighthouse.webp",
     "style": "poster",
     "theme": "Every position needs a written reason",
@@ -448,6 +466,12 @@
     "style": "woodblock",
     "theme": "Decisions outlive the meeting",
     "alt": "Woodblock print of a blank open logbook and a brass compass on a ship's deck, great waves and a distant mountain beyond."
+  },
+  {
+    "file": "dark-psychology/14-survivorship.webp",
+    "style": "dark-psychology",
+    "theme": "Survivorship bias, named so you can see it",
+    "alt": "Near-black hangar: a model propeller plane on a stand under one lamp, its wings and tail full of small holes, the engine and cockpit untouched."
   },
   {
     "file": "matrix/12-flags.webp",
@@ -552,6 +576,12 @@
     "alt": "Pale chalk drawing of a sunlit street of whitewashed houses with one deep black open doorway at the centre."
   },
   {
+    "file": "dark-psychology/15-goalposts.webp",
+    "style": "dark-psychology",
+    "theme": "Moving the goalposts, named so you can see it",
+    "alt": "Near-black pitch at night: a goal on wheels under a single floodlight, deep drag marks in the turf behind it, a ball resting where it used to stand."
+  },
+  {
     "file": "night/06-orchestra.webp",
     "style": "night",
     "theme": "Coordinating the pods",
@@ -652,6 +682,12 @@
     "style": "diorama",
     "theme": "Onboarding is the first product a new hire uses",
     "alt": "Miniature town entrance with a picture map on a wooden stand and a row of small lanterns lining the path into town."
+  },
+  {
+    "file": "dark-psychology/16-confirmation.webp",
+    "style": "dark-psychology",
+    "theme": "Confirmation bias, named so you can see it",
+    "alt": "Near-black still life: blue-tinted spectacles on a table over scattered playing cards, every card seen through the lenses the same suit, the rest mixed."
   },
   {
     "file": "embroidery/06-one-needle.webp",
@@ -756,6 +792,12 @@
     "alt": "Papercut diorama of a sunflower field on rolling hills, every flower turned toward the same sun."
   },
   {
+    "file": "dark-psychology/17-scarcity.webp",
+    "style": "dark-psychology",
+    "theme": "Manufactured scarcity, named so you can see it",
+    "alt": "Near-black shop: a single glass jar alone on a long empty shelf under a spotlight, a full crate of identical jars waiting in the shadows behind it."
+  },
+  {
     "file": "stained-glass/07-rose-window.webp",
     "style": "stained-glass",
     "theme": "Debt has an interest rate",
@@ -856,6 +898,12 @@
     "style": "poster",
     "theme": "Twenty years is nothing",
     "alt": "Screenprint poster of a bandoneon on a café chair on a cobblestone corner, streetlamps and balconies along a tree-lined avenue."
+  },
+  {
+    "file": "dark-psychology/18-reciprocity.webp",
+    "style": "dark-psychology",
+    "theme": "The reciprocity hook, named so you can see it",
+    "alt": "Near-black still life: a small wrapped gift with a blue ribbon on a table beside a candle, a fine line running from the ribbon up into the shadows to a fishing hook."
   },
   {
     "file": "blueprint/08-canal-lock.webp",
@@ -960,6 +1008,12 @@
     "alt": "Woodblock print of a rider in a wide hat and a horse galloping as one across a windswept plain."
   },
   {
+    "file": "dark-psychology/19-gish-gallop.webp",
+    "style": "dark-psychology",
+    "theme": "The Gish gallop, named so you can see it",
+    "alt": "Near-black study: a flood of loose pages pouring off a desk and across the floor, and one sheet held flat under a glass paperweight in the lamplight."
+  },
+  {
     "file": "watercolor/09-towers.webp",
     "style": "watercolor",
     "theme": "Hire people better than you",
@@ -1060,6 +1114,12 @@
     "style": "night",
     "theme": "Steady decisions in a crisis",
     "alt": "Painted scene of a lone tree with a lantern on a calm island, while a storm drawn in swirling ink lines circles at a distance."
+  },
+  {
+    "file": "dark-psychology/20-framing.webp",
+    "style": "dark-psychology",
+    "theme": "The frame, named so you can see it",
+    "alt": "Near-black gallery: an ornate picture frame on a stand in front of a wide landscape painting, the frame isolating one sunlit corner while the rest sits in shadow."
   },
   {
     "file": "risograph/11-tandem.webp",
