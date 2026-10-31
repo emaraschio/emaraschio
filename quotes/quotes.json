@@ -820,5 +820,119 @@
     "source": "How to make an ask",
     "url": "https://maraschio.com/writing/how-to-make-an-ask/",
     "own": true
+  },
+  {
+    "text": "The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.",
+    "author": "Ada Lovelace",
+    "source": "Notes on the Analytical Engine (1843)",
+    "url": "https://www.fourmilab.ch/babbage/sketch.html"
+  },
+  {
+    "text": "One of the most common types of advice we give at Y Combinator is to do things that don't scale.",
+    "author": "Paul Graham",
+    "source": "Do Things that Don't Scale (2013)",
+    "url": "https://paulgraham.com/ds.html"
+  },
+  {
+    "text": "Looking back, we were the luckiest people in the world; there was no choice but to be pioneers.",
+    "author": "Margaret Hamilton",
+    "source": "MIT News (2016)",
+    "url": "https://news.mit.edu/2016/scene-at-mit-margaret-hamilton-apollo-code-0817"
+  },
+  {
+    "text": "Good design is as little design as possible.",
+    "author": "Dieter Rams",
+    "source": "Ten principles for good design",
+    "url": "https://www.vitsoe.com/us/about/good-design"
+  },
+  {
+    "text": "Duplication is far cheaper than the wrong abstraction.",
+    "author": "Sandi Metz",
+    "source": "The Wrong Abstraction (2016)",
+    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction"
+  },
+  {
+    "text": "You can't trust code that you did not totally create yourself.",
+    "author": "Ken Thompson",
+    "source": "Reflections on Trusting Trust (1984)",
+    "url": "https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf"
+  },
+  {
+    "text": "Leverage points are not intuitive.",
+    "author": "Donella Meadows",
+    "source": "Leverage Points: Places to Intervene in a System",
+    "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/"
+  },
+  {
+    "text": "It's easier to ask forgiveness than to get permission.",
+    "author": "attributed to Grace Hopper",
+    "source": "traced by Quote Investigator, who finds earlier uses",
+    "url": "https://quoteinvestigator.com/2018/06/19/forgive/"
+  },
+  {
+    "text": "It's harder to read code than to write it.",
+    "author": "Joel Spolsky",
+    "source": "Things You Should Never Do, Part I (2000)",
+    "url": "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/"
+  },
+  {
+    "text": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+    "author": "Alan Turing",
+    "source": "Computing Machinery and Intelligence (1950)",
+    "url": "https://courses.cs.umbc.edu/471/papers/turing.pdf"
+  },
+  {
+    "text": "A language that doesn't affect the way you think about programming, is not worth knowing.",
+    "author": "Alan Perlis",
+    "source": "Epigrams on Programming (1982)",
+    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html"
+  },
+  {
+    "text": "Boredom is easier to fix than an absence of belief.",
+    "author": "Michael Lopp",
+    "source": "Bored People Quit",
+    "url": "https://randsinrepose.com/archives/bored-people-quit/"
+  },
+  {
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson and Gerald Jay Sussman",
+    "source": "Structure and Interpretation of Computer Programs, preface",
+    "url": "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-7.html"
+  },
+  {
+    "text": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+    "author": "Brian Kernighan",
+    "source": "The Elements of Programming Style (1974), with P. J. Plauger",
+    "url": "https://en.wikiquote.org/wiki/Brian_Kernighan"
+  },
+  {
+    "text": "Asking good questions is a super important skill when writing software.",
+    "author": "Julia Evans",
+    "source": "How to ask good questions",
+    "url": "https://jvns.ca/blog/good-questions/"
+  },
+  {
+    "text": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+    "author": "Bjarne Stroustrup",
+    "source": "stroustrup.com, Quotes",
+    "url": "https://www.stroustrup.com/quotes.html"
+  },
+  {
+    "text": "If you do not work on an important problem, it's unlikely you'll do important work.",
+    "author": "Richard Hamming",
+    "source": "You and Your Research (1986)",
+    "url": "https://www.cs.virginia.edu/~robins/YouAndYourResearch.html"
+  },
+  {
+    "text": "Simplicity is a choice.",
+    "author": "Rich Hickey",
+    "source": "Simple Made Easy (2011)",
+    "url": "https://raw.githubusercontent.com/matthiasn/talk-transcripts/master/Hickey_Rich/SimpleMadeEasy.md"
+  },
+  {
+    "text": "You can often shift a project's outcomes by investing the smallest ounce of effort, and this is some of the most valuable work you can do.",
+    "author": "Will Larson",
+    "source": "Work on what matters",
+    "url": "https://lethain.com/work-on-what-matters/"
   }
 ]
