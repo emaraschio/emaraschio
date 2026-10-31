@@ -467,5 +467,184 @@
   {
     "text": "Y es así.",
     "own": true
+  },
+  {
+    "text": "Treat DORA as connective tissue, not a scoreboard.",
+    "source": "DORA is connective tissue, not a scoreboard",
+    "url": "https://maraschio.com/writing/dora-is-connective-tissue/",
+    "own": true
+  },
+  {
+    "text": "Not shipping was one of the best calls I made last year.",
+    "source": "Maybe later was a feature",
+    "url": "https://maraschio.com/writing/maybe-later-was-a-feature/",
+    "own": true
+  },
+  {
+    "text": "Organizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations.",
+    "author": "Melvin Conway",
+    "source": "How Do Committees Invent? (1968)",
+    "url": "https://www.melconway.com/Home/Committees_Paper.html"
+  },
+  {
+    "text": "A career ladder is a contract, not HR wallpaper.",
+    "source": "Career ladders are contracts",
+    "url": "https://maraschio.com/writing/career-ladders-are-contracts/",
+    "own": true
+  },
+  {
+    "text": "The expensive mistake with agents isn't bad code. It's confident scaffolding aimed at the wrong problem.",
+    "source": "Interview the plan before you build",
+    "url": "https://maraschio.com/writing/interview-the-plan-before-you-build/",
+    "own": true
+  },
+  {
+    "text": "Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite.",
+    "author": "Ward Cunningham",
+    "source": "The WyCash Portfolio Management System, OOPSLA '92",
+    "url": "https://c2.com/doc/oopsla92.html"
+  },
+  {
+    "text": "Stop optimizing prompts; optimize loops.",
+    "source": "Loop engineering, not prompt engineering",
+    "url": "https://maraschio.com/writing/loop-engineering-not-prompt-engineering/",
+    "own": true
+  },
+  {
+    "text": "AI-assisted teams don't just have more tech debt. They have three kinds of debt at once, and only one of them shows up in a linter.",
+    "source": "The triple debt",
+    "url": "https://maraschio.com/writing/triple-debt/",
+    "own": true
+  },
+  {
+    "text": "Given enough eyeballs, all bugs are shallow.",
+    "author": "Eric S. Raymond",
+    "source": "The Cathedral and the Bazaar (1997), naming it Linus's Law"
+  },
+  {
+    "text": "A test that breaks tells you. A guard that breaks does not.",
+    "source": "The guard that cannot fail",
+    "url": "https://maraschio.com/writing/the-guard-that-cannot-fail/",
+    "own": true
+  },
+  {
+    "text": "The fix for shipping code you cannot debug is not using the agent less. It is reading far more of what it writes.",
+    "source": "Read more, not less",
+    "url": "https://maraschio.com/writing/read-more-not-less/",
+    "own": true
+  },
+  {
+    "text": "The competent programmer is fully aware of the strictly limited size of his own skull.",
+    "author": "Edsger W. Dijkstra",
+    "source": "The Humble Programmer (1972)",
+    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html"
+  },
+  {
+    "text": "A change failure rate of zero is not a target. It's the fastest way to ruin a team.",
+    "source": "Change failure rate is a risk budget",
+    "url": "https://maraschio.com/writing/change-failure-rate-is-a-risk-budget/",
+    "own": true
+  },
+  {
+    "text": "Manage the flood where it comes out of the hose, not where it pools in the queue.",
+    "source": "Slop cannons and review load",
+    "url": "https://maraschio.com/writing/slop-cannons-and-review-load/",
+    "own": true
+  },
+  {
+    "text": "Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident.",
+    "author": "Rob Pike",
+    "source": "Notes on Programming in C (1989)",
+    "url": "https://doc.cat-v.org/bell_labs/pikestyle"
+  },
+  {
+    "text": "A meeting is a real-time performance; a memo is a thought that survived editing.",
+    "source": "Write the memo before the meeting",
+    "url": "https://maraschio.com/writing/write-the-memo-before-the-meeting/",
+    "own": true
+  },
+  {
+    "text": "A metric is a fact looking for meaning, and if you don't supply it, someone with less context will.",
+    "source": "Metrics need a narrative",
+    "url": "https://maraschio.com/writing/metrics-need-a-narrative/",
+    "own": true
+  },
+  {
+    "text": "With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody.",
+    "author": "Hyrum Wright",
+    "source": "Hyrum's Law",
+    "url": "https://www.hyrumslaw.com/"
+  },
+  {
+    "text": "Own your career, because nobody with the power to do it for you is going to.",
+    "source": "Nobody is coming to save your career",
+    "url": "https://maraschio.com/writing/nobody-is-coming-to-save-your-career/",
+    "own": true
+  },
+  {
+    "text": "The information was all there. That is not the same as communicating it.",
+    "source": "Cut your update in half",
+    "url": "https://maraschio.com/writing/cut-your-update-in-half/",
+    "own": true
+  },
+  {
+    "text": "Be conservative in what you do, be liberal in what you accept from others.",
+    "author": "Jon Postel",
+    "source": "RFC 793 (1981)",
+    "url": "https://www.rfc-editor.org/rfc/rfc793"
+  },
+  {
+    "text": "That is not a productivity gain. It is a traffic jam with a faster engine.",
+    "source": "The review bottleneck",
+    "url": "https://maraschio.com/writing/the-review-bottleneck/",
+    "own": true
+  },
+  {
+    "text": "Visibility is not value, and treating talking as a proxy for contributing is how you lose your best people.",
+    "source": "The quietest engineer in the room",
+    "url": "https://maraschio.com/writing/the-quietest-engineer-in-the-room/",
+    "own": true
+  },
+  {
+    "text": "We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.",
+    "author": "Donald Knuth",
+    "source": "Structured Programming with go to Statements (1974)",
+    "url": "https://pic.plover.com/knuth-GOTO.pdf"
+  },
+  {
+    "text": "A thick suite of hollow tests is more dangerous than no tests at all.",
+    "source": "Coverage theater",
+    "url": "https://maraschio.com/writing/coverage-theater/",
+    "own": true
+  },
+  {
+    "text": "Stop optimizing for the promotion, optimize for the capability the promotion is supposed to certify.",
+    "source": "Growth is not promotion",
+    "url": "https://maraschio.com/writing/growth-is-not-promotion/",
+    "own": true
+  },
+  {
+    "text": "There are only two hard things in Computer Science: cache invalidation and naming things.",
+    "author": "Phil Karlton",
+    "source": "as quoted by Martin Fowler",
+    "url": "https://martinfowler.com/bliki/TwoHardThings.html"
+  },
+  {
+    "text": "Psychological safety is not comfort. It is the license to say the uncomfortable thing.",
+    "source": "Psychological safety without softness",
+    "url": "https://maraschio.com/writing/psychological-safety-without-softness/",
+    "own": true
+  },
+  {
+    "text": "One person carrying the whole system is a single point of failure with a pulse.",
+    "source": "Harnesses over heroics",
+    "url": "https://maraschio.com/writing/harnesses-over-heroics/",
+    "own": true
+  },
+  {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "source": "traced to him by Quote Investigator",
+    "url": "https://quoteinvestigator.com/2012/09/27/invent-the-future/"
   }
 ]
