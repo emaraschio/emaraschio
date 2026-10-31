@@ -144,6 +144,12 @@
     "alt": "Green code rain on black: a long row of dark server cabinets with only the first one lit and running, a glowing birdcage with a bird inside hanging in front of it."
   },
   {
+    "file": "hermetic/11-four-elements.webp",
+    "style": "hermetic",
+    "theme": "The four elements in balance",
+    "alt": "Gold engraving on deep green: four element triangles in a row, each holding a small scene of fire, sea, sky and mountain, joined by gold rings with a balance scale beneath."
+  },
+  {
     "file": "stained-glass/02-two-way-doors.webp",
     "style": "stained-glass",
     "theme": "Two-way doors move fast",
@@ -244,6 +250,12 @@
     "style": "matrix",
     "theme": "Read what the model writes",
     "alt": "Green code rain on black: a curved bank of old CRT monitors scrolling glyphs, the centre screen paused under a magnifying glass."
+  },
+  {
+    "file": "hermetic/12-philosophers-stone.webp",
+    "style": "hermetic",
+    "theme": "The philosopher stone: quality compounds",
+    "alt": "Gold engraving on deep green: a glowing red stone on a cushion at the centre, grey rocks on the left turning step by step into gold ingots on the right as they pass it."
   },
   {
     "file": "papercut/03-mosaic.webp",
@@ -360,6 +372,12 @@
     "alt": "Risograph print of a yellow control console with two key switches set far apart and, between them, a large pink button under a raised safety cover."
   },
   {
+    "file": "hermetic/13-athanor.webp",
+    "style": "hermetic",
+    "theme": "The athanor: continuous integration",
+    "alt": "Gold engraving on deep green: a brick furnace with a steady fire and a sealed glass vessel on top, a long bellows feeding it from the left and four hourglasses on a bench to the right."
+  },
+  {
     "file": "papercut/04-trellis.webp",
     "style": "papercut",
     "theme": "Mentoring and growth",
@@ -460,6 +478,12 @@
     "style": "poster",
     "theme": "Conviction opens the door",
     "alt": "Screenprint poster of a garden wall with a wide-open wooden door onto sunny fields beside a chained iron gate."
+  },
+  {
+    "file": "hermetic/14-solve-coagula.webp",
+    "style": "hermetic",
+    "theme": "Solve et coagula: the refactor",
+    "alt": "Gold engraving on deep green: a rough crystal on the left dissolving into a stream of particles that pass through a retort over a flame and gather into a cleaner crystal on the right."
   },
   {
     "file": "steampunk/05-boiler.webp",
@@ -564,6 +588,12 @@
     "alt": "Steampunk open pocket watch showing its gears, a long chain running off the bench, a loupe and screwdrivers beside it under a lantern."
   },
   {
+    "file": "hermetic/15-prima-materia.webp",
+    "style": "hermetic",
+    "theme": "Prima materia: the raw data",
+    "alt": "Gold engraving on deep green: a rough lump of dark ore with a single gold vein resting on a stone slab, ringed by small symbols of what it could become."
+  },
+  {
     "file": "watercolor/06-garden.webp",
     "style": "watercolor",
     "theme": "Recognition is a system",
@@ -664,6 +694,12 @@
     "style": "night",
     "theme": "AI as leverage",
     "alt": "Painted scene of a single paper lantern lighting brass gears inside a vast, dark clockwork hall."
+  },
+  {
+    "file": "hermetic/16-alembic.webp",
+    "style": "hermetic",
+    "theme": "The alembic: distill before you decide",
+    "alt": "Gold engraving on deep green: a glass alembic full of leaves over a flame, its long tube carrying vapour across the frame to a small vial catching a few gold drops."
   },
   {
     "file": "woodblock/07-terraces.webp",
@@ -768,6 +804,12 @@
     "alt": "Crumpled charcoal sketches on a dark table beside one clean finished drawing of a lighthouse on a headland and a stick of charcoal."
   },
   {
+    "file": "hermetic/17-squared-circle.webp",
+    "style": "hermetic",
+    "theme": "The squared circle: constraints shape the design",
+    "alt": "Gold engraving on deep green: a circle inside a square inside a triangle inside a larger circle, with a compass, a straightedge and a stone sphere laid beside the figure."
+  },
+  {
     "file": "dark-psychology/08-recency.webp",
     "style": "dark-psychology",
     "theme": "Recency bias, named so you can see it",
@@ -868,6 +910,12 @@
     "style": "dark-psychology",
     "theme": "The bozo bit, named so you can see it",
     "alt": "Near-black still life: a brass toggle switch flipped off with a small blue light, and beside it a telephone receiver lying on the table with its cord cut."
+  },
+  {
+    "file": "hermetic/18-hermetic-seal.webp",
+    "style": "hermetic",
+    "theme": "The hermetic seal: data inside its boundary",
+    "alt": "Gold engraving on deep green: a glass flask closed with a melted gold seal, something luminous orbiting inside it, drifting sparks outside unable to get in."
   },
   {
     "file": "embroidery/08-vine.webp",
@@ -972,6 +1020,12 @@
     "alt": "Stained-glass panel of an older hand and a younger hand together placing one ruby triangle among blue and amber glass."
   },
   {
+    "file": "hermetic/19-phoenix.webp",
+    "style": "hermetic",
+    "theme": "The phoenix: rebuild from the postmortem",
+    "alt": "Gold engraving on deep green: a gold phoenix with wings spread across the frame rising from flames, broken gears and tools in the embers beneath it."
+  },
+  {
     "file": "mosaic/10-five-fountains.webp",
     "style": "mosaic",
     "theme": "Five pods, one direction",
@@ -1072,6 +1126,12 @@
     "style": "embroidery",
     "theme": "Slow is smooth, smooth is fast",
     "alt": "One even running stitch in rust thread crossing the whole width of the linen, the needle still at its end."
+  },
+  {
+    "file": "hermetic/20-three-stages.webp",
+    "style": "hermetic",
+    "theme": "Three stages: a migration in reversible steps",
+    "alt": "Gold engraving on deep green: three flasks over small flames in a row, the first black, the second white, the third red-gold, with gold arrows linking them."
   },
   {
     "file": "risograph/12-chart-notebook.webp",
