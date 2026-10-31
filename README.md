@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/papercut/01-campfires.webp" alt="Papercut diorama of a single campfire on one side of a river valley and a village ringed with many campfires on the other." width="100%">
+<img src="banners/stained-glass/01-swinging-panes.webp" alt="Leaded stained-glass window backlit by low sun: a band of ruby flowers and amber lattice on cobalt, with two small hinged panes swung open and one shut." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "A complex system that works is invariably found to have evolved from a simple system that worked." - John Gall, Systemantics (1975)
+> "Autonomy without a handshake is not speed." - [Approve is not execute](https://maraschio.com/writing/approve-is-not-execute/)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
