@@ -1,12 +1,12 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
 <picture>
-<source media="(prefers-reduced-motion: reduce)" srcset="banners/stained-glass/01-swinging-panes.still.webp">
-<img src="banners/stained-glass/01-swinging-panes.webp" alt="Leaded stained-glass window backlit by low sun: a band of ruby flowers and amber lattice on cobalt, with two small hinged panes swung open and one shut." width="100%">
+<source media="(prefers-reduced-motion: reduce)" srcset="banners/diorama/01-new-track.still.webp">
+<img src="banners/diorama/01-new-track.webp" alt="Tilt-shift miniature valley at sunset where a new railway track runs beside the old one, a small locomotive on each, work lamps along the line." width="100%">
 </picture>
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Autonomy without a handshake is not speed." - [Approve is not execute](https://maraschio.com/writing/approve-is-not-execute/)
+> "The first thing is you need to be in full control of the plans."
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
