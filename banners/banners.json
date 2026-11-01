@@ -206,7 +206,8 @@
     "file": "steampunk/02-pressure-valve.webp",
     "style": "steampunk",
     "theme": "The pressure valve: review load",
-    "alt": "Steampunk riveted copper boiler venting steam from a brass safety valve, its gauge needle in the red, a red wheel valve on the inlet pipe, a city of bridges through the windows."
+    "alt": "Steampunk riveted copper boiler venting steam from a brass safety valve, its gauge needle in the red, a red wheel valve on the inlet pipe, a city of bridges through the windows.",
+    "still": "steampunk/02-pressure-valve.still.webp"
   },
   {
     "file": "night/03-library.webp",
@@ -414,7 +415,8 @@
     "file": "steampunk/04-pneumatic-tube.webp",
     "style": "steampunk",
     "theme": "The pneumatic tube: async by default",
-    "alt": "Steampunk network of glass and brass tubes curving across a workshop, capsules travelling inside them, one dropping into a brass receiving basket."
+    "alt": "Steampunk network of glass and brass tubes curving across a workshop, capsules travelling inside them, one dropping into a brass receiving basket.",
+    "still": "steampunk/04-pneumatic-tube.still.webp"
   },
   {
     "file": "stained-glass/04-mended-pane.webp",
@@ -626,7 +628,8 @@
     "file": "steampunk/06-pocket-watch.webp",
     "style": "steampunk",
     "theme": "The pocket watch: lead time",
-    "alt": "Steampunk open pocket watch showing its gears, a long chain running off the bench, a loupe and screwdrivers beside it under a lantern."
+    "alt": "Steampunk open pocket watch showing its gears, a long chain running off the bench, a loupe and screwdrivers beside it under a lantern.",
+    "still": "steampunk/06-pocket-watch.still.webp"
   },
   {
     "file": "hermetic/15-prima-materia.webp",
@@ -735,7 +738,8 @@
     "file": "steampunk/07-airship.webp",
     "style": "steampunk",
     "theme": "The airship: the roadmap",
-    "alt": "Steampunk brass-and-canvas airship cruising at sunset over hills and a river city, a route of small flags marked across the land below."
+    "alt": "Steampunk brass-and-canvas airship cruising at sunset over hills and a river city, a route of small flags marked across the land below.",
+    "still": "steampunk/07-airship.still.webp"
   },
   {
     "file": "night/07-lantern.webp",
@@ -844,7 +848,8 @@
     "file": "steampunk/08-difference-engine.webp",
     "style": "steampunk",
     "theme": "The difference engine: evals",
-    "alt": "Steampunk difference engine of stacked brass wheels and gear columns on a workbench, a hand crank at one end and a strip of punched tape feeding the other, a lamp above."
+    "alt": "Steampunk difference engine of stacked brass wheels and gear columns on a workbench, a hand crank at one end and a strip of punched tape feeding the other, a lamp above.",
+    "still": "steampunk/08-difference-engine.still.webp"
   },
   {
     "file": "embroidery/07-chalk-pattern.webp",
