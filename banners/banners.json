@@ -580,7 +580,8 @@
     "file": "matrix/06-trail.webp",
     "style": "matrix",
     "theme": "The audit trail",
-    "alt": "Green code rain on black: a path of glowing wireframe stepping stones receding into the dark, each one sending out rings of light where it was placed."
+    "alt": "Green code rain on black: a path of glowing wireframe stepping stones receding into the dark, each one sending out rings of light where it was placed.",
+    "still": "matrix/06-trail.still.webp"
   },
   {
     "file": "charcoal/05-dark-doorway.webp",
@@ -800,7 +801,8 @@
     "file": "matrix/08-latency.webp",
     "style": "matrix",
     "theme": "Latency is a feature",
-    "alt": "Green code rain on black: a single pulse of light travelling along a sagging wireframe cable strung between two stopwatches at the edges of the frame."
+    "alt": "Green code rain on black: a single pulse of light travelling along a sagging wireframe cable strung between two stopwatches at the edges of the frame.",
+    "still": "matrix/08-latency.still.webp"
   },
   {
     "file": "papercut/07-sunflowers.webp",
@@ -1065,7 +1067,8 @@
     "file": "matrix/17-replay.webp",
     "style": "matrix",
     "theme": "Replay the trace",
-    "alt": "Green code rain on black: a wireframe reel-to-reel tape machine, its tape running out as a horizontal timeline of small event markers across the frame, one ringed in white."
+    "alt": "Green code rain on black: a wireframe reel-to-reel tape machine, its tape running out as a horizontal timeline of small event markers across the frame, one ringed in white.",
+    "still": "matrix/17-replay.still.webp"
   },
   {
     "file": "blueprint/09-balance.webp",
@@ -1181,7 +1184,8 @@
     "file": "matrix/18-rate-limit.webp",
     "style": "matrix",
     "theme": "The rate limiter",
-    "alt": "Green code rain on black: a wide pipe packed with glyphs narrows through a wireframe valve with a pressure gauge into a slow, evenly spaced drip of single glyphs."
+    "alt": "Green code rain on black: a wide pipe packed with glyphs narrows through a wireframe valve with a pressure gauge into a slow, evenly spaced drip of single glyphs.",
+    "still": "matrix/18-rate-limit.still.webp"
   },
   {
     "file": "papercut/10-balloon.webp",
@@ -1290,7 +1294,8 @@
     "file": "matrix/19-review-queue.webp",
     "style": "matrix",
     "theme": "The review queue",
-    "alt": "Green code rain on black: a long conveyor of wireframe crates waiting in front of a small lit inspection booth, the crates past it stamped with a check mark and moving on."
+    "alt": "Green code rain on black: a long conveyor of wireframe crates waiting in front of a small lit inspection booth, the crates past it stamped with a check mark and moving on.",
+    "still": "matrix/19-review-queue.still.webp"
   },
   {
     "file": "papercut/12-windmill.webp",
