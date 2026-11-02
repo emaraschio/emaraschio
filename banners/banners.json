@@ -145,7 +145,8 @@
     "file": "matrix/11-canary.webp",
     "style": "matrix",
     "theme": "The canary release",
-    "alt": "Green code rain on black: a long row of dark server cabinets with only the first one lit and running, a glowing birdcage with a bird inside hanging in front of it."
+    "alt": "Green code rain on black: a long row of dark server cabinets with only the first one lit and running, a glowing birdcage with a bird inside hanging in front of it.",
+    "still": "matrix/11-canary.still.webp"
   },
   {
     "file": "dark-psychology/11-gaslighting.webp",
@@ -376,7 +377,8 @@
     "file": "matrix/04-walls.webp",
     "style": "matrix",
     "theme": "Guardrails as walls",
-    "alt": "Green code rain on black: a long wireframe corridor with solid glowing walls, the code sliding down them like water, a lit doorway at the far end."
+    "alt": "Green code rain on black: a long wireframe corridor with solid glowing walls, the code sliding down them like water, a lit doorway at the far end.",
+    "still": "matrix/04-walls.still.webp"
   },
   {
     "file": "dark-psychology/13-false-dilemma.webp",
@@ -490,7 +492,8 @@
     "file": "matrix/05-gate.webp",
     "style": "matrix",
     "theme": "The human gate",
-    "alt": "Green code rain on black: a wall of glyphs backed up behind a single iron turnstile with a heavy lever beside it, only a thin stream passing through."
+    "alt": "Green code rain on black: a wall of glyphs backed up behind a single iron turnstile with a heavy lever beside it, only a thin stream passing through.",
+    "still": "matrix/05-gate.still.webp"
   },
   {
     "file": "woodblock/05-logbook.webp",
@@ -757,7 +760,8 @@
     "file": "matrix/14-rollback.webp",
     "style": "matrix",
     "theme": "Rollback",
-    "alt": "Green code rain on black: a big lever on a pedestal pulled back, the code rain around it flowing upward, a glowing clock face behind with its hands swept backwards."
+    "alt": "Green code rain on black: a big lever on a pedestal pulled back, the code rain around it flowing upward, a glowing clock face behind with its hands swept backwards.",
+    "still": "matrix/14-rollback.still.webp"
   },
   {
     "file": "risograph/07-three-ledgers.webp",
