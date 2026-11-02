@@ -166,6 +166,12 @@
     "alt": "A pair of stained-glass doors in an old stone wall, one propped open onto a sunlit garden, casting coloured light on the flagstones."
   },
   {
+    "file": "cyberpunk/01-night-shift.webp",
+    "style": "cyberpunk",
+    "theme": "Agents on the night shift",
+    "alt": "Cyberpunk server alley in the rain at night, small white service robots working at glowing terminals between the racks, magenta and cyan neon reflecting on the wet ground."
+  },
+  {
     "file": "matrix/02-harness.webp",
     "style": "matrix",
     "theme": "The eval harness",
@@ -274,6 +280,12 @@
     "style": "hermetic",
     "theme": "The philosopher stone: quality compounds",
     "alt": "Gold engraving on deep green: a glowing red stone on a cushion at the centre, grey rocks on the left turning step by step into gold ingots on the right as they pass it."
+  },
+  {
+    "file": "cyberpunk/02-clinic-tower.webp",
+    "style": "cyberpunk",
+    "theme": "Healthcare runs on uptime",
+    "alt": "Cyberpunk hospital tower crowned by a glowing cyan cross over a rain-soaked neon city, small drones at its landing pads and every window lit."
   },
   {
     "file": "papercut/03-mosaic.webp",
@@ -385,6 +397,12 @@
     "theme": "Modernizing infrastructure without stopping the flow",
     "alt": "Blueprint drawing of an old stone aqueduct with a new pipeline running alongside it across a valley.",
     "still": "blueprint/04-aqueduct.still.webp"
+  },
+  {
+    "file": "cyberpunk/03-checkpoint.webp",
+    "style": "cyberpunk",
+    "theme": "Guardrails at the gate",
+    "alt": "Cyberpunk street canyon where glowing blue data cubes flow through a lit checkpoint arch that scans them, a few red cubes held back at the side."
   },
   {
     "file": "hermetic/04-polarity.webp",
@@ -499,6 +517,12 @@
     "alt": "Watercolor of a footpath winding through spring, summer, autumn and winter hills, a wooden ladder lying unused in the grass."
   },
   {
+    "file": "cyberpunk/04-pager.webp",
+    "style": "cyberpunk",
+    "theme": "Who carries the pager",
+    "alt": "A chunky retro pager glowing magenta on a wet rooftop ledge, the neon city and a pink moon spread out below."
+  },
+  {
     "file": "hermetic/05-rhythm.webp",
     "style": "hermetic",
     "theme": "Rhythm: the on-call rotation",
@@ -606,6 +630,12 @@
     "style": "matrix",
     "theme": "Read the diff",
     "alt": "Green code rain on black: two tall translucent panes of glyphs side by side, almost identical, one band of rows highlighted on each and a thin line joining them."
+  },
+  {
+    "file": "cyberpunk/05-model-kiosk.webp",
+    "style": "cyberpunk",
+    "theme": "Choosing the model",
+    "alt": "Cyberpunk night-market stall under a dripping awning, shelves of glowing capsule cores in different colors and a robotic arm holding one up."
   },
   {
     "file": "hermetic/06-cause-effect.webp",
@@ -716,6 +746,12 @@
     "style": "hermetic",
     "theme": "Product and engineering in mesh",
     "alt": "Gold engraving on deep green: two alchemical vessels, one under a sun and one under a moon, pour into a crowned cup where their streams become a single flame."
+  },
+  {
+    "file": "cyberpunk/06-substation.webp",
+    "style": "cyberpunk",
+    "theme": "Compute has a cost",
+    "alt": "Cyberpunk power substation feeding glowing cables into a huge windowless data center, steam rising from its cooling towers into the rain."
   },
   {
     "file": "matrix/14-rollback.webp",
@@ -829,6 +865,12 @@
     "alt": "Gold engraving on deep green: a glowing emerald tablet covered in sigils stands on a stone altar before a sunburst, smaller copies fanning out on both sides."
   },
   {
+    "file": "cyberpunk/07-heartbeat.webp",
+    "style": "cyberpunk",
+    "theme": "Patient-facing systems",
+    "alt": "A giant curved screen on a skyscraper showing a single cyan heartbeat line, its glow reflected on a wet neon street with cars and drones."
+  },
+  {
     "file": "risograph/08-two-chairs.webp",
     "style": "risograph",
     "theme": "One-on-ones",
@@ -936,6 +978,12 @@
     "style": "hermetic",
     "theme": "Healthcare engineering",
     "alt": "Gold engraving on deep green: a winged caduceus lying across the frame, two serpents coiled around the staff enclosing a mortar and a vial, laurel at both ends."
+  },
+  {
+    "file": "cyberpunk/08-shield.webp",
+    "style": "cyberpunk",
+    "theme": "Privacy by design",
+    "alt": "A translucent dome of glowing hexagon panels over a calm, warmly lit clinic garden, surveillance drones hovering outside it in a neon city."
   },
   {
     "file": "risograph/09-compass.webp",
@@ -1046,6 +1094,12 @@
     "alt": "Gold engraving on deep green: an ouroboros serpent stretched into a wide oval, biting its tail, with a retort, gears and a small flame inside the loop."
   },
   {
+    "file": "cyberpunk/09-repair-bay.webp",
+    "style": "cyberpunk",
+    "theme": "Paying down debt",
+    "alt": "Cyberpunk repair bay where robotic arms patch a battered old delivery robot in a shower of sparks, the neon city and rain outside."
+  },
+  {
     "file": "risograph/10-press-run.webp",
     "style": "risograph",
     "theme": "Small batches, every day",
@@ -1154,6 +1208,12 @@
     "style": "woodblock",
     "theme": "Resolved by absence",
     "alt": "Woodblock print of a go game left mid-play on a veranda, two empty cushions, maple leaves drifted across the board."
+  },
+  {
+    "file": "cyberpunk/10-skybridge.webp",
+    "style": "cyberpunk",
+    "theme": "Clean handoffs",
+    "alt": "Two neon skyscrapers joined by a glass skybridge, a small drone carrying one glowing package across, the city lights far below."
   },
   {
     "file": "watercolor/10-dam.webp",
