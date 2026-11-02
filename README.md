@@ -1,12 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<picture>
-<source media="(prefers-reduced-motion: reduce)" srcset="banners/diorama/01-new-track.still.webp">
-<img src="banners/diorama/01-new-track.webp" alt="Tilt-shift miniature valley at sunset where a new railway track runs beside the old one, a small locomotive on each, work lamps along the line." width="100%">
-</picture>
+<img src="banners/embroidery/01-tidy-back.webp" alt="Two embroidery hoops on linen: one holds a floral design only outlined in thread, the other the same flowers fully stitched in rust, indigo and sage." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "The first thing is you need to be in full control of the plans."
+> "Feedback you act on silently looks identical to feedback you ignored." - [Ask for feedback that bites](https://maraschio.com/writing/ask-for-feedback-that-bites/)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
