@@ -64,10 +64,11 @@
     "still": "matrix/01-sandbox.still.webp"
   },
   {
-    "file": "charcoal/01-bridge-lines.webp",
-    "style": "charcoal",
-    "theme": "Sketch before you build",
-    "alt": "Charcoal and chalk drawing on grey paper of an arched stone bridge over a river, its construction lines still visible around it."
+    "file": "cyberpunk/03-checkpoint.webp",
+    "style": "cyberpunk",
+    "theme": "Guardrails at the gate",
+    "alt": "Cyberpunk street canyon where glowing blue data cubes flow through a lit checkpoint arch that scans them, a few red cubes held back at the side.",
+    "still": "cyberpunk/03-checkpoint.still.webp"
   },
   {
     "file": "night/02-harness.webp",
@@ -88,10 +89,11 @@
     "alt": "Risograph print in pink, teal and yellow: a brass magnifying glass resting on a long wavy scroll of printed patterns that runs across a desk, under a lamp's yellow cone of light, with books, pencils and a plant behind."
   },
   {
-    "file": "woodblock/02-pillar.webp",
-    "style": "woodblock",
-    "theme": "Looks for the evidence that would prove him wrong",
-    "alt": "Woodblock print of a stone pillar standing in curling waves off a fishing village, waterlines marked on its side."
+    "file": "cyberpunk/07-heartbeat.webp",
+    "style": "cyberpunk",
+    "theme": "Patient-facing systems",
+    "alt": "A giant curved screen on a skyscraper showing a single cyan heartbeat line, its glow reflected on a wet neon street with cars and drones.",
+    "still": "cyberpunk/07-heartbeat.still.webp"
   },
   {
     "file": "steampunk/01-gauges.webp",
@@ -401,11 +403,10 @@
     "still": "blueprint/04-aqueduct.still.webp"
   },
   {
-    "file": "cyberpunk/03-checkpoint.webp",
-    "style": "cyberpunk",
-    "theme": "Guardrails at the gate",
-    "alt": "Cyberpunk street canyon where glowing blue data cubes flow through a lit checkpoint arch that scans them, a few red cubes held back at the side.",
-    "still": "cyberpunk/03-checkpoint.still.webp"
+    "file": "charcoal/01-bridge-lines.webp",
+    "style": "charcoal",
+    "theme": "Sketch before you build",
+    "alt": "Charcoal and chalk drawing on grey paper of an arched stone bridge over a river, its construction lines still visible around it."
   },
   {
     "file": "hermetic/04-polarity.webp",
@@ -870,11 +871,10 @@
     "alt": "Gold engraving on deep green: a glowing emerald tablet covered in sigils stands on a stone altar before a sunburst, smaller copies fanning out on both sides."
   },
   {
-    "file": "cyberpunk/07-heartbeat.webp",
-    "style": "cyberpunk",
-    "theme": "Patient-facing systems",
-    "alt": "A giant curved screen on a skyscraper showing a single cyan heartbeat line, its glow reflected on a wet neon street with cars and drones.",
-    "still": "cyberpunk/07-heartbeat.still.webp"
+    "file": "woodblock/02-pillar.webp",
+    "style": "woodblock",
+    "theme": "Looks for the evidence that would prove him wrong",
+    "alt": "Woodblock print of a stone pillar standing in curling waves off a fishing village, waterlines marked on its side."
   },
   {
     "file": "risograph/08-two-chairs.webp",
