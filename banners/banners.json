@@ -404,7 +404,8 @@
     "file": "cyberpunk/03-checkpoint.webp",
     "style": "cyberpunk",
     "theme": "Guardrails at the gate",
-    "alt": "Cyberpunk street canyon where glowing blue data cubes flow through a lit checkpoint arch that scans them, a few red cubes held back at the side."
+    "alt": "Cyberpunk street canyon where glowing blue data cubes flow through a lit checkpoint arch that scans them, a few red cubes held back at the side.",
+    "still": "cyberpunk/03-checkpoint.still.webp"
   },
   {
     "file": "hermetic/04-polarity.webp",
@@ -872,7 +873,8 @@
     "file": "cyberpunk/07-heartbeat.webp",
     "style": "cyberpunk",
     "theme": "Patient-facing systems",
-    "alt": "A giant curved screen on a skyscraper showing a single cyan heartbeat line, its glow reflected on a wet neon street with cars and drones."
+    "alt": "A giant curved screen on a skyscraper showing a single cyan heartbeat line, its glow reflected on a wet neon street with cars and drones.",
+    "still": "cyberpunk/07-heartbeat.still.webp"
   },
   {
     "file": "risograph/08-two-chairs.webp",
