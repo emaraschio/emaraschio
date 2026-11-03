@@ -1,9 +1,12 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/embroidery/01-tidy-back.webp" alt="Two embroidery hoops on linen: one holds a floral design only outlined in thread, the other the same flowers fully stitched in rust, indigo and sage." width="100%">
+<picture>
+<source media="(prefers-reduced-motion: reduce)" srcset="banners/matrix/01-sandbox.still.webp">
+<img src="banners/matrix/01-sandbox.webp" alt="Green code rain on black: a glowing wireframe room floats in the void with a small cube sealed inside it, the falling glyphs parting around its walls." width="100%">
+</picture>
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Feedback you act on silently looks identical to feedback you ignored." - [Ask for feedback that bites](https://maraschio.com/writing/ask-for-feedback-that-bites/)
+> "Nothing is predestined. The obstacles of your past can become the gateways that lead to new beginnings." - attributed to Ralph Blum
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
