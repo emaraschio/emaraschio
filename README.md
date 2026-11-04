@@ -1,12 +1,12 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
 <picture>
-<source media="(prefers-reduced-motion: reduce)" srcset="banners/matrix/01-sandbox.still.webp">
-<img src="banners/matrix/01-sandbox.webp" alt="Green code rain on black: a glowing wireframe room floats in the void with a small cube sealed inside it, the falling glyphs parting around its walls." width="100%">
+<source media="(prefers-reduced-motion: reduce)" srcset="banners/cyberpunk/03-checkpoint.still.webp">
+<img src="banners/cyberpunk/03-checkpoint.webp" alt="Cyberpunk street canyon where glowing blue data cubes flow through a lit checkpoint arch that scans them, a few red cubes held back at the side." width="100%">
 </picture>
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Nothing is predestined. The obstacles of your past can become the gateways that lead to new beginnings." - attributed to Ralph Blum
+> "Let the agent run where the work is reversible and verifiable." - [Ask mode versus agent mode](https://maraschio.com/writing/ask-mode-versus-agent-mode/)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
