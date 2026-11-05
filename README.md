@@ -1,12 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<picture>
-<source media="(prefers-reduced-motion: reduce)" srcset="banners/cyberpunk/03-checkpoint.still.webp">
-<img src="banners/cyberpunk/03-checkpoint.webp" alt="Cyberpunk street canyon where glowing blue data cubes flow through a lit checkpoint arch that scans them, a few red cubes held back at the side." width="100%">
-</picture>
+<img src="banners/night/02-harness.webp" alt="Painted night scene of a climber high on a granite wall, clipped into a line of glowing anchors, with a belayer below and a lit valley far beneath." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Let the agent run where the work is reversible and verifiable." - [Ask mode versus agent mode](https://maraschio.com/writing/ask-mode-versus-agent-mode/)
+> "Adding manpower to a late software project makes it later." - Fred Brooks, The Mythical Man-Month (1975)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
