@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/hermetic/01-mentalism.webp" alt="Gold engraving on deep green: a radiant eye above a sun projects a geometric blueprint onto the ground, a domed building rising from it in faint gold lines, scrollwork and globes at the edges." width="100%">
+<img src="banners/risograph/01-loupe-scroll.webp" alt="Risograph print in pink, teal and yellow: a brass magnifying glass resting on a long wavy scroll of printed patterns that runs across a desk, under a lamp&#x27;s yellow cone of light, with books, pencils and a plant behind." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "In my opinion, the new software engineering is about the harness. It's about developing these tools."
+> "Say the bad news the moment you believe it, before you have a fix." - [Bad news does not age well](https://maraschio.com/writing/bad-news-does-not-age-well/)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
