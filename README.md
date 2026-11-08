@@ -1,9 +1,12 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/risograph/01-loupe-scroll.webp" alt="Risograph print in pink, teal and yellow: a brass magnifying glass resting on a long wavy scroll of printed patterns that runs across a desk, under a lamp&#x27;s yellow cone of light, with books, pencils and a plant behind." width="100%">
+<picture>
+<source media="(prefers-reduced-motion: reduce)" srcset="banners/cyberpunk/07-heartbeat.still.webp">
+<img src="banners/cyberpunk/07-heartbeat.webp" alt="A giant curved screen on a skyscraper showing a single cyan heartbeat line, its glow reflected on a wet neon street with cars and drones." width="100%">
+</picture>
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Say the bad news the moment you believe it, before you have a fix." - [Bad news does not age well](https://maraschio.com/writing/bad-news-does-not-age-well/)
+> "Blameless and ownerless are not the same thing." - [Blameless postmortems with teeth](https://maraschio.com/writing/blameless-postmortems-with-teeth/)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
