@@ -1,12 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<picture>
-<source media="(prefers-reduced-motion: reduce)" srcset="banners/cyberpunk/07-heartbeat.still.webp">
-<img src="banners/cyberpunk/07-heartbeat.webp" alt="A giant curved screen on a skyscraper showing a single cyan heartbeat line, its glow reflected on a wet neon street with cars and drones." width="100%">
-</picture>
+<img src="banners/steampunk/01-gauges.webp" alt="Steampunk brass control panel with four round white-faced gauges in a row, each needle at a different angle, pipes, valves and gears around them, lamps at both ends." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Blameless and ownerless are not the same thing." - [Blameless postmortems with teeth](https://maraschio.com/writing/blameless-postmortems-with-teeth/)
+> "You need mountains, long staircases don't make good hikers." - Amit Kalantri, Wealth of Words
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
