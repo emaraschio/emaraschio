@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/steampunk/01-gauges.webp" alt="Steampunk brass control panel with four round white-faced gauges in a row, each needle at a different angle, pipes, valves and gears around them, lamps at both ends." width="100%">
+<img src="banners/watercolor/02-seedling.webp" alt="Watercolor of a seedling growing from the top of a stack of books on a sunny windowsill above a hill town." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "You need mountains, long staircases don't make good hikers." - Amit Kalantri, Wealth of Words
+> "The part that is gone is writing code by hand."
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
