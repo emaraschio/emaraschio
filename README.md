@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/watercolor/02-seedling.webp" alt="Watercolor of a seedling growing from the top of a stack of books on a sunny windowsill above a hill town." width="100%">
+<img src="banners/poster/02-ratchet.webp" alt="Screenprint poster of a giant ratchet gear and pawl on a hilltop against a rising sun over a river valley." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "The part that is gone is writing code by hand."
+> "That's the part that is fully gone, and I don't think it will come back."
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
