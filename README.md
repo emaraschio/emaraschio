@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/poster/02-ratchet.webp" alt="Screenprint poster of a giant ratchet gear and pawl on a hilltop against a rising sun over a river valley." width="100%">
+<img src="banners/dark-psychology/01-strawman.webp" alt="Near-black night scene: a straw scarecrow on a wooden stand in a moonlit field, a heavy stone statue standing untouched in the shadows behind it." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "That's the part that is fully gone, and I don't think it will come back."
+> "Build versus buy is a false binary; the third option, integrate, is often the right one." - [Build, buy, or integrate](https://maraschio.com/writing/build-buy-or-integrate/)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
