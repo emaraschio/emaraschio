@@ -373,7 +373,8 @@
     "file": "pixel/02-local-ci.webp",
     "style": "pixel",
     "theme": "CI on a laptop",
-    "alt": "Isometric pixel-art office where a laptop feeds parcels onto a conveyor through a scanner arch with a green lamp, passed parcels stacked beyond it and one set aside under a red lamp; continuous integration running on one laptop."
+    "alt": "Isometric pixel-art office where a laptop feeds parcels onto a conveyor through a scanner arch with a green lamp, passed parcels stacked beyond it and one set aside under a red lamp; continuous integration running on one laptop.",
+    "still": "pixel/02-local-ci.still.webp"
   },
   {
     "file": "dark-psychology/03-anchor.webp",
@@ -1646,7 +1647,8 @@
     "file": "pixel/12-overnight-basement.webp",
     "style": "pixel",
     "theme": "The overnight run",
-    "alt": "Isometric pixel-art cutaway of a house asleep in the dark above a brightly lit basement full of humming machines, a moving conveyor and a steaming kettle, the glow leaking up the stairs; the overnight run works while the house sleeps."
+    "alt": "Isometric pixel-art cutaway of a house asleep in the dark above a brightly lit basement full of humming machines, a moving conveyor and a steaming kettle, the glow leaking up the stairs; the overnight run works while the house sleeps.",
+    "still": "pixel/12-overnight-basement.still.webp"
   },
   {
     "file": "cutaway/12-terrace-shared-walls.webp",
