@@ -627,7 +627,8 @@
     "file": "plate/04-governor.webp",
     "style": "plate",
     "theme": "The governor: a rate limit that holds itself",
-    "alt": "Engraved plate of a steam engine's centrifugal governor, its two brass balls swung out at speed and linked to a valve; a rate limit that enforces itself."
+    "alt": "Engraved plate of a steam engine's centrifugal governor, its two brass balls swung out at speed and linked to a valve; a rate limit that enforces itself.",
+    "still": "plate/04-governor.still.webp"
   },
   {
     "file": "pixel/04-quiet-window.webp",
@@ -1012,7 +1013,8 @@
     "file": "plate/07-seed-pod.webp",
     "style": "plate",
     "theme": "The retry that finds nothing",
-    "alt": "Engraved botanical plate of the same seed pod twice, once bursting with seeds in flight, once split again and empty; a retry can only release what is still there."
+    "alt": "Engraved botanical plate of the same seed pod twice, once bursting with seeds in flight, once split again and empty; a retry can only release what is still there.",
+    "still": "plate/07-seed-pod.still.webp"
   },
   {
     "file": "pixel/07-on-call.webp",
