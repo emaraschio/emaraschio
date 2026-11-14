@@ -243,6 +243,12 @@
     "alt": "Engraved encyclopedia plate of a brass hand bell with its parts, crown, handle, yoke and clapper, laid out around it on callout lines; an incident taken apart piece by piece."
   },
   {
+    "file": "pixel/01-agent-org.webp",
+    "style": "pixel",
+    "theme": "An org of agents, one messenger between them",
+    "alt": "Isometric pixel-art office of five desks, each with its own lamp and screen, and a small wheeled cart carrying one envelope down the aisle; an org of agents, each at its own desk, with one messenger between them."
+  },
+  {
     "file": "watercolor/03-oak.webp",
     "style": "watercolor",
     "theme": "Thinks in years, not days",
@@ -350,6 +356,12 @@
     "style": "plate",
     "theme": "Debt compounds chamber by chamber",
     "alt": "Engraved encyclopedia plate of a nautilus shell in section, each chamber larger than the last; debt grows the same way, every turn wider than the one before."
+  },
+  {
+    "file": "pixel/02-local-ci.webp",
+    "style": "pixel",
+    "theme": "CI on a laptop",
+    "alt": "Isometric pixel-art office where a laptop feeds parcels onto a conveyor through a scanner arch with a green lamp, passed parcels stacked beyond it and one set aside under a red lamp; continuous integration running on one laptop."
   },
   {
     "file": "dark-psychology/03-anchor.webp",
@@ -465,6 +477,12 @@
     "alt": "Engraved geological cross-section of folded dark strata with one fresh pale layer laid over them and plant roots reaching down; a migration adds a layer, it does not erase the old ones."
   },
   {
+    "file": "pixel/03-queue-dock.webp",
+    "style": "pixel",
+    "theme": "The queue has one gate",
+    "alt": "Isometric pixel-art loading dock with a long single file of wooden crates waiting along a lane, one barrier gate at the end and one crate passing through on rollers; a queue moves at the speed of its one gate."
+  },
+  {
     "file": "diorama/04-two-cottages.webp",
     "style": "diorama",
     "theme": "Bus factor of two",
@@ -576,6 +594,12 @@
     "alt": "Engraved plate of a steam engine's centrifugal governor, its two brass balls swung out at speed and linked to a valve; a rate limit that enforces itself."
   },
   {
+    "file": "pixel/04-quiet-window.webp",
+    "style": "pixel",
+    "theme": "The quiet window",
+    "alt": "Isometric pixel-art workshop with every machine switched off, a wall clock near the top of the hour, moonlight across the floor and a single standby lamp glowing; the quiet window, when nothing is allowed to start."
+  },
+  {
     "file": "steampunk/05-boiler.webp",
     "style": "steampunk",
     "theme": "The boiler: tech debt",
@@ -683,6 +707,12 @@
     "style": "plate",
     "theme": "Two kinds of review",
     "alt": "Engraved plate of a jeweler's loupe beside a wire sieve with grains caught on the mesh and a few fallen through; one review looks closely, the other lets the small things pass."
+  },
+  {
+    "file": "pixel/05-sandbox.webp",
+    "style": "pixel",
+    "theme": "A sandbox inside the room",
+    "alt": "Isometric pixel-art server room with a sealed glass box at its center holding one glowing cube, shelves and cables all around and nothing passing through the glass; a sandbox is a room inside the room."
   },
   {
     "file": "woodblock/06-baton.webp",
@@ -793,6 +823,12 @@
     "style": "plate",
     "theme": "Mark the baseline before you read",
     "alt": "Engraved plate of a long thermometer on a wooden board with a small arrow etched below the mercury where an earlier reading stood; no baseline, no measurement."
+  },
+  {
+    "file": "pixel/06-pneumatic-tube.webp",
+    "style": "pixel",
+    "theme": "The handoff travels in a tube",
+    "alt": "Isometric pixel-art of two small offices far apart joined by a long brass pneumatic tube with one capsule halfway along; a clean handoff carries the whole message, not a hint of it."
   },
   {
     "file": "matrix/14-rollback.webp",
@@ -907,6 +943,12 @@
     "alt": "Engraved botanical plate of the same seed pod twice, once bursting with seeds in flight, once split again and empty; a retry can only release what is still there."
   },
   {
+    "file": "pixel/07-on-call.webp",
+    "style": "pixel",
+    "theme": "One lamp on: the on-call rotation",
+    "alt": "Isometric pixel-art of three bedrooms side by side, each with a bed, a bedside lamp and a pager, only the middle lamp lit and its pager blinking; the on-call rotation means one lamp on at a time."
+  },
+  {
     "file": "hermetic/08-emerald-tablet.webp",
     "style": "hermetic",
     "theme": "Docs as the source of truth",
@@ -1014,6 +1056,12 @@
     "style": "plate",
     "theme": "Set once: the single-shot order",
     "alt": "Engraved plate of a wooden spring mousetrap in plan and in side view, set and tensioned; some actions fire once and cannot be asked twice."
+  },
+  {
+    "file": "pixel/08-kill-switch.webp",
+    "style": "pixel",
+    "theme": "The kill switch has a clear path",
+    "alt": "Isometric pixel-art server room with two rows of racks and one oversized red lever in a striped housing on the end wall, a clear marked path on the floor leading to it; a kill switch is only a switch if you can reach it."
   },
   {
     "file": "dark-psychology/18-reciprocity.webp",
@@ -1124,6 +1172,12 @@
     "alt": "Engraved exploded view of an iron hand lever, its pin, quadrant, rod, bell crank and the valve it closes floating apart along a dotted axis; a kill switch is a chain of parts that must all hold."
   },
   {
+    "file": "pixel/09-fallback-stairs.webp",
+    "style": "pixel",
+    "theme": "The fallback path",
+    "alt": "Isometric pixel-art cutaway of a three-storey building with the elevator stopped dark between floors and a lit staircase beside it running top to bottom; the fallback path is built before it is needed."
+  },
+  {
     "file": "matrix/10-kill-switch.webp",
     "style": "matrix",
     "theme": "The kill switch",
@@ -1231,6 +1285,12 @@
     "style": "plate",
     "theme": "The eval measures one tooth at a time",
     "alt": "Engraved plate of steel calipers closed on one tooth of a brass gear; an eval harness measures one thing precisely rather than everything vaguely."
+  },
+  {
+    "file": "pixel/10-backlog-shelves.webp",
+    "style": "pixel",
+    "theme": "The backlog's dusty row",
+    "alt": "Isometric pixel-art warehouse shelves full of fresh crates, with one high back row grey with dust and cobwebs and a crate tilted as if untouched for years; a backlog's oldest row tells you what you will never do."
   },
   {
     "file": "diorama/09-relay-baton.webp",
@@ -1345,6 +1405,12 @@
     "alt": "Engraved plate of a long rock core on two wooden cradles, its bands and seams marked by callouts and one stretch magnified; an audit trail is the record of every layer in the order it was laid."
   },
   {
+    "file": "pixel/11-read-back.webp",
+    "style": "pixel",
+    "theme": "The read-back",
+    "alt": "Isometric pixel-art conveyor carrying parcels through two scanner arches, the first stamping a mark and the second shining a beam back onto it before the parcel drops into a bin; a write counts when it reads back."
+  },
+  {
     "file": "hermetic/20-three-stages.webp",
     "style": "hermetic",
     "theme": "Three stages: a migration in reversible steps",
@@ -1447,5 +1513,11 @@
     "style": "plate",
     "theme": "The dead letter: a failure that finished",
     "alt": "Engraved plate of a shelf of open specimen jars and, apart from them, one jar sealed with wax and a blank tag; a dead letter is a failure that was allowed to finish and wait for a person."
+  },
+  {
+    "file": "pixel/12-overnight-basement.webp",
+    "style": "pixel",
+    "theme": "The overnight run",
+    "alt": "Isometric pixel-art cutaway of a house asleep in the dark above a brightly lit basement full of humming machines, a moving conveyor and a steaming kettle, the glow leaking up the stairs; the overnight run works while the house sleeps."
   }
 ]
