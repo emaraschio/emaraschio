@@ -775,7 +775,8 @@
     "file": "manuscript/05-phoenix-over-burned-margin.webp",
     "style": "manuscript",
     "theme": "The postmortem: new shoots above the burn",
-    "alt": "Illuminated roundel of a gold and red phoenix rising over a page whose lower margin is scorched black, with new green shoots growing just above the burn; a postmortem is what grows back above the burn."
+    "alt": "Illuminated roundel of a gold and red phoenix rising over a page whose lower margin is scorched black, with new green shoots growing just above the burn; a postmortem is what grows back above the burn.",
+    "still": "manuscript/05-phoenix-over-burned-margin.still.webp"
   },
   {
     "file": "steampunk/06-pocket-watch.webp",
@@ -1408,7 +1409,8 @@
     "file": "manuscript/10-gold-canary.webp",
     "style": "manuscript",
     "theme": "The canary sings first",
-    "alt": "Illuminated initial framing a stone window with a small gold canary singing on its sill and a dark mine tunnel beyond; the canary release is the one bright thing that speaks before the rest."
+    "alt": "Illuminated initial framing a stone window with a small gold canary singing on its sill and a dark mine tunnel beyond; the canary release is the one bright thing that speaks before the rest.",
+    "still": "manuscript/10-gold-canary.still.webp"
   },
   {
     "file": "diorama/09-relay-baton.webp",
