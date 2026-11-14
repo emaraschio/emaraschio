@@ -410,7 +410,8 @@
     "file": "cutaway/02-leak-below.webp",
     "style": "cutaway",
     "theme": "The leak shows up on the floor below",
-    "alt": "Cutaway townhouse: a pipe drips into a full bucket on the top floor, a brown stain spreads across the ceiling of the empty office below it, and the ground-floor meeting room waits with a ledger open; a muted failure surfaces one floor down, in a different conversation."
+    "alt": "Cutaway townhouse: a pipe drips into a full bucket on the top floor, a brown stain spreads across the ceiling of the empty office below it, and the ground-floor meeting room waits with a ledger open; a muted failure surfaces one floor down, in a different conversation.",
+    "still": "cutaway/02-leak-below.still.webp"
   },
   {
     "file": "woodblock/04-three-paths.webp",
@@ -1519,7 +1520,8 @@
     "file": "cutaway/11-drawbridge-old-road.webp",
     "style": "cutaway",
     "theme": "Rollback: keep the old road",
-    "alt": "Cutaway of a castle gatehouse with its drawbridge half raised and the winch room exposed above, while beside the moat the old stone bridge still stands and is still crossable; a rollback is the old road you kept."
+    "alt": "Cutaway of a castle gatehouse with its drawbridge half raised and the winch room exposed above, while beside the moat the old stone bridge still stands and is still crossable; a rollback is the old road you kept.",
+    "still": "cutaway/11-drawbridge-old-road.still.webp"
   },
   {
     "file": "plate/11-core-sample.webp",
