@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/blueprint/02-integration.webp" alt="Blueprint drawing of two railway lines of different gauges joined by a precise set of switches at a station." width="100%">
+<img src="banners/mosaic/01-lamp.webp" alt="Mosaic of small stone and gold tiles: a clay oil lamp with one steady flame on a ledge, its glow spreading in golden rings across a deep blue night sea between two hillside towns, framed by olive branches." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Program testing can be used to show the presence of bugs, but never to show their absence!" - Edsger W. Dijkstra, [Notes on Structured Programming (1970)](https://www.cs.utexas.edu/~EWD/ewd02xx/EWD249.PDF)
+> "Living for the future is more important than trying to avenge the past." - Kentaro Miura, Berserk
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
