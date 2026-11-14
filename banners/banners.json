@@ -261,6 +261,12 @@
     "alt": "Mosaic of a small stone clinic on a quiet street at night, its arched door open and lit from inside, warm windows and a lantern, a small red cross above the door, cypresses and dark houses around it."
   },
   {
+    "file": "cutaway/01-five-workshops.webp",
+    "style": "cutaway",
+    "theme": "Five pods, one hall",
+    "alt": "Cutaway of a long stone house: five different workshops side by side on the ground floor, a forge, a loom, a press, a lens bench, a carpentry shop, and one long shared table under skylights above them all; five pods, one direction."
+  },
+  {
     "file": "alien/02-translator.webp",
     "style": "alien",
     "theme": "The universal translator: write the memo",
@@ -386,6 +392,12 @@
     "style": "alien",
     "theme": "The probe: the eval",
     "alt": "Retro pulp sci-fi: a spindly-legged probe standing in a glowing lake, lowering a sensor into the water, rings of light spreading from the point of contact."
+  },
+  {
+    "file": "cutaway/02-leak-below.webp",
+    "style": "cutaway",
+    "theme": "The leak shows up on the floor below",
+    "alt": "Cutaway townhouse: a pipe drips into a full bucket on the top floor, a brown stain spreads across the ceiling of the empty office below it, and the ground-floor meeting room waits with a ledger open; a muted failure surfaces one floor down, in a different conversation."
   },
   {
     "file": "woodblock/04-three-paths.webp",
@@ -514,6 +526,12 @@
     "alt": "Retro pulp sci-fi: a vast crashed starship half buried in a luminous alien jungle, vines and fungi over its hull, one porthole still lit."
   },
   {
+    "file": "cutaway/03-lighthouse-monolith.webp",
+    "style": "cutaway",
+    "theme": "The monolith: one tower, every machine",
+    "alt": "Cutaway of a stone lighthouse laid on its side, a boiler, a gear train, a bell, a pump, a library and a kitchen each in its own chamber along one spiral stair, the great lamp at the far end; a monolith is one tower with every machine inside."
+  },
+  {
     "file": "charcoal/04-one-light.webp",
     "style": "charcoal",
     "theme": "Light from one direction",
@@ -640,6 +658,12 @@
     "style": "alien",
     "theme": "Terraforming: platform as a product",
     "alt": "Retro pulp sci-fi: domed greenhouses across a violet plain, green growth spilling from the open ones, tall towers releasing clouds and a new river starting to flow."
+  },
+  {
+    "file": "cutaway/05-vault-antechamber.webp",
+    "style": "cutaway",
+    "theme": "The gate before the write",
+    "alt": "Cutaway of a bank: a bright lobby, then a small antechamber with one door open and one shut, a stool and a ledger stand inside, and beyond it the vault with its round steel door; a gate before the write, where someone checks before anything moves."
   },
   {
     "file": "diorama/05-lit-room.webp",
@@ -771,6 +795,12 @@
     "alt": "Retro pulp sci-fi: five glowing hexagonal towers, each lit a different colour, joined by slender bridges to a central spire, spores drifting between them."
   },
   {
+    "file": "cutaway/06-ships-bridge.webp",
+    "style": "cutaway",
+    "theme": "The incident room has one chart table",
+    "alt": "Cutaway of a steamship: the bridge with one chart table, a wheel and a telegraph, the radio room below with one lamp lit and a logbook open, the engine room at rest beneath; an incident room has one table and one log."
+  },
+  {
     "file": "papercut/06-stone-pine.webp",
     "style": "papercut",
     "theme": "A flat organization",
@@ -891,6 +921,12 @@
     "style": "mosaic",
     "theme": "Audit trails as product",
     "alt": "Mosaic of a sunlit tiled courtyard where a trail of footprints runs from one archway past a central fountain to another, potted olive trees along the walls."
+  },
+  {
+    "file": "cutaway/07-greenhouse-inside.webp",
+    "style": "cutaway",
+    "theme": "The data boundary",
+    "alt": "Cutaway of a brick house whose central room is a sealed glass greenhouse, plants and a pond inside, dry plain rooms around it, the only way in a single closed glass door; sensitive data lives inside its own sealed room."
   },
   {
     "file": "alien/07-deep-signal.webp",
@@ -1022,6 +1058,12 @@
     "alt": "Mosaic of a pale theatre mask lying on a draped stone table, casting a shadow on the wall behind that is still clearly a human profile, framed by ivy."
   },
   {
+    "file": "cutaway/08-front-hall-doors.webp",
+    "style": "cutaway",
+    "theme": "Onboarding: every door marked by a shape",
+    "alt": "Cutaway of a long entrance hall with the front door open to a porch and a row of inner doors each carved with one plain shape, a circle, a triangle, a square, a crescent, a diamond, a different room behind each; onboarding is a hall where every door says what it is."
+  },
+  {
     "file": "alien/08-quarantine.webp",
     "style": "alien",
     "theme": "Quarantine: the sandbox",
@@ -1148,6 +1190,12 @@
     "alt": "Mosaic of a winding road cut into a cliffside and edged all along by a low stone wall, a horse and cart travelling on it, a river valley far below."
   },
   {
+    "file": "cutaway/09-bell-tower-rope.webp",
+    "style": "cutaway",
+    "theme": "The pager: one rope through every floor",
+    "alt": "Cutaway of a bell tower laid on its side, a single rope running through the watch room, the store, the clock room and the stair up to the great bell, its end hanging by the cot; the pager is one rope that reaches the person asleep."
+  },
+  {
     "file": "alien/09-mothership.webp",
     "style": "alien",
     "theme": "The mothership: the monolith",
@@ -1267,6 +1315,12 @@
     "style": "hermetic",
     "theme": "The phoenix: rebuild from the postmortem",
     "alt": "Gold engraving on deep green: a gold phoenix with wings spread across the frame rising from flames, broken gears and tools in the embers beneath it."
+  },
+  {
+    "file": "cutaway/10-mail-room-slot.webp",
+    "style": "cutaway",
+    "theme": "The review queue has one slot",
+    "alt": "Cutaway of a post office: a public hall with parcels and letters piled before a single brass slot, and behind the wall a sorting room filing what got through into a grid of pigeonholes; a review queue moves at the width of its one slot."
   },
   {
     "file": "mosaic/10-five-fountains.webp",
@@ -1399,6 +1453,12 @@
     "still": "embroidery/10-running-stitch.still.webp"
   },
   {
+    "file": "cutaway/11-drawbridge-old-road.webp",
+    "style": "cutaway",
+    "theme": "Rollback: keep the old road",
+    "alt": "Cutaway of a castle gatehouse with its drawbridge half raised and the winch room exposed above, while beside the moat the old stone bridge still stands and is still crossable; a rollback is the old road you kept."
+  },
+  {
     "file": "plate/11-core-sample.webp",
     "style": "plate",
     "theme": "The audit trail reads like a core sample",
@@ -1519,5 +1579,11 @@
     "style": "pixel",
     "theme": "The overnight run",
     "alt": "Isometric pixel-art cutaway of a house asleep in the dark above a brightly lit basement full of humming machines, a moving conveyor and a steaming kettle, the glow leaking up the stairs; the overnight run works while the house sleeps."
+  },
+  {
+    "file": "cutaway/12-terrace-shared-walls.webp",
+    "style": "cutaway",
+    "theme": "Small teams, clear seams",
+    "alt": "Cutaway of a terrace of five narrow houses under one roof, each with its own door and furnished differently inside, thick shared party walls between them with one small hatch each; small teams with clear seams and one roofline."
   }
 ]
