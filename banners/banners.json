@@ -237,6 +237,12 @@
     "alt": "Near-black night scene: a rowing boat half sunk in still water with coins spilling out, its rope still tied to a pier post where a lantern burns."
   },
   {
+    "file": "plate/01-dissected-bell.webp",
+    "style": "plate",
+    "theme": "The anatomy of an incident",
+    "alt": "Engraved encyclopedia plate of a brass hand bell with its parts, crown, handle, yoke and clapper, laid out around it on callout lines; an incident taken apart piece by piece."
+  },
+  {
     "file": "watercolor/03-oak.webp",
     "style": "watercolor",
     "theme": "Thinks in years, not days",
@@ -338,6 +344,12 @@
     "style": "charcoal",
     "theme": "Work from the big shapes down",
     "alt": "Charcoal skyline blocked in as plain boxes and cylinders, with only one tower in the middle drawn out with windows."
+  },
+  {
+    "file": "plate/02-nautilus.webp",
+    "style": "plate",
+    "theme": "Debt compounds chamber by chamber",
+    "alt": "Engraved encyclopedia plate of a nautilus shell in section, each chamber larger than the last; debt grows the same way, every turn wider than the one before."
   },
   {
     "file": "dark-psychology/03-anchor.webp",
@@ -447,6 +459,12 @@
     "alt": "Stained-glass panel of ruby diamonds and scrollwork where one cracked pane has been rejoined with a bright new lead line."
   },
   {
+    "file": "plate/03-strata.webp",
+    "style": "plate",
+    "theme": "A migration lays a new layer",
+    "alt": "Engraved geological cross-section of folded dark strata with one fresh pale layer laid over them and plant roots reaching down; a migration adds a layer, it does not erase the old ones."
+  },
+  {
     "file": "diorama/04-two-cottages.webp",
     "style": "diorama",
     "theme": "Bus factor of two",
@@ -552,6 +570,12 @@
     "alt": "Gold engraving on deep green: a rough crystal on the left dissolving into a stream of particles that pass through a retort over a flame and gather into a cleaner crystal on the right."
   },
   {
+    "file": "plate/04-governor.webp",
+    "style": "plate",
+    "theme": "The governor: a rate limit that holds itself",
+    "alt": "Engraved plate of a steam engine's centrifugal governor, its two brass balls swung out at speed and linked to a valve; a rate limit that enforces itself."
+  },
+  {
     "file": "steampunk/05-boiler.webp",
     "style": "steampunk",
     "theme": "The boiler: tech debt",
@@ -653,6 +677,12 @@
     "style": "risograph",
     "theme": "Manage the flood at the hose",
     "alt": "Risograph print of three hoses with valves pouring water into one pink funnel, which feeds a pipe that fills a row of four watering cans."
+  },
+  {
+    "file": "plate/05-loupe-and-sieve.webp",
+    "style": "plate",
+    "theme": "Two kinds of review",
+    "alt": "Engraved plate of a jeweler's loupe beside a wire sieve with grains caught on the mesh and a few fallen through; one review looks closely, the other lets the small things pass."
   },
   {
     "file": "woodblock/06-baton.webp",
@@ -757,6 +787,12 @@
     "style": "cyberpunk",
     "theme": "Compute has a cost",
     "alt": "Cyberpunk power substation feeding glowing cables into a huge windowless data center, steam rising from its cooling towers into the rain."
+  },
+  {
+    "file": "plate/06-thermometer.webp",
+    "style": "plate",
+    "theme": "Mark the baseline before you read",
+    "alt": "Engraved plate of a long thermometer on a wooden board with a small arrow etched below the mercury where an earlier reading stood; no baseline, no measurement."
   },
   {
     "file": "matrix/14-rollback.webp",
@@ -865,6 +901,12 @@
     "alt": "A round rose window in a pale wall, glowing gold at its centre and darkening ring by ring to deep violet at the rim."
   },
   {
+    "file": "plate/07-seed-pod.webp",
+    "style": "plate",
+    "theme": "The retry that finds nothing",
+    "alt": "Engraved botanical plate of the same seed pod twice, once bursting with seeds in flight, once split again and empty; a retry can only release what is still there."
+  },
+  {
     "file": "hermetic/08-emerald-tablet.webp",
     "style": "hermetic",
     "theme": "Docs as the source of truth",
@@ -966,6 +1008,12 @@
     "style": "poster",
     "theme": "Twenty years is nothing",
     "alt": "Screenprint poster of a bandoneon on a café chair on a cobblestone corner, streetlamps and balconies along a tree-lined avenue."
+  },
+  {
+    "file": "plate/08-mousetrap.webp",
+    "style": "plate",
+    "theme": "Set once: the single-shot order",
+    "alt": "Engraved plate of a wooden spring mousetrap in plan and in side view, set and tensioned; some actions fire once and cannot be asked twice."
   },
   {
     "file": "dark-psychology/18-reciprocity.webp",
@@ -1070,6 +1118,12 @@
     "alt": "Painted river at dusk turning to night, paper boats on stepping stones passing a small light from one boat to the next."
   },
   {
+    "file": "plate/09-lever-exploded.webp",
+    "style": "plate",
+    "theme": "The kill switch, piece by piece",
+    "alt": "Engraved exploded view of an iron hand lever, its pin, quadrant, rod, bell crank and the valve it closes floating apart along a dotted axis; a kill switch is a chain of parts that must all hold."
+  },
+  {
     "file": "matrix/10-kill-switch.webp",
     "style": "matrix",
     "theme": "The kill switch",
@@ -1171,6 +1225,12 @@
     "style": "alien",
     "theme": "The landing party: the on-call team",
     "alt": "Retro pulp sci-fi: a base camp of three glowing tents, a lamp, packs and a bare flagpole on an alien ridge at night, the scout ship parked behind."
+  },
+  {
+    "file": "plate/10-calipers-gear.webp",
+    "style": "plate",
+    "theme": "The eval measures one tooth at a time",
+    "alt": "Engraved plate of steel calipers closed on one tooth of a brass gear; an eval harness measures one thing precisely rather than everything vaguely."
   },
   {
     "file": "diorama/09-relay-baton.webp",
@@ -1279,6 +1339,12 @@
     "still": "embroidery/10-running-stitch.still.webp"
   },
   {
+    "file": "plate/11-core-sample.webp",
+    "style": "plate",
+    "theme": "The audit trail reads like a core sample",
+    "alt": "Engraved plate of a long rock core on two wooden cradles, its bands and seams marked by callouts and one stretch magnified; an audit trail is the record of every layer in the order it was laid."
+  },
+  {
     "file": "hermetic/20-three-stages.webp",
     "style": "hermetic",
     "theme": "Three stages: a migration in reversible steps",
@@ -1375,5 +1441,11 @@
     "style": "matrix",
     "theme": "The tested backup",
     "alt": "Green code rain on black: a wireframe city on a thin ridge reflected perfectly in a still black floor, a bright point of light where the city and its reflection meet."
+  },
+  {
+    "file": "plate/12-sealed-jar.webp",
+    "style": "plate",
+    "theme": "The dead letter: a failure that finished",
+    "alt": "Engraved plate of a shelf of open specimen jars and, apart from them, one jar sealed with wax and a blank tag; a dead letter is a failure that was allowed to finish and wait for a person."
   }
 ]
