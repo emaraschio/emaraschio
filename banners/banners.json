@@ -255,6 +255,12 @@
     "alt": "Watercolor of an oak sapling growing from cracked stone steps, the hills behind passing from spring to winter."
   },
   {
+    "file": "manuscript/01-charter.webp",
+    "style": "manuscript",
+    "theme": "The charter binds the pods",
+    "alt": "Illuminated initial on vellum framing a sealed parchment charter with five gold roundels around it, each bearing one plain shape, joined to it by gold lines; a charter is what holds the pods to one page."
+  },
+  {
     "file": "mosaic/02-clinic-door.webp",
     "style": "mosaic",
     "theme": "Downtime is a clinical event",
@@ -374,6 +380,12 @@
     "style": "dark-psychology",
     "theme": "Anchoring, named so you can see it",
     "alt": "Near-black still life: a heavy iron anchor on a table, its chain dragging one pan of a brass balance scale down while a few small weights sit on the other."
+  },
+  {
+    "file": "manuscript/02-snapped-chain.webp",
+    "style": "manuscript",
+    "theme": "A rule nothing holds",
+    "alt": "Illuminated initial framing a gilded measuring rule hanging from a gold chain with one link snapped open, the rule tilting over a starry night landscape; a rule nothing holds is a wish."
   },
   {
     "file": "night/04-city.webp",
@@ -501,6 +513,12 @@
     "alt": "Miniature rocky island at dusk with two keepers' cottages side by side beneath a lit lighthouse, small boats moored below."
   },
   {
+    "file": "manuscript/03-scroll-before-council.webp",
+    "style": "manuscript",
+    "theme": "The memo arrives before the council",
+    "alt": "Illuminated initial framing an empty council table with high-backed chairs and one unrolled scroll held flat by two stones under a candle, before anyone has arrived; write the memo before the meeting."
+  },
+  {
     "file": "dark-psychology/04-urgency.webp",
     "style": "dark-psychology",
     "theme": "Manufactured urgency, named so you can see it",
@@ -624,6 +642,12 @@
     "alt": "Steampunk boiler patched with mismatched riveted plates, bandaged pipes and one shiny new brass panel, a small flame burning underneath, blueprints on the wall."
   },
   {
+    "file": "manuscript/04-two-columns-of-beads.webp",
+    "style": "manuscript",
+    "theme": "The ledger: two columns, one shorter",
+    "alt": "Illuminated initial on gold framing a counting table with a tall column of red beads, a shorter column of blue beads and a brass balance tipped toward the taller; a ledger tells you which column is winning."
+  },
+  {
     "file": "blueprint/05-weather.webp",
     "style": "blueprint",
     "theme": "Observability",
@@ -745,6 +769,12 @@
     "alt": "Woodblock print of one hand passing a glowing baton to another above a winding road and a rising sun."
   },
   {
+    "file": "manuscript/05-phoenix-over-burned-margin.webp",
+    "style": "manuscript",
+    "theme": "The postmortem: new shoots above the burn",
+    "alt": "Illuminated roundel of a gold and red phoenix rising over a page whose lower margin is scorched black, with new green shoots growing just above the burn; a postmortem is what grows back above the burn."
+  },
+  {
     "file": "steampunk/06-pocket-watch.webp",
     "style": "steampunk",
     "theme": "The pocket watch: lead time",
@@ -859,6 +889,12 @@
     "style": "pixel",
     "theme": "The handoff travels in a tube",
     "alt": "Isometric pixel-art of two small offices far apart joined by a long brass pneumatic tube with one capsule halfway along; a clean handoff carries the whole message, not a hint of it."
+  },
+  {
+    "file": "manuscript/06-knotted-cord.webp",
+    "style": "manuscript",
+    "theme": "Every handoff needs a knot",
+    "alt": "A thick red cord crosses an illuminated initial over a river landscape, tied in one firm knot at the center and fastened to a gold ring in the margin; every handoff needs a knot that holds."
   },
   {
     "file": "matrix/14-rollback.webp",
@@ -985,6 +1021,12 @@
     "alt": "Isometric pixel-art of three bedrooms side by side, each with a bed, a bedside lamp and a pager, only the middle lamp lit and its pager blinking; the on-call rotation means one lamp on at a time."
   },
   {
+    "file": "manuscript/07-quill-and-seal.webp",
+    "style": "manuscript",
+    "theme": "The written reason",
+    "alt": "Illuminated initial framing a writing desk with a quill laid down, an inkwell, a candle and a document sealed in red wax still glossy; a decision is not done until the reason is written and sealed."
+  },
+  {
     "file": "hermetic/08-emerald-tablet.webp",
     "style": "hermetic",
     "theme": "Docs as the source of truth",
@@ -1104,6 +1146,12 @@
     "style": "pixel",
     "theme": "The kill switch has a clear path",
     "alt": "Isometric pixel-art server room with two rows of racks and one oversized red lever in a striped housing on the end wall, a clear marked path on the floor leading to it; a kill switch is only a switch if you can reach it."
+  },
+  {
+    "file": "manuscript/08-key-between-hooks.webp",
+    "style": "manuscript",
+    "theme": "A no that names the next owner",
+    "alt": "Illuminated initial framing a stone wall with two iron hooks, the left one empty and a gold key hanging from the right on a blue ribbon that still trails back toward the left; a no that names the next owner is a handoff."
   },
   {
     "file": "dark-psychology/18-reciprocity.webp",
@@ -1226,6 +1274,12 @@
     "alt": "Isometric pixel-art cutaway of a three-storey building with the elevator stopped dark between floors and a lit staircase beside it running top to bottom; the fallback path is built before it is needed."
   },
   {
+    "file": "manuscript/09-chained-book.webp",
+    "style": "manuscript",
+    "theme": "The runbook stays chained to the desk",
+    "alt": "Illuminated initial framing a heavy book open on a lectern and chained to it, its pages ruled blank except for one small painted diagram of steps, a candle lit beside it; the runbook stays where the incident happens."
+  },
+  {
     "file": "matrix/10-kill-switch.webp",
     "style": "matrix",
     "theme": "The kill switch",
@@ -1345,6 +1399,12 @@
     "style": "pixel",
     "theme": "The backlog's dusty row",
     "alt": "Isometric pixel-art warehouse shelves full of fresh crates, with one high back row grey with dust and cobwebs and a crate tilted as if untouched for years; a backlog's oldest row tells you what you will never do."
+  },
+  {
+    "file": "manuscript/10-gold-canary.webp",
+    "style": "manuscript",
+    "theme": "The canary sings first",
+    "alt": "Illuminated initial framing a stone window with a small gold canary singing on its sill and a dark mine tunnel beyond; the canary release is the one bright thing that speaks before the rest."
   },
   {
     "file": "diorama/09-relay-baton.webp",
@@ -1471,6 +1531,12 @@
     "alt": "Isometric pixel-art conveyor carrying parcels through two scanner arches, the first stamping a mark and the second shining a beam back onto it before the parcel drops into a bin; a write counts when it reads back."
   },
   {
+    "file": "manuscript/11-one-cut-ribbon.webp",
+    "style": "manuscript",
+    "theme": "One decision among many open options",
+    "alt": "Illuminated initial on gold framing a rod of neatly tied ribbons in blue, green and red, with one ribbon at the center cut cleanly through and a pair of shears below; a decision is the one ribbon you cut."
+  },
+  {
     "file": "hermetic/20-three-stages.webp",
     "style": "hermetic",
     "theme": "Three stages: a migration in reversible steps",
@@ -1585,5 +1651,11 @@
     "style": "cutaway",
     "theme": "Small teams, clear seams",
     "alt": "Cutaway of a terrace of five narrow houses under one roof, each with its own door and furnished differently inside, thick shared party walls between them with one small hatch each; small teams with clear seams and one roofline."
+  },
+  {
+    "file": "manuscript/12-pilgrim-road.webp",
+    "style": "manuscript",
+    "theme": "Thinks in years: the long road",
+    "alt": "Illuminated initial framing a winding road that passes fields, a mill and a stone bridge and climbs to a chapel on a far hill under a gold sky, the road empty and long; think in years, not days."
   }
 ]
