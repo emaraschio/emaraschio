@@ -1657,5 +1657,11 @@
     "style": "manuscript",
     "theme": "Thinks in years: the long road",
     "alt": "Illuminated initial framing a winding road that passes fields, a mill and a stone bridge and climbs to a chapel on a far hill under a gold sky, the road empty and long; think in years, not days."
+  },
+  {
+    "file": "cutaway/04-station-platform.webp",
+    "style": "cutaway",
+    "theme": "The platform feeds every shop above",
+    "alt": "Cutaway of one long underground station hall with a waiting train, and from it separate stairways and escalators rising to a bakery, a library, a glasshouse florist, a clockmaker and a tailor on the street above; a platform is one product that many teams build on."
   }
 ]
