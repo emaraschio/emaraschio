@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/mosaic/01-lamp.webp" alt="Mosaic of small stone and gold tiles: a clay oil lamp with one steady flame on a ledge, its glow spreading in golden rings across a deep blue night sea between two hillside towns, framed by olive branches." width="100%">
+<img src="banners/alien/01-first-contact.webp" alt="Retro pulp sci-fi: a small scout ship with its ramp down on a glowing alien meadow, a lantern set at the foot of the ramp, luminous plants leaning in, two moons above." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Living for the future is more important than trying to avenge the past." - Kentaro Miura, Berserk
+> "AI is very good at producing code that survives recognition and collapses under recall." - [Cognitive debt is the quiet one](https://maraschio.com/writing/cognitive-debt-is-the-quiet-one/)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
