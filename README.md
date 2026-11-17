@@ -1,9 +1,12 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/papercut/02-bonsai.webp" alt="Papercut diorama of a pruned bonsai on a low table, the cut branches and shears laid beside it, a lake beyond." width="100%">
+<picture>
+<source media="(prefers-reduced-motion: reduce)" srcset="banners/matrix/11-canary.still.webp">
+<img src="banners/matrix/11-canary.webp" alt="Green code rain on black: a long row of dark server cabinets with only the first one lit and running, a glowing birdcage with a bird inside hanging in front of it." width="100%">
+</picture>
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Nobody has ever refactored a system by memo." - [Conway's law is a planning tool](https://maraschio.com/writing/conways-law-is-a-planning-tool/)
+> "People change faster when they co-author the diagnosis." - [Curiosity before conclusions](https://maraschio.com/writing/curiosity-before-conclusions/)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
