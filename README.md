@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/dark-psychology/11-gaslighting.webp" alt="Near-black interior: a wall lamp turned down low beside a fogged mirror, and on the table below an open ledger whose pages are still clear in the dim light." width="100%">
+<img src="banners/hermetic/11-four-elements.webp" alt="Gold engraving on deep green: four element triangles in a row, each holding a small scene of fire, sea, sky and mountain, joined by gold rings with a balance scale beneath." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Beware of bugs in the above code; I have only proved it correct, not tried it." - Donald Knuth, [a 1977 memo](https://www-cs-faculty.stanford.edu/~knuth/faq.html)
+> "With agents, you need to define certain boundaries."
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
