@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/hermetic/11-four-elements.webp" alt="Gold engraving on deep green: four element triangles in a row, each holding a small scene of fire, sea, sky and mountain, joined by gold rings with a balance scale beneath." width="100%">
+<img src="banners/stained-glass/02-two-way-doors.webp" alt="A pair of stained-glass doors in an old stone wall, one propped open onto a sunlit garden, casting coloured light on the flagstones." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "With agents, you need to define certain boundaries."
+> "We do not have the power now to melt the snow that lies thick around us. Perhaps we wanted merely to feel the warmth in each other, a warmth we had in common." - Kentaro Miura, Berserk
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
