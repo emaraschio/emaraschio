@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/stained-glass/02-two-way-doors.webp" alt="A pair of stained-glass doors in an old stone wall, one propped open onto a sunlit garden, casting coloured light on the flagstones." width="100%">
+<img src="banners/cyberpunk/01-night-shift.webp" alt="Cyberpunk server alley in the rain at night, small white service robots working at glowing terminals between the racks, magenta and cyan neon reflecting on the wet ground." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "We do not have the power now to melt the snow that lies thick around us. Perhaps we wanted merely to feel the warmth in each other, a warmth we had in common." - Kentaro Miura, Berserk
+> "A model grading a model with a vague rubric just launders an opinion." - [Eval harnesses before agents](https://maraschio.com/writing/eval-harnesses-before-agents/)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
