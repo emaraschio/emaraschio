@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/matrix/02-harness.webp" alt="Green code rain on black: a row of glass test chambers on a rail, each holding a glowing sphere and lit with a check mark, one chamber dark, a conveyor feeding them from the left." width="100%">
+<img src="banners/diorama/02-toolbox-counter.webp" alt="Miniature workshop counter handing out identical red toolboxes to a line of small clay figures on a cobbled street." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Hire the person who makes you feel ordinary in your own domain." - [Hire people better than you](https://maraschio.com/writing/hire-people-better-than-you/)
+> "I am the owner of the harness that every engineer uses."
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
