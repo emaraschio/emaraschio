@@ -1,9 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/embroidery/02-sashiko-patch.webp" alt="A worn indigo cloth on linen with a frayed spot mended by a patch of white sashiko stitches, a needle and white thread beside it." width="100%">
+<img src="banners/hermetic/02-correspondence.webp" alt="Gold engraving on deep green: a constellation joined by lines in the night sky over mountains, and the same pattern mirrored below as gold roads between small towns, as above so below." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Plausible and correct are different words, and the gap between them is where the incidents live." - [Hiring for an AI-native team](https://maraschio.com/writing/hiring-for-an-ai-native-team/)
+> "The price of reliability is the pursuit of the utmost simplicity. It is a price which the very rich find most hard to pay." - C. A. R. Hoare, The Emperor's Old Clothes (1980)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
