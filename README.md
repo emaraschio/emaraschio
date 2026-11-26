@@ -1,9 +1,12 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/hermetic/02-correspondence.webp" alt="Gold engraving on deep green: a constellation joined by lines in the night sky over mountains, and the same pattern mirrored below as gold roads between small towns, as above so below." width="100%">
+<picture>
+<source media="(prefers-reduced-motion: reduce)" srcset="banners/risograph/02-loop-track.still.webp">
+<img src="banners/risograph/02-loop-track.webp" alt="Risograph print of a toy steam train on an oval track that loops through rolling hills, past a station, a stone viaduct, a tunnel and small signal posts with flags." width="100%">
+</picture>
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "The price of reliability is the pursuit of the utmost simplicity. It is a price which the very rich find most hard to pay." - C. A. R. Hoare, The Emperor's Old Clothes (1980)
+> "New eras don't come about because of swords, they're created by the people who wield them." - Kenshin Himura, Rurouni Kenshin
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
