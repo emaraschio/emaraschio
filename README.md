@@ -1,12 +1,9 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<picture>
-<source media="(prefers-reduced-motion: reduce)" srcset="banners/risograph/02-loop-track.still.webp">
-<img src="banners/risograph/02-loop-track.webp" alt="Risograph print of a toy steam train on an oval track that loops through rolling hills, past a station, a stone viaduct, a tunnel and small signal posts with flags." width="100%">
-</picture>
+<img src="banners/charcoal/02-erased-edge.webp" alt="Sketchbook spread with a faint, half-erased outline of a cottage on the left and a finished charcoal cottage and tree on the right." width="100%">
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "New eras don't come about because of swords, they're created by the people who wield them." - Kenshin Himura, Rurouni Kenshin
+> "Naming the cost yourself is what separates an opinion from a sales pitch." - [How to share a point of view](https://maraschio.com/writing/how-to-share-a-point-of-view/)
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
