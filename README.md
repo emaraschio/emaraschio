@@ -1,9 +1,12 @@
 <!-- banner:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-<img src="banners/charcoal/02-erased-edge.webp" alt="Sketchbook spread with a faint, half-erased outline of a cottage on the left and a finished charcoal cottage and tree on the right." width="100%">
+<picture>
+<source media="(prefers-reduced-motion: reduce)" srcset="banners/steampunk/02-pressure-valve.still.webp">
+<img src="banners/steampunk/02-pressure-valve.webp" alt="Steampunk riveted copper boiler venting steam from a brass safety valve, its gauge needle in the red, a red wheel valve on the inlet pipe, a city of bridges through the windows." width="100%">
+</picture>
 <!-- banner:end -->
 
 <!-- quote:start (rotated daily by .github/workflows/rotate-banner.yml) -->
-> "Naming the cost yourself is what separates an opinion from a sales pitch." - [How to share a point of view](https://maraschio.com/writing/how-to-share-a-point-of-view/)
+> "Those things that you are expecting are the evals."
 <!-- quote:end -->
 
 I'm **Ezequiel Maraschio**, Director of Engineering at [Circle Medical](https://www.circlemedical.com/). I build teams that ship healthcare products patients and providers depend on.
